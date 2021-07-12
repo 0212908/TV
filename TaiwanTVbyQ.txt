@@ -10,6 +10,7 @@ CNN國際新聞|５,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7
 華視|１２,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx#tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX#tvbus://5fBSSdxDCwiMGu78eXCcAGdrMrRJMgRoi9AwsmFD8t37G5WGbw1z9pxZW5iv1#rtmp://161.202.204.248:1935/sat/tv111
 公視|１３,tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5#tvbus://7gZG9TtGAevuGZ6z3sUYaPxrr8zeqP5pAPMS6o2HVTag7yh4Bm#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 公視2|台語台１４,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
+好消息|綜合台１５,http://live.streamingfast.net/osmflivech1.m3u8
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
 客家電視台|１７,tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
 國家地理頻道|１８,tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W#rtmp://58.200.131.2:1935/livetv/natlgeo#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
@@ -130,4 +131,4 @@ CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5x
 愛爾達影劇台|３５５,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 希望電視台|４１１,tvbus://6XAXMTpAZewLnNstKjwysvqqJ4QZbKgW3za2rBdnbYMu1Khc81pg27JVtSSXu
 唯心電視台|４１２,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-好消息二台|４１５,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
+好消息二台|真理台４１５,http://live.streamingfast.net/osmflivech2.m3u8,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
