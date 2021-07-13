@@ -71,7 +71,7 @@ TVB 星河,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1872
 TVB經典,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1083
 TVB Jade,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1084
 衛視卡式臺,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1085
-稳定刚傲,#genre#
+稳定刚傲
 鳳凰卫视資訊台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P#http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰卫视中文台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#https://player.ggiptv.com/v/ifeng.php?id=3
@@ -84,7 +84,7 @@ TVB Jade,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1084
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-mitv源,#genre#
+mitv源
 东森新闻台,mitv://ns2.hellotvvod.com:9906/800654ac7ac445b396dc7324fc62f2b4.ts
 中天新闻台,mitv://ns2.hellotvvod.com:9906/1f92c6c7572a4cdda568d418b7747d72.ts
 民视新闻台,mitv://ns2.hellotvvod.com:9906/ceff0b57418b493eb27468a2f577e088.ts
@@ -122,7 +122,7 @@ BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-安博港湾2,#genre#
+安博港湾2
 東森新聞,http://44.18161816.xyz/dl/ub.php?id=1016
 中天新聞,http://44.18161816.xyz/dl/ub.php?id=3
 民視新聞,http://44.18161816.xyz/dl/ub.php?id=13
@@ -187,7 +187,7 @@ ABC Song,http://44.18161816.xyz/dl/ub.php?id=115
 MY KIDS,http://44.18161816.xyz/dl/ub.php?id=1495
 Disney Junior,http://44.18161816.xyz/dl/ub.php?id=460
 BabyTV,http://44.18161816.xyz/dl/ub.php?id=1241
-感奥苔高清,#genre#
+感奥苔高清
 有线18台,rtmp://59.124.75.130/sat/hk042
 中视,rtmp://59.124.75.130/sat/tv091
 华视,rtmp://59.124.75.130/sat/tv112
@@ -216,7 +216,7 @@ Mono综合,rtmp://59.124.75.130:1935/sat/tv761
 FOX体育,rtmp://59.124.75.130:1935/sat/tv731
 FOX2体育,rtmp://59.124.75.130:1935/sat/tv741
 TVBS新聞,rtmp://59.124.75.130/sat/tv551
-感奥苔极速_0603,#genre#
+感奥苔极速_0603
 翡翠台,http://23.224.121.115/dai/tang.php?id=jade
 翡翠台1,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -238,7 +238,7 @@ CNN,http://218.202.220.2:5000/nn_live.ts?id=CNN
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 Fox Family,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-感奥苔极速2_0603,#genre#
+感奥苔极速2_0603
 TVB 翡翠台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-81&token=asd423gasg665
 TVB J2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-82&token=asd423gasg665
 TVB 新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-83&token=asd423gasg665
@@ -276,7 +276,7 @@ ViuTV,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-99&token=asd423gasg665
 鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8
 鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-感奥苔备用,#genre#
+感奥苔备用
 ELTA影劇,mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
 ELTA影劇,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
 ELTA綜合,mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
@@ -718,7 +718,7 @@ TVBS歡樂 (備三),mitv://fccsovh.pvbox.live:18912/5c72488a000a56b7c62c388ca356
 年代新聞 (備一),mitv://fccseuro.pvbox.live:18912/5c2dd76000032856cd7039eebf7f8190
 年代新聞 (備一),mitv://fccseuro.pvbox.live:18912/5c72489b000f0c1f30367ceb328beb23
 年代新聞 (備一),mitv://fccsovh.pvbox.live:18912/5b1409fd000a726993cfe01bb3d031d2
-感奥苔备用2,#genre#
+感奥苔备用2
 WWE,http://47.242.54.220/daili/ce50.php?gun=3&id=wwe_pye
 天映经典,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial2_pye
 天映频道,http://47.242.54.220/daili/ce50.php?gun=3&id=celestial_pye
@@ -763,7 +763,7 @@ ASTRO WAH LAI TOI,http://47.242.54.220/daili/ce50.php?gun=2&id=Wlt
 Channel 8,http://47.242.54.220/daili/ce50.php?gun=2&id=Channel8
 Channel 5,http://47.242.54.220/daili/ce50.php?gun=2&id=Channel5
 Channel U,http://47.242.54.220/daili/ce50.php?gun=2&id=ChannelU
-感奥苔测试3,#genre#
+感奥苔测试3
 J2台,http://47.242.54.220/daili/yang.php?token=askj32332saas&tid=zdy2&id=j2
 J2台,http://47.242.54.220/daili/yang.php?token=askj32332saas&tid=zdy4&id=j2
 J2台,http://47.242.54.220/daili/yang.php?token=askj32332saas&tid=xg2a&id=j2
@@ -800,7 +800,7 @@ Viutv6,http://47.242.54.220/daili/yang.php?token=askj32332saas&tid=xg2a&id=viutv
 开电视,http://47.242.54.220/daili/yang.php?token=askj32332saas&tid=zdy2&id=kds
 开电视,http://47.242.54.220/daili/yang.php?token=askj32332saas&tid=zdy4&id=kds
 开电视,http://47.242.54.220/daili/yang.php?token=askj32332saas&tid=xg2a&id=kds
-日本频道,#genre#
+日本频道
 日本∣BRE,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 日テレ,http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
@@ -842,7 +842,7 @@ BS TBS,http://203.162.235.41:16913
 BSフジ,http://203.162.235.41:16911
 テレビ东京,http://203.162.235.41:16908
 BS东京,http://203.162.235.41:16915
-歪果频道,#genre#
+歪果频道
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 cnns,http://a3569458063-s26881.cdn.ngenix.net/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
 CNN International,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -886,7 +886,7 @@ Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
 俄罗斯 Ⅰ OR 音乐频道,http://rtmp.one.by:2200/
 意大利 Ⅰ V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
 西班牙 Ⅰ 中国环球 (西班牙),http://livees.cgtn.com/1000e/prog_index.m3u8
-海外频道,#genre#
+海外频道
 KBS 2,http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=&apikey=OANLA7MNOY
 SBS,http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=&apikey=OANLA7MNOY
 MBC,http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=M01&q=&apikey=OANLA7MNOY
@@ -990,8 +990,7 @@ CYC世新綜合|４９,http://61.58.60.230:9319/live/49.m3u8
 中天新聞台|５２,http://seb.sason.top/sc/ztxw_fhd.m3u8#tvbus://7UHpuAACKw56RQXMGVVXYPryYa7v8nJpEGnACG5WpCNupZXuLc#
 民視新聞台|５３,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8
 三立新聞台|５４,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8#tvbus://6WxVzF559pzcD3LF3jGWZLz5cVHqsBkzm42eB7Uc7xhYtxHyS1bZTRUWkEguQ#tvbus://7YZWC167sdVy4xDaeGwu56oLobQxvyG4KfCdU6zY8jr8c6Smsb#tvbus://6BPkoTzjx1a4Bu7bLY4Xbft7nEgFjACpgrLmcaYrL9SCJ14Kgqq7hJDXadxQJ#tvbus://5cwGJpWNtUKi6osPYwMrGPt3mfGQnmS2ZkuGCPnsvfmBqKoba1JydtMDUynb7
-三立新聞台2|５４,http://seb.sason.top/sc/sllive_fhd.m3u8#tvbus://6WxVzF559pzcD3LF3jGWZLz5cVHqsBkzm42eB7Uc7xhYtxHyS1bZTRUWkEguQ#tvbus://7YZWC167sdVy4xDaeGwu56oLobQxvyG4KfCdU6zY8jr8c6Smsb#tvbus://6BPkoTzjx1a4Bu7bLY4Xbft7nEgFjACpgrLmcaYrL9SCJ14Kgqq7hJDXadxQJ#tvbus://5cwGJpWNtUKi6osPYwMrGPt3mfGQnmS2ZkuGCPnsvfmBqKoba1JydtMDUynb7#tvbus://6grJ5Kh3Y5LeEyJg6db6eEz2opG8Yd3yN4UAezPc3k1o8HRS2PE6PQuR3fmhN#tvbus://5fVoWnfWFQtnZ49MckmFpNnQ3aNsjAJPExFjAuhQixA1ouZNCzTxgokrcSDYY#tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
-三立LIVE新聞|５４,http://seb.sason.top/sc/sllive_fhd.m3u8#tvbus://6grJ5Kh3Y5LeEyJg6db6eEz2opG8Yd3yN4UAezPc3k1o8HRS2PE6PQuR3fmhN#tvbus://5fVoWnfWFQtnZ49MckmFpNnQ3aNsjAJPExFjAuhQixA1ouZNCzTxgokrcSDYY#tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
+三立LIVE新聞|５４,http://seb.sason.top/sc/sllive_fhd.m3u8
 TVBS新聞台|５５,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3##tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB#tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9#tvbus://6KxfkSoU56HDWea64uocvh7CTtc4Wq67mqQzw24vWqBavv19xEHDToAGitsG8#tvbus://5TZxcd2Pzyvmc2n5B54G2QaVmrJdb3JPtVNaeg3gLBw2aqNtGM7Lt5PJ4Es7K
 TVBS|５６,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8#http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#tvbus://7DEtCmyxRnfvA1VSsvwavm42Jo9LAYjp8jNVgFDyuBjWE4mTAz#tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z#tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
 東森財經新聞台|５７,http://seb.sason.top/sc/dscjxw_fhd.m3u8#tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB#tvbus://7YpF7VbL4JJRLGYJHvurtd2KsVQ1xdkZSsGJAhfvtDkjdhKgma#tvbus://5wwi3y9MzBLXka9eTVFY48EKgx5xRmLETDdsesPVwK8gAmeujrjM6oJcGbzdE#rtmp://161.202.204.248:1935/sat/tv571
