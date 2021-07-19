@@ -3,6 +3,7 @@
 MOD電影推薦|１,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8?ar=0&as=1
 縣公用頻道|２,http://61.58.60.230:9319/live/2.m3u8
 市公用頻道|３,http://61.58.60.230:9319/live/3.m3u8
+桐瑛台南台|４,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCnBeKp96tQ0DD6s6D6BZGig/live
 CNN國際新聞|５,http://218.202.220.2:5000/nn_live.ts?id=CNN#tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V,
 民視|６,http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8#tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd#tvbus://6Lj9rFEdKejTmFCH2Kv7jX2G56jH6y1zu7sNmRWp1qGYpyWzZk4tgPKnwWSi2#rtmp://161.202.204.248:1935/sat/tv051#mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
 台視|８,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc#tvbus://6Q1Sse26Zx4Bb33LwYrUXekJwjGu5ogGDiBiqTbonztTEr7bESCCm5BY4s1xb#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=uDqQo8a7Xmk#rtmp://161.202.204.248:1935/sat/tv071#mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#mitv://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
@@ -35,6 +36,7 @@ tvN|３１,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
 衛視中文台|３１,tvbus://6b7sWQXkuKumRbpqkoGxkW4cKZXXnW93KDY1tnVQq5CneNeZAEQduCLST2xKW#tvbus://8RszbvB7e8knMo7EUqEzXPdZuTFVUbj8ShxYwA7Nojjjv5dany#mitv://fccseuro.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e#mitv://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
 東森綜合台|３２,tvbus://5Qrgum8xNNX2B7wtwBCTiVb3Lse9teDkoL1cbqFr3rKBK79tp5czXXpKBMj4z#mitv://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061#mitv://fccsovh.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
 東森超視|３３,tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH#rtmp://161.202.204.248:1935/sat/tv771
+彰化資訊台|３４,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCtZ_IzWQUaUcshHcUoFNXbg/live
 中天綜合台|３６,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8#tvbus://5rgD9pjmXsTKdWcJnpJuJyrvUnaBotkNk8Yr38KkcZVUyNRcCTu2bhPnMFfMN#mitv://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4
 東風衛視|３７,mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
 年代MUCH|３８,mitv://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#mitv://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
@@ -57,6 +59,7 @@ CYC世新綜合|４９,http://61.58.60.230:9319/live/49.m3u8
 TVBS新聞台|５５,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live#tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB#tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9#tvbus://6KxfkSoU56HDWea64uocvh7CTtc4Wq67mqQzw24vWqBavv19xEHDToAGitsG8#tvbus://5TZxcd2Pzyvmc2n5B54G2QaVmrJdb3JPtVNaeg3gLBw2aqNtGM7Lt5PJ4Es7K#mitv://fccseuro.pvbox.live:18912/60728727000c9f1e6b478352546e3859#mitv://fccsovh.pvbox.live:18912/60728727000c9f1e6b478352546e3859
 TVBS|綜合台５６,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8#http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live#tvbus://7DEtCmyxRnfvA1VSsvwavm42Jo9LAYjp8jNVgFDyuBjWE4mTAz#tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z#tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK#mitv://fccseuro.pvbox.live:18912/5b140960000c982bf20a21204526e2d1#mitv://fccsovh.pvbox.live:18912/5b140960000c982bf20a21204526e2d1
 東森財經新聞台|５７,http://seb.sason.top/sc/dscjxw_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/user/57ETFN/live#tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB#tvbus://7YpF7VbL4JJRLGYJHvurtd2KsVQ1xdkZSsGJAhfvtDkjdhKgma#tvbus://5wwi3y9MzBLXka9eTVFY48EKgx5xRmLETDdsesPVwK8gAmeujrjM6oJcGbzdE#rtmp://161.202.204.248:1935/sat/tv571#mitv://fccseuro.pvbox.live:18912/5b1409f30008c7760334bb18f99bb67b#mitv://fccsovh.pvbox.live:18912/5b1409f30008c7760334bb18f99bb67b
+57彩券王|５７,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCK1Zh_2KvKKFkDBCSYuLjAw/live
 非凡新聞台|５８,tvbus://7fcGBVVLMEQdPr3aLn8RPPBNryvRgacDd9Deq6APwTGqXMaChg#tvbus://6fFJfrc7GqviCHEg6jXkNAALyqTEdBbRkPFHePCnZCfEJ9Zzgcyd9Zu183Z9Q#mitv://fccseuro.pvbox.live:18912/5c2dd766000ecf4afbbc524f35790871#mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4afbbc524f35790871#mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4afbbc524f35790871
 衛視卡式台|６０,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
 衛視電影台|６１,tvbus://5au5QAR4QVNUXum4PLi7zF3TyoxTfWv6cWRboJuXkkZSaNcYAGdNHjccAxVUQ#tvbus://5nrQfGeXF6VSqVjRZuXZmZWnMudS8QwB8zepgB92xeJe7d7x8JbH8QsffNb2q#tvbus://6TYstdwjGu5PCmLandzpyAdnYYbt4ZePzsdKn76svDQprAr7mQts2p1KikVqx#mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca614e383e2e7ea78ddd8#mitv://fccsovh.pvbox.live:18912/5c2dd76a000ca614e383e2e7ea78ddd8
@@ -84,6 +87,7 @@ FOX|HD７９,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8#tvbus:
 CHANNEL[V]|８０,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv#rtmp://58.200.131.2:1935/livetv/channelv#rtmp://58.200.131.3:1935/livetv/channelv
 MTV Live HD|８０,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs#p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
 Z頻道|８１,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq#p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts#mitv://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc#mitv://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
+信吉電視台|８２,https://linkastream.co/headless?url=https://www.youtube.com/channel/UC8URZ5vhlSU_Z0uWCglzGTA/live
 momo綜合台|８３,rtmp://161.202.204.248:1935/sat/tv761
 寰宇新聞|８５,tvbus://7beSKBhbYwem2JMcyAPiw9Lq15919uQamc7r6Srh1Kq6TyFLWm#tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
 八大娛樂台|８６,tvbus://68HTXA74c984HSYJrg7um6zdoF8KwdpiCsr76CjGKuW6gYTSabfKgqxNd7xtP
@@ -93,11 +97,16 @@ momo綜合台|８３,rtmp://161.202.204.248:1935/sat/tv761
 三立財經新聞|９２,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL#tvbus://7vrngitcWdRhRaWE5NSqqbC85RP52aPx4e2D9iLv1yE2Y8zSZo
 三立iNEWS|９２,http://seb.sason.top/sc/slinews_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live
 SBN全球財經|９３,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live
+誠心電視台|９４,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCRvNvZZH79MpSRubnW9pdcw/live
 公視三台|９５,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
+彰化生活台|９５,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCrVBXIxpYnjTk4ezn9F-fug/live
 大愛二台|９６,http://61.58.60.230:9319/live/191.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=8ddDTi-gzQA#tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
-華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
+華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
+信大頻道|１０６,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCZNrgK7RjNPbVsqYpM9utJw/live
 FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
-華視體育文化|１０９,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
+正德電視台|１０９,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCEaOL55dVM5xg-oX-Gs0DlQ/live
+天良綜合台|１１０,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCVDgvpdyy8VbpsiXjc-kdGQ/live
+華視體育文化|１２０,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
 華視新聞資訊|１２１,http://seb.sason.top/sc/hsxw_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCA_hK5eRICBdSOLlXKESvEg/live#tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
 國會一台|１２３,http://61.58.60.230:9319/live/123.m3u8#tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
 國會二台|１２４,http://61.58.60.230:9319/live/124.m3u8#tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
