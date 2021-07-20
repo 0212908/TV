@@ -208,7 +208,7 @@ GTV50國際講員４５０,http://live.streamingfast.net/osmflivech50.m3u8
 GTV51遇見祝福４５１,http://live.streamingfast.net/osmflivech51.m3u8
 
 小Q定製,#genre#
-玩命關頭9,https://europe.olemovienews.com/hlstimeofffmp4/20210521/ysDglvoA/mp4/ysDglvoA.mp4/master.m3u8#https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8#https://sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-0004/9f0e00f0ef7544989908483682edbe83#
+玩命關頭9,https://sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-0004/9f0e00f0ef7544989908483682edbe83#https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8#https://europe.olemovienews.com/hlstimeofffmp4/20210521/ysDglvoA/mp4/ysDglvoA.mp4/master.m3u8
 
 以下測試頻道_0120,#genre#
 新婚夫歸的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
