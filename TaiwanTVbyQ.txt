@@ -207,6 +207,9 @@ GTV49禱告頻道４４９,http://live.streamingfast.net/osmflivech49.m3u8
 GTV50國際講員４５０,http://live.streamingfast.net/osmflivech50.m3u8
 GTV51遇見祝福４５１,http://live.streamingfast.net/osmflivech51.m3u8
 
+小Q定製,#genre#
+玩命關頭9,https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8
+
 以下測試頻道_0120,#genre#
 新婚夫歸的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
 AV女優加籐,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/e/9ea3eb4a05d962b4db273de38c6ced991486995925-1280-720-1653-h264.mp4/master.m3u8
