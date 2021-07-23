@@ -114,6 +114,7 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 幸福空間居家台|１２５,http://61.58.60.230:9319/live/125.m3u8
 唯心電視台|１３０,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 希望電視台|１３１,tvbus://6XAXMTpAZewLnNstKjwysvqqJ4QZbKgW3za2rBdnbYMu1Khc81pg27JVtSSXu
+靖洋戲劇台|１３４,http://61.58.60.230:9319/live/203.m3u8
 民視影劇台|１４８,http://seb.sason.top/ptv/ftv.php?id=yj
 民視綜藝台|１４９,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅遊台|１５０,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -134,6 +135,11 @@ FRANCE 24新聞|１７７,http://61.58.60.230:9319/live/131.m3u8#http://45.126.8
 愛爾達體育3台|２０２,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8#tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm#tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t#tvbus://8kLevnKMiQQAQkf3AUtTcxusFx7ucoMhHvqe5NLwSn561zvUvH#tvbus://5XSQaD5wdt8NFhC9HHX3Ek3yXYPPtWm6YXpYNVd8SXMmjHkMmtA4k5jJm8zS7#rtmp://161.202.204.248:1935/sat/md051
 星衛HD電影|２０４,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA#tvbus://6HEgk6v2dcFEp48HohXkhC73Pdye4wZ1Mgws8KK833aq6rAzythmo9Z4ZDnP9#tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy#p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccsovh.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts#p2p://fccseuro.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts
 ELEVEN體育+|２１１,rtmp://161.202.204.248:1935/sat/md011
+靖洋卡通台|２１３,http://61.58.60.230:9319/live/206.m3u8
+靖天卡通台|２１４,http://61.58.60.230:9319/live/207.m3u8
+靖天歡樂台|２１５,http://61.58.60.230:9319/live/201.m3u8
+靖天育樂台|２１６,http://61.58.60.230:9319/live/204.m3u8
+靖天國際台|２１８,http://61.58.60.230:9319/live/205.m3u8
 Nat Geo Wild|２２１,mitv://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8#mitv://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8
 亞洲美食|２２５,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 HBOHD|２２６,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
