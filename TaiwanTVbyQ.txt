@@ -259,6 +259,31 @@ CatchPlayHD,p2p://51.79.41.138:18912/5b1409db000126a917d41b132a890b34.ts
 華視HD,p2p://51.79.41.138:18912/5b14095f000efa0e17d23a3d10cd7091.ts
 華視,p2p://51.79.41.138:18912/5b140968000d4f3517d25cf83e1e0c9f.ts
 中視,p2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
+全佳,p2p://sdgdklwos.finetv.tv:9906/5b2c7b9d000cafb7064ee62073b5429d.ts
+双星,p2p://sdgdklwos.finetv.tv:9906/5b2f26bb000f257c10bb53ec280e5f3f.ts
+喜悦,p2p://sdgdklwos.finetv.tv:9906/5b2c88690001d3520680e0317d774511.ts
+欢喜,p2p://sdgdklwos.finetv.tv:9906/5b2c86ff000b8df6067b5ca240b93635.ts
+華麗臺,p2p://sdgdklwos.finetv.tv:9906/5b2f267700061e0f10ba47fb489f5964.ts
+AEC,p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts
+小太阳,p2p://sdgdklwos.finetv.tv:9906/5b2c879d000424bd067dc3ee45d96446.ts
+WWE,p2p://sdgdklwos.finetv.tv:9906/5b3bbc050003c11441e365596b6161ed.ts
+astro supersport2,p2p://sdgdklwos.finetv.tv:9906/5b2c87f6000f163b067f226448d8404a.ts
+Astro supersport1,p2p://sdgdklwos.finetv.tv:9906/5b2c87d1000e0bc7067e919e4f474459.ts
+Astro supersport3,p2p://sdgdklwos.finetv.tv:9906/5b2c8817000c0d55067fa28124555619.ts
+马来_9TV,p2p://sdgdklwos.finetv.tv:9906/5a31fd74000c96ead44bf3af4b456e5e.ts
+马来_8TV,p2p://sdgdklwos.finetv.tv:9906/5a31fd4f00078e90d44b61de4d0c00ac.ts
+马来_NTV7,p2p://sdgdklwos.finetv.tv:9906/5a31fd2f000e8b55d44ae6b34fad7621.ts
+马来_TV1,p2p://sdgdklwos.finetv.tv:9906/5a31fcb900032d27d44916d53c4375ee.ts
+马来_TV3,p2p://sdgdklwos.finetv.tv:9906/5a31fd0800001357d44a4aa248fb13c0.ts
+马来_TV2,p2p://sdgdklwos.finetv.tv:9906/5a31fce3000156f6d449ba6846864dda.ts
+新加坡-channel 5,p2p://sdgdklwos.finetv.tv:9906/5a31fbf500092568d4461abc4b040214.ts
+SKY SPORTS-3 HD,p2p://sdgdklwos.finetv.tv:9906/5a3217f60000b572d4b37c8153892f4c.ts
+SKY SPORTS-4 HD,p2p://sdgdklwos.finetv.tv:9906/5a321824000878a6d4b432253b9465ba.ts
+SKY SPORTS-5 HD,p2p://sdgdklwos.finetv.tv:9906/5a321854000e85cfd4b4ef3b43ba7582.ts
+新加坡-channel 8,p2p://sdgdklwos.finetv.tv:9906/5a31fc3f000ef04fd4473d4355630850.ts
+新加坡-channel u,p2p://sdgdklwos.finetv.tv:9906/5a31fc73000836bdd44806ad15337fe5.ts
+tvN HD,p2p://sdgdklwos.finetv.tv:9906/59fd248e000a1aa502a3488f618b6de7.ts
+MTV（亚洲）,p2p://sdgdklwos.finetv.tv:9906/5acc9650000c1a613035e0847389748f.ts
 玩命關頭9,https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8#https://europe.olemovienews.com/hlstimeofffmp4/20210521/ysDglvoA/mp4/ysDglvoA.mp4/master.m3u8
 
 以下測試頻道_0120,#genre#
