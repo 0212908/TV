@@ -32,7 +32,7 @@ YOYO點點名|２５,https://linkastream.co/headless?url=https://www.youtube.com
 八大綜合台|２８,tvbus://5L5N1QrvtKfN1R2rZVrXewcP5EJuRcXFqaYanE6GrqfaGvZoQDvxF89bQc55Q#tvbus://6hfWgjwocr7LeYLf2vV1sBahEpzikaKALHtd5dL8m9ukhQHJNG6M4AtTSYDSk#mitv://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40#mitv://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40#p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
 三立台灣台|２９,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF#tvbus://6KDZEwsaiTyKpYASWzYE3aJSWB8vkhQyrgtNDb8XAqgriAwdo2EiMcMhVm8oa#mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
 三立都會台|３０,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY#tvbus://6ZLRzjLE58srUuzBPq3QNRSPE9L5EYDhp1p2uvYHEBZ8nJBY9kQii1X5hTy2w
-tvN|３１,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N#mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+tvN|３１,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N#mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8@http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 衛視中文台|３１,tvbus://6b7sWQXkuKumRbpqkoGxkW4cKZXXnW93KDY1tnVQq5CneNeZAEQduCLST2xKW#tvbus://8RszbvB7e8knMo7EUqEzXPdZuTFVUbj8ShxYwA7Nojjjv5dany#mitv://fccseuro.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e#mitv://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
 東森綜合台|３２,tvbus://5Qrgum8xNNX2B7wtwBCTiVb3Lse9teDkoL1cbqFr3rKBK79tp5czXXpKBMj4z#mitv://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061#mitv://fccsovh.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
 東森超視|３３,tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH#rtmp://161.202.204.248:1935/sat/tv771
@@ -119,7 +119,7 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 民視綜藝台|１４９,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅遊台|１５０,http://seb.sason.top/ptv/ftv.php?id=ly
 民視第一台|１５１,http://seb.sason.top/ptv/ftv.php?id=dy#tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
-民視台灣台|１５２,http://seb.sason.top/ptv/ftv.php?id=tw#tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp#tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
+民視台灣台|１５２,http://seb.sason.top/ptv/ftv.php?id=tw#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8#tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp#tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
 中視菁采台|１５３,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
 中視新聞台|１５４,http://seb.sason.top/sc/zsxw_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live#tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ#mitv://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec#mitv://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
 台視新聞台|１５５,http://seb.sason.top/sc/tsxw_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live#tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
@@ -373,19 +373,6 @@ Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
 台灣©頻道,#genre#
-HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-HGTV居家乐活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
-tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
-FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-中视,p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#p2p://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts
-
-
-华视,p2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd.ts#p2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
-台视,p2p://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
-民视,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
-民视,http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
-民视,p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#p2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4.ts#p2p://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26.ts#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts
-民视台湾台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 公视,p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 TVBS,http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
@@ -577,10 +564,7 @@ NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 
 海外©頻道,#genre#
-HGTV50,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-HGTV185,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
-tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-tvN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+tvN,
 HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBOHD,https://gratismkctv.net/film/hbo.m3u8
 HBOHD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
