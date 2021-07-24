@@ -25,7 +25,7 @@ CN卡通頻道|２２,mitv://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c
 Disney Channel|２３,mitv://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c#mitv://fccsovh.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c#tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX#tvbus://5WZAW4e6iyxWUMRoeMtVnzgXYSPtgQyJrYR93PK2BYU5UMU7s9r3cgQZLtUvb
 BOOMERANG|２４,tvbus://8YuJE9sdG8s4GS6QobPiDT6Y62DUJnEagvdHL5MJdig5KMmuGF#tvbus://6Cz3jcy1gsTwCxNYBiHYHSQY4znY7AubsFYnJzQKaY2FNmeGqp4is8eSmLmJi#https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 MOMO親子台|２４,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn#tvbus://8LYzzxsK9M826tCuaepTTrHW5xAvwogA53NcLdYWGno72Xx5nF#tvbus://5ZmNFNkNNWLmV5r4xXWWQe7VWgsTVcX7Rn2jYap433Kjmh46SHNGxiAdKMn7h#mitv://fccseuro.pvbox.live:18912/5b1409690009f8b05e37c26041779937#mitv://fccseuro.pvbox.live:18912/5d70eb0f000a5e750d0a9659304554ba#mitv://fccsovh.pvbox.live:18912/5b1409690009f8b05e37c26041779937
-東森幼幼台|２５,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd#tvbus://7mTCKDyRQkAMpAsx4eMdtWdUjzrk85yb3mbfmN8qeLUi1qpWxg#tvbus://62FLkYBGPwzHY5r9ZBacYVyPgckqiggdj76u4jLsqU9FdQJEevHVW1VE2dzX9#mitv://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc#mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc
+東森幼幼台|２５,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd#tvbus://7mTCKDyRQkAMpAsx4eMdtWdUjzrk85yb3mbfmN8qeLUi1qpWxg#tvbus://62FLkYBGPwzHY5r9ZBacYVyPgckqiggdj76u4jLsqU9FdQJEevHVW1VE2dzX9#mitv://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc#mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc#p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts#p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts
 YOYO點點名|２５,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCiWRSesvSYmY7YOyz0tv_zQ/live
 緯來綜合台|２６,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8#tvbus://5vv8ngW7EBMnpjCvuYFLbNN9nfaYptrEiTXZ79tBQd4VQgArPtThhrd16ZYe7#tvbus://5SXdVfYqit7RdyW6WTtQ8tZg8tdbjaZmmM7EqW4vQhL4o2Fvr9sQWnxdV8Kxn#mitv://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef#mitv://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef
 八大第一台|２７,tvbus://5cn9j1kJ9kuy7UYaPW6MPuDZ2YjZ5qWU6uQTvWehGFjRoujhsZkt6RrrTSKuP#tvbus://8TDBW4MDGAQmpRQdKnwJTj9fWZrK5YvtErGcJ11GaEmFjDkJs4#tvbus://5pg1iZLjKEbAtyQcxRG2qbap2M9hLUgfuAWDfbxFrtrvKcr2Mxngbqy9Rk9KB#mitv://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5#mitv://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5#p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts
@@ -104,7 +104,7 @@ SBN全球財經|９３,https://linkastream.co/headless?url=https://www.youtube.c
 大愛二台|９６,http://61.58.60.230:9319/live/191.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=8ddDTi-gzQA#tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
 華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
 信大頻道|１０６,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCZNrgK7RjNPbVsqYpM9utJw/live
-FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
+FoodNetwork美食|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 正德電視台|１０９,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCEaOL55dVM5xg-oX-Gs0DlQ/live
 天良綜合台|１１０,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCVDgvpdyy8VbpsiXjc-kdGQ/live
 幸福空間居家|１１５,http://61.58.60.230:9319/live/125.m3u8
@@ -158,7 +158,6 @@ ELEVEN體育+|２１１,rtmp://161.202.204.248:1935/sat/md011
 靖天映畫台|２１７,http://61.58.60.230:9319/live/243.m3u8#tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖天國際台|２１８,http://61.58.60.230:9319/live/205.m3u8
 Nat Geo Wild|２２１,mitv://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8#mitv://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8
-亞洲美食|２２５,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 HBOHD|２２６,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68#p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
 HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
@@ -176,6 +175,7 @@ DiscoveryAsia|２３７,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWR
 博斯高球2台|２４４,tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
 博斯魅力網|２４５,rtmp://161.202.204.248:1935/sat/md031
 博斯運動一台|２４６,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo#rtmp://161.202.204.248:1935/sat/md041#p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
+美食星球|２７８,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#p2p://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 EYE TV旅遊台|２７９,mitv://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#mitv://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#p2p://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts#p2p://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts
 大愛海外|２９７,https://pulltv3.wanfudaluye.com/live/tv3.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=MIqUplvSRWA
 愛爾達综合台|３００,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
