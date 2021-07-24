@@ -104,7 +104,7 @@ SBN全球財經|９３,https://linkastream.co/headless?url=https://www.youtube.c
 大愛二台|９６,http://61.58.60.230:9319/live/191.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=8ddDTi-gzQA#tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
 華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
 信大頻道|１０６,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCZNrgK7RjNPbVsqYpM9utJw/live
-FoodNetwork美食|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
+FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 正德電視台|１０９,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCEaOL55dVM5xg-oX-Gs0DlQ/live
 天良綜合台|１１０,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCVDgvpdyy8VbpsiXjc-kdGQ/live
 幸福空間居家|１１５,http://61.58.60.230:9319/live/125.m3u8
