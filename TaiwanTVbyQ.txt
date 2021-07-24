@@ -139,6 +139,7 @@ ELEVEN體育+|２１１,rtmp://161.202.204.248:1935/sat/md011
 靖天卡通台|２１４,http://61.58.60.230:9319/live/207.m3u8
 靖天歡樂台|２１５,http://61.58.60.230:9319/live/201.m3u8
 靖天育樂台|２１６,http://61.58.60.230:9319/live/204.m3u8
+靖天映畫台|２１７,http://61.58.60.230:9319/live/243.m3u8#tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖天國際台|２１８,http://61.58.60.230:9319/live/205.m3u8
 Nat Geo Wild|２２１,mitv://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8#mitv://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8
 亞洲美食|２２５,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
@@ -512,6 +513,8 @@ LSTime电影台,p2p://fccsovh.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.
 
 CCTV6,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
 好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
+中國電影台,http://61.58.60.230:9319/live/225.m3u8
+
 
 體育©頻道,#genre#
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -1782,6 +1785,21 @@ ASTRO WAH LAI TOI,http://47.242.54.220/daili/ce50.php?gun=2&id=Wlt
 Channel 8,http://47.242.54.220/daili/ce50.php?gun=2&id=Channel8
 Channel 5,http://47.242.54.220/daili/ce50.php?gun=2&id=Channel5
 Channel U,http://47.242.54.220/daili/ce50.php?gun=2&id=ChannelU
+
+大陸地方,#genre#
+北京國際,http://61.58.60.230:9319/live/226.m3u8
+東方衛視,http://61.58.60.230:9319/live/227.m3u8
+南方衛視,http://61.58.60.230:9319/live/228.m3u8
+江蘇衛視,http://61.58.60.230:9319/live/229.m3u8
+海峽衛視,http://61.58.60.230:9319/live/230.m3u8
+湖南國際,http://61.58.60.230:9319/live/231.m3u8
+廈門衛視,http://61.58.60.230:9319/live/234.m3u8
+深圳衛視,http://61.58.60.230:9319/live/235.m3u8
+重慶衛視,http://61.58.60.230:9319/live/236.m3u8
+安徽衛視,http://61.58.60.230:9319/live/237.m3u8
+山東衛視,http://61.58.60.230:9319/live/239.m3u8
+河南國際,http://61.58.60.230:9319/live/240.m3u8
+雲南衛視,http://61.58.60.230:9319/live/241.m3u8
 
 港澳海外_0120,#genre#
 Discovery|港澳,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
