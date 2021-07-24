@@ -233,1214 +233,6 @@ GTV49禱告頻道４４９,http://live.streamingfast.net/osmflivech49.m3u8
 GTV50國際講員４５０,http://live.streamingfast.net/osmflivech50.m3u8
 GTV51遇見祝福４５１,http://live.streamingfast.net/osmflivech51.m3u8
 
-私人定制,#genre#
-5高清3,http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_2.m3u8
-5高清4,http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_3.m3u8
-Aniu TV (New!),http://cclive.aniu.tv/live/anzb.m3u8
-BABY亲子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-Bright Smart Channel (Opt-1) (New!),http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-Canal Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-Canal Macau (Opt-2) (New!),http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-CCTV 15 音乐频道,http://111.40.205.76/PLTV/88888888/224/3221225601/index.m3u8
-CCTV PLUS LD,http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
-CCTV 高尔夫·网球频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
-CCTV-1,http://www.szmgiptv.com:14437/hls/1.m3u8
-CCTV-1 (Opt-1),http://hhab.chinashadt.com:2136/live/di1.stream/playlist.m3u8
-CCTV-1 (Opt-2),http://36476.hlsplay.aodianyun.com/guangdianyun_36476/tv_channel_416.m3u8
-CCTV-1 (Opt-3),http://hljjms.chinashadt.com:2036/live/1002.stream/playlist.m3u8
-CCTV-1 综合 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
-CCTV-1 综合 (Opt-2),http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/index.m3u8
-CCTV-1 综合 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
-CCTV-10,http://hnmc.chinashadt.com:3036/live/1004.stream/playlist.m3u8
-CCTV-10 科教 (Opt-1),http://cctv.v.live.qingcdn.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio
-CCTV-10 科教 (Opt-2),http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
-CCTV-11 戏曲 (Opt-1),http://cctv.v.kcdnvip.com/live/cctv11_1/index.m3u8?adapt=0&BR=audio
-CCTV-11 戏曲 (Opt-2),http://cctv.v.myalicdn.com/live/cctv11_1audio.m3u8?adapt=0&BR=audio
-CCTV-11 戏曲 (Opt-3),http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8
-CCTV-12 社会与法 (Opt-1),http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-12 社会与法 (Opt-2),http://cctv.v.myalicdn.com/live/cctv12_1audio.m3u8?adapt=0&BR=audio
-CCTV-12 社会与法 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio
-CCTV-13 新闻 (Opt-1),http://cctv.v.kcdnvip.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
-CCTV-13 新闻频道 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-CCTV-14 少儿 (Opt-1),http://cctv.v.myalicdn.com/live/cctvchild_1audio.m3u8?adapt=0&BR=audio
-CCTV-14 少儿 (Opt-2),http://cctv.v.kcdnvip.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
-CCTV-14 少儿频道 (Opt-3),http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-2,http://hljjms.chinashadt.com:2036/live/1004.stream/playlist.m3u8
-CCTV-2 财经 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
-CCTV-2 财经 (Opt-2),http://cctv.v.myalicdn.com/live/cctv2_1audio.m3u8?adapt=0&BR=audio
-CCTV-2 财经 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio
-CCTV-2高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
-CCTV-3 综艺 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/index.m3u8
-CCTV-3 综艺 (Opt-2),http://cctv.v.kcdnvip.com/live/cctv3_1/index.m3u8?adapt=0&BR=audio
-CCTV-3 综艺 (Opt-3),http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8?adapt=0&BR=audio
-CCTV-3高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
-CCTV-4 中文国际 (Opt-1),http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8
-CCTV-4 中文国际 (Opt-2),http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV-4 中文国际 (Opt-3),http://39.135.16.142:6060/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-CCTV-4 中文国际 (Opt-4),http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/index.m3u8
-CCTV-4 中文国际 欧洲 (Opt-1),http://cctv.v.kcdnvip.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
-CCTV-4 中文国际 美洲 (Opt-2),http://cctv.v.kcdnvip.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
-CCTV-4 中文国际 美洲 (Opt-3),http://cctv.v.myalicdn.com/live/cctvamerica_1audio.m3u8?adapt=0&BR=audio
-CCTV-4高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
-CCTV-5,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-CCTV-5 体育频道,http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8
-CCTV-5+ 体育赛事频道,http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-CCTV-5高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
-CCTV-6,http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
-CCTV-6 电影 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
-CCTV-6 电影 (Opt-2),http://cctv.v.kcdnvip.com/live/cctv6_1/index.m3u8?adapt=0&BR=audio
-CCTV-6 电影 (Opt-3),http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8?adapt=0&BR=audio
-CCTV-7,http://hljjms.chinashadt.com:2036/live/1008.stream/playlist.m3u8
-CCTV-7 军事·农业 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
-CCTV-7 军事农业 (Opt-2),http://cctv.v.myalicdn.com/live/cctv7_1audio.m3u8?adapt=0&BR=audio
-CCTV-8,http://hbry.chinashadt.com:1938/live/1002.stream_360p/playlist.m3u8
-CCTV-8 电视剧 (Opt-1),http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8?adapt=0&BR=audio
-CCTV-8 电视剧 (Opt-2),http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
-CCTV-8 电视剧 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv8_1/index.m3u8?adapt=0&BR=audio
-CCTV-9 纪录 (Opt-1),http://cctv.v.kcdnvip.com/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio
-CCTV-9 纪录 (Opt-2),http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-9 纪录 (Opt-3),http://cctv.v.myalicdn.com/live/cctvjilu_1audio.m3u8?adapt=0&BR=audio
-CCTV10-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-CCTV11-高清,http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-CCTV12-高清,http://223.110.241.203:6610/gitv/live1/CCTV-12/CCTV-12/
-CCTV13-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-CCTV14-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-CCTV5+高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-CCTV7-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
-CCTV8-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
-CCTV9-高清,http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
-CCTV世界地理,http://39.135.16.142:6060/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-CCTV卫生健康,http://39.135.16.142:6060/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
-CCTV国防军事,http://39.135.16.142:6060/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
-CCTV央视文化精品,http://39.135.16.142:6060/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-CCTV女性时尚,http://39.135.16.142:6060/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
-CCTV怀旧剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
-CCTV新科动漫,http://39.135.16.142:6060/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
-CCTV电视指南,http://39.135.16.142:6060/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-CCTV第一剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-CCTV老故事,http://39.135.16.142:6060/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
-CCTV风云剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
-CCTV风云音乐,http://39.135.16.142:6060/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
-CCTV高尔夫网球,http://39.135.16.142:6060/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-CETV(早期教育),http://39.135.16.142:6060/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
-CETV1,http://39.135.16.142:6060/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
-CETV2,http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
-CETV3,http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-CGTN (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
-CGTN (Opt-2),http://live.cgtn.com/500/prog_index.m3u8
-CGTN (Opt-2) (CN),http://live.cgtn.com/1000/prog_index.m3u8
-CGTN Arabic (Opt-1),http://live.cgtn.com/1000a/prog_index.m3u8
-CGTN Arabic (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
-CGTN Arabic (Opt-3),http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8
-CGTN Arabic [576p],http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN Documentary,http://bit.ly/2D1FvME
-CGTN Documentary [EN][576p],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN Espanol,http://live.cgtn.com/1000e/prog_index.m3u8
-CGTN Español,http://bit.ly/2F0ODBz
-CGTN-俄语,http://live.cgtn.com/cctv-r.m3u8
-CGTN-法语,http://live.cgtn.com/cctv-f.m3u8
-China Business Network (Opt-3),https://w1live.livecdn.yicai.com/live/cbn.m3u8
-CNR 中华之声 (Opt-1),http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-CNR 中华之声 (Opt-2),http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
-CNR 中华之声 (Opt-3),http://ls.qingting.fm/live/390.m3u8
-CNR 中国之声 (Opt-1),http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
-CNR 中国之声 (Opt-2),http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR 中国之声 (Opt-3),http://ls.qingting.fm/live/386.m3u8
-CNR 中国乡村之声 (Opt-1),http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
-CNR 中国乡村之声 (Opt-2),http://ls.qingting.fm/live/5039.m3u8
-CNR 中国乡村之声 (Opt-3),http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-CNR 中国交通广播 (Opt-1),http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-CNR 中国交通广播 (Opt-2),http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
-CNR 中国交通广播 (Opt-3),http://ls.qingting.fm/live/4985.m3u8
-CNR 中国民乐 (Opt-1),http://ngcdn021.cnr.cn/live/zgmy48/index.m3u8
-CNR 中国民乐 (Opt-2),http://ngcdn021.cnr.cn/live/zgmy/index.m3u8
-CNR 华夏之声 (Opt-1),http://ls.qingting.fm/live/392.m3u8
-CNR 华夏之声 (Opt-2),http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-CNR 华夏之声 (Opt-3),http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
-CNR 古典音乐 (Opt-1),http://ls.qingting.fm/live/4993.m3u8
-CNR 古典音乐 (Opt-2),http://ngcdn022.cnr.cn/live/gdyy48/index.m3u8
-CNR 古典音乐 (Opt-3),http://ngcdn022.cnr.cn/live/gdyy/index.m3u8
-CNR 哈语广播 (Opt-1),http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-CNR 哈语广播 (Opt-2),http://ngcdn025.cnr.cn/live/hygb48/index.m3u8
-CNR 娱乐广播 (Opt-1),http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-CNR 娱乐广播 (Opt-2),http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
-CNR 娱乐广播 (Opt-3),http://ls.qingting.fm/live/398.m3u8
-CNR 文艺之声 (Opt-1),http://ls.qingting.fm/live/395.m3u8
-CNR 文艺之声 (Opt-2),http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-CNR 文艺之声 (Opt-3),http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
-CNR 民族之声 (Opt-1),http://ls.qingting.fm/live/394.m3u8
-CNR 民族之声 (Opt-2),http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-CNR 民族之声 (Opt-3),http://ngcdn009.cnr.cn/live/mzzs48/index.m3u8
-CNR 相声小品 (Opt-1),http://ngcdn023.cnr.cn/live/xsxp/index.m3u8
-CNR 相声小品 (Opt-2),http://ngcdn023.cnr.cn/live/xsxp48/index.m3u8
-CNR 相声小品 (Opt-3),http://ls.qingting.fm/live/4990.m3u8
-CNR 神州之声 (Opt-1),http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-CNR 神州之声 (Opt-2),http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
-CNR 神州之声 (Opt-3),http://ls.qingting.fm/live/391.m3u8
-CNR 经典音乐广播 101.8 (Opt-1),http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
-CNR 经典音乐广播 101.8 (Opt-2),http://ls.qingting.fm/live/389.m3u8
-CNR 经典音乐广播 101.8 (Opt-3),http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-CNR 经济之声 (Opt-1),http://ls.qingting.fm/live/387.m3u8
-CNR 经济之声 (Opt-2),http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-CNR 经济之声 (Opt-3),http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
-CNR 维语广播 (Opt-1),http://ngcdn013.cnr.cn/live/wygb48/index.m3u8
-CNR 维语广播 (Opt-2),http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-CNR 维语广播 (Opt-3),http://ls.qingting.fm/live/4988.m3u8
-CNR 老年之声 (Opt-1),http://ls.qingting.fm/live/396.m3u8
-CNR 老年之声 (Opt-2),http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
-CNR 老年之声 (Opt-3),http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-CNR 藏语广播 (Opt-1),http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-CNR 藏语广播 (Opt-2),http://ngcdn012.cnr.cn/live/zygb48/index.m3u8
-CNR 长篇联播 (Opt-1),http://ngcdn024.cnr.cn/live/cplb/index.m3u8
-CNR 长篇联播 (Opt-2),http://ls.qingting.fm/live/4992.m3u8
-CNR 长篇联播 (Opt-3),http://ngcdn024.cnr.cn/live/cplb48/index.m3u8
-CNR 音乐之声 (Opt-1),http://ls.qingting.fm/live/388.m3u8
-CNR 音乐之声 (Opt-2),http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-CNR 音乐之声 (Opt-3),http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
-CNR 香港之声 (Opt-1),http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
-CNR 香港之声 (Opt-2),http://ls.qingting.fm/live/4986.m3u8
-CNR 香港之声 (Opt-3),http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-CRI Easy FM – FM91.5,http://sk.cri.cn/915.m3u8
-CRI Hit FM FM88.7 (Opt-1),http://sk.cri.cn/887.m3u8
-CRI Hit FM FM88.7 (Opt-2),http://ls.qingting.fm/live/1007.m3u8
-CRI NEWS Plus AM1008 (Opt-1),http://ls.qingting.fm/live/4584.m3u8
-CRI NEWS Plus AM1008 (Opt-2),http://sk.cri.cn/am1008.m3u8
-CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
-CRI 中文环球广播 (Opt-1),http://ls.qingting.fm/live/4995.m3u8
-CRI 中文环球广播 (Opt-2),http://sk.cri.cn/hyhq.m3u8
-CRI 南海之声 (Opt-1),http://ls.qingting.fm/live/62624.m3u8
-CRI 南海之声 (Opt-2),http://sk.cri.cn/nhzs.m3u8
-CRI 客家之声,http://sk.cri.cn/hakka.m3u8
-CRI 海峡飞虹,http://ls.qingting.fm/live/1734855.m3u8
-CRI 环球资讯广播 FM90.5 (Opt-1),http://ls.qingting.fm/live/24035.m3u8
-CRI 环球资讯广播 FM90.5 (Opt-2),http://sk.cri.cn/905.m3u8
-CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
-CRI 闽南之音 (Opt-1),http://ls.qingting.fm/live/1002.m3u8
-CRI 闽南之音 (Opt-2),http://sk.cri.cn/minnan.m3u8
-FASHION TV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-Fix HD,http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-GOODTV,http://live.streamingfast.net/osmflivech5.m3u8
-goodtv真理台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-goodtv综合台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-Hong Kong Open TV (HK) (Opt-1) (New!),http://media.fantv.hk/m3u8/archive/channel2.m3u8
-HRB娱乐,http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
-HRB影视,http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
-HRB新闻综合,http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
-HRB生活,http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
-HRB资讯,http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
-ICS 上海外语,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
-Jusmin TV (Opt-1),http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-Jusmin TV (Opt-2),http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-Love Radio FM103.7,http://ls.qingting.fm/live/273.m3u8
-MASTV,http://stream.mastvnet.com/MSTV/playlist.m3u8
-Max Financial Media (New!),http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
-MY FM 西安 FM105.5,http://ls.qingting.fm/live/4885.m3u8
-NewTV Blockbusters (New!),http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
-NewTV Movies (Opt-1) (New!),http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
-NewTV Sports (New!),http://183.251.61.198/PLTV/88888888/224/3221225803/index.m3u8
-NewTV Suspense (New!),http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
-Newtv 中国功夫,http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
-Newtv 健康有约,http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
-Newtv 军事评论,http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
-Newtv 军旅剧场,http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
-Newtv 动作电影,http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-Newtv 动画王国,http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-Newtv 古装剧场,http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
-Newtv 家庭剧场,http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
-Newtv 惊悚悬疑,http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
-Newtv 搏击剧场,http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
-Newtv 明星大片,http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
-Newtv 海外剧场,http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
-Newtv 炫舞未来,http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-Newtv 爱情喜剧,http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
-Newtv 电竟,http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
-Newtv 精品大剧,http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
-Newtv 精品电影,http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
-Newtv 精品记录,http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-Newtv 金牌综艺,http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
-Newtv健康有约,http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-Newtv搏击剧场,http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
-Newtv精品记录,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-Phim TQ (Anh hùng xạ điêu),http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-Phim TQ (Bao thanh thiên),http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
-Phim TQ (Chen Xiang 6:30),http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
-Phim TQ (Cờ bạc quốc gia),http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-Phim TQ (Disney),http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
-Phim TQ (Dragon Gate Escort),http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
-Phim TQ (Hoạt hình Doraemon),http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
-Phim TQ (Hoạt hình Hoàng tử quần vợt),http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
-Phim TQ (Lưu Đức Hòa),http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-Phim TQ (Thám tử Di Renjie),http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
-Phim TQ (Tốc độ và niềm đam mê),http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-Phim TQ (Yitian Shoulong),http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-RED BULL TV FHD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-RTHK 32 (Hong Kong),http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
-RTHK TV 31 (HK) (Opt-1) (New!),http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-RTHK TV 31 (HK) (Opt-2) (New!),http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
-RTHK TV 31 (HK) (Opt-3) (New!),http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-RTHK TV 32 (HK) (Opt-2),http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
-RTHK TV 32 (HK) (Opt-3),http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-Shanghai - Skyline,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
-Shemale Tube TV 2,http://www.ast.tv/stream/2/master.m3u8
-SinoVision (US),http://ec.sinovision.net/video/ts/lv.m3u8
-TDM HD Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-TDM Info. Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
-TDM Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-TDM Macau (Opt-2) (New!),http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-TDM Macau Satelite (Opt-1) (New!),http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-TDM Macau Satelite (Opt-2) (New!),http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-TDM Sports Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-Toon Max TV,http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-Universal TV (HK) (New!),http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-Xuzhou TV 1 Shanghai (Opt-2) (New!),http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-Xuzhou TV 2 Shanghai (New!),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-一新闻备,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-七彩戏剧,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-七彩西游记1猪八戒招亲HD高清,https://ifeng.com-l-ifeng.com/20190103/26081_6443bc56/index.m3u8
-万州三峡移民 (Opt-1),http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-万州影视文艺 (Opt-2),http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-万州科教频道 (Opt-2),http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-万州综合频道 (Opt-2),http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-万载综合频道,http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
-三亚天涯之声 FM104.6,http://ls.qingting.fm/live/68236.m3u8
-三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
-三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
-三明新闻综合广播,http://ls.qingting.fm/live/3128814.m3u8
-三河品味1033音乐广播,http://ls.qingting.fm/live/3687659.m3u8
-上海 KFM981,http://ls.qingting.fm/live/2963035.m3u8
-上海交通台 FM105.7,http://ls.qingting.fm/live/266.m3u8
-上海人民广播电台 FM93.4,http://ls.qingting.fm/live/270.m3u8
-上海动感101 FM101.7,http://ls.qingting.fm/live/274.m3u8
-上海故事广播 FM107.2,http://ls.qingting.fm/live/268.m3u8
-上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-上海新闻综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
-上海浦东广播 FM106.5,http://ls.qingting.fm/live/1794199.m3u8
-上海经典947 FM94.7,http://ls.qingting.fm/live/267.m3u8
-上海闵行电台 FM102.7,http://ls.qingting.fm/live/58826.m3u8
-东南卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
-东广新闻台 FM90.9,http://ls.qingting.fm/live/275.m3u8
-东方卫视 (Opt-1),http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/.m3u8
-东方卫视 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
-东方广播 FM89.9,http://ls.qingting.fm/live/4893.m3u8
-东方电影,http://117.156.28.57/PLTV/88888888/224/3221225656/index.m3u8
-东莞FM104音乐广播,http://ls.qingting.fm/live/93619.m3u8
-东莞畅享1075交通广播,http://ls.qingting.fm/live/1288.m3u8
-东莞阳光1008新闻综合,http://ls.qingting.fm/live/1276.m3u8
-东营公共频道,http://stream.hhek.cn/ggpd/sd/live.m3u8
-东营科教频道,http://stream.hhek.cn/dyjy/sd/live.m3u8
-东营综合频道,http://stream.hhek.cn/xwzh/sd/live.m3u8
-两对夫妇的情事,https://156zy.suyunbo.tv/2018/07/21/ERc1jhgnYvZXt23Q/playlist.m3u8
-中国电影频道,http://61.58.60.230:9319/live/225.m3u8
-中山公共,http://dslive.grtn.cn/zszh/sd/live.m3u8
-中山电台快乐888,http://ls.qingting.fm/live/1278.m3u8
-中山电台新锐967,http://ls.qingting.fm/live/1277.m3u8
-乌克兰VOTV,http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
-乌贼说故事,https://ws.streamhls.huya.com/huyalive/1444264308-1444264308-6203067969640071168-4655558802-10057-A-0-1_1200/playlist.m3u8
-乌鲁木齐 FM103.9,http://ls.qingting.fm/live/4029.m3u8
-九寨沟新闻综合,http://111.231.194.231:85/live/xwzh.m3u8
-九江交通广播 FM88.4 FM88.9,http://ls.qingting.fm/live/2785094.m3u8
-云南交通广播 FM91.8,http://ls.qingting.fm/live/1928.m3u8
-云南卫视,http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
-云南国际,http://61.58.60.230:9319/live/241.m3u8
-云南少儿广播 FM101.7,http://ls.qingting.fm/live/1931.m3u8
-云南教育广播 FM100,http://ls.qingting.fm/live/1930.m3u8
-云南新闻广播 FM105.8,http://ls.qingting.fm/live/1926.m3u8
-云南民族广播 SW7210,http://ls.qingting.fm/live/1933.m3u8
-云南经济广播 私家车 FM88.7,http://ls.qingting.fm/live/1927.m3u8
-云南音乐广播 FM97,http://ls.qingting.fm/live/1929.m3u8
-云南香格里拉之声 FM99,http://ls.qingting.fm/live/24463.m3u8
-云南香格里拉之声 SW6035,http://ls.qingting.fm/live/24461.m3u8
-五星体育 FM94.0,http://ls.qingting.fm/live/4928.m3u8
-五福星系列,https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
-五邑旅游频道 FM90.4,http://ls.qingting.fm/live/3047974.m3u8
-亮剑,https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-亳州农村,http://218.22.251.12:8001/tslslive/JpWzs2u/hls/live_sd.m3u8
-亳州新闻综合,http://218.22.251.12:8001/tslslive/wT9aUpL/hls/live_sd.m3u8
-仁寿综合,http://118.122.224.176:8091/live/xwzh.m3u8
-仁寿综艺,http://118.122.224.176:8091/live/shzx.m3u8
-仙桃文体生活,http://221.233.242.239:280/live/72/playlist.m3u8
-仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8
-优优宝贝,http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
-优漫卡通,http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-优视频道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-优购必买,http://cjzb.u15.live.17ugo.com/ugo.m3u8
-佛山电台三水台 FM90.6,http://ls.qingting.fm/live/1264.m3u8
-佛山电台千色 FM98.5,http://ls.qingting.fm/live/1266.m3u8
-佛山电台真爱 FM94.6,http://ls.qingting.fm/live/1265.m3u8
-佛山电台顺德台 FM90.1,http://ls.qingting.fm/live/1268.m3u8
-佛山电台飞跃 FM92.4,http://ls.qingting.fm/live/1267.m3u8
-佛山电台高明台 FM88.3,http://ls.qingting.fm/live/1269.m3u8
-佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
-保姆的目的,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
-保定交通广播 FM104.8,http://ls.qingting.fm/live/28140.m3u8
-保定城市服务广播 乐动1016,http://ls.qingting.fm/live/62628.m3u8
-保定新闻广播 FM93.7,http://ls.qingting.fm/live/3701149.m3u8
-保定私家车广播 经济广播 FM99.7,http://ls.qingting.fm/live/28138.m3u8
-保定经典964汽车音乐广播,http://ls.qingting.fm/live/2227017.m3u8
-保山综合广播 FM98.7,http://ls.qingting.fm/live/3702178.m3u8
-先锋乒羽,http://124.232.231.246:6610/000000001001/201500000115/2500.m3u8?zte_auth=7fcdf814&IASHttpSessionId=OTT310220190424132013004361&m3u8_level=2&ztecid=201500000115&ispcode=8
-克拉玛依 1,http://klmyzb.rcsxzx.com/hls/klmy1.m3u8
-克拉玛依 3,http://klmyzb.rcsxzx.com/hls/klmy3.m3u8
-克拉玛依 4,http://klmyzb.rcsxzx.com/hls/klmy4.m3u8
-克拉玛依 5,http://klmyzb.rcsxzx.com/hls/klmy5.m3u8
-全纪实频道,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
-六安公共频道,http://live.china-latv.com/channel2/sd/live.m3u8
-六安新闻综合,http://live.china-latv.com/channel1/sd/live.m3u8
-六盘水新闻综合 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225773/1/index.m3u8?fmt=ts2hls
-六盘水新闻综合 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225772/1/index.m3u8?fmt=ts2hls
-兰州交通音乐广播 FM99.5,http://ls.qingting.fm/live/1711.m3u8
-兰州新闻综合广播 FM97.3,http://ls.qingting.fm/live/1712.m3u8
-兰州生活文艺广播 FM100.8,http://ls.qingting.fm/live/1713.m3u8
-兵团卫视 (Opt-1),http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
-兵团卫视 (Opt-2),http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
-冕宁电视台,http://live.sichuanmianning.com/live/xwpd.m3u8
-农安新闻综合,http://stream2.jlntv.cn/naxw/sd/live.m3u8
-农林卫视 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
-农林卫视 (Opt-2),http://stream.snrtv.com/sxtvs-nl.m3u8
-动漫秀场 (Opt-1),http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/1.m3u8
-动漫秀场 (Opt-2),http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
-北京交通广播 FM103.9 (Opt-1),http://ls.qingting.fm/live/336.m3u8
-北京交通广播 FM103.9 (Opt-2),http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
-北京体育广播 FM102.5 (Opt-1),http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
-北京体育广播 FM102.5 (Opt-2),http://ls.qingting.fm/live/335.m3u8
-北京冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-北京动听调频 Metro FM94.5,http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
-北京卫视,http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
-北京古典音乐 FM98.6 (Opt-1),http://ls.qingting.fm/live/344.m3u8
-北京古典音乐 FM98.6 (Opt-2),http://audiolive.rbc.cn:1935/live/fm986/96K/tzwj_video.m3u8
-北京国际频道,http://61.58.60.230:9319/live/226.m3u8
-北京城市广播 FM107.3 (Opt-1),http://ls.qingting.fm/live/345.m3u8
-北京城市广播 FM107.3 (Opt-2),http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
-北京外语广播 AM774 (Opt-1),http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
-北京外语广播 AM774 (Opt-2),http://ls.qingting.fm/live/334.m3u8
-北京好音乐 FM95.9,http://ls.qingting.fm/live/2131011.m3u8
-北京怀旧金曲 FM107.5 (Opt-1),http://ls.qingting.fm/live/340.m3u8
-北京怀旧金曲 FM107.5 (Opt-2),http://123.56.16.201:1935/live/fm1075/96K/tzwj_video.m3u8
-北京戏曲曲艺 FM105.1 (Opt-1),http://123.56.16.201:1935/live/fm1051/96K/tzwj_video.m3u8
-北京戏曲曲艺 FM105.1 (Opt-2),http://ls.qingting.fm/live/343.m3u8
-北京房山经典音乐 FM96.9,http://ls.qingting.fm/live/68746.m3u8
-北京故事广播 AM603 (Opt-1),http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
-北京故事广播 AM603 (Opt-2),http://ls.qingting.fm/live/337.m3u8
-北京教学广播 FM99.4 (Opt-1),http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
-北京教学广播 FM99.4 (Opt-2),http://ls.qingting.fm/live/338.m3u8
-北京文艺广播 FM87.6 (Opt-1),http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
-北京文艺广播 FM87.6 (Opt-2),http://ls.qingting.fm/live/333.m3u8
-北京新闻,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv9_2_hd.m3u8
-北京新闻广播 FM100.6 (Opt-1),http://ls.qingting.fm/live/339.m3u8
-北京新闻广播 FM100.6 (Opt-2),http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
-北京欢乐时光 FM106.5 (Opt-1),http://ls.qingting.fm/live/341.m3u8
-北京欢乐时光 FM106.5 (Opt-2),http://123.56.16.201:1935/live/fm1065/96K/tzwj_video.m3u8
-北京生活,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv7_2/index.m3u8
-北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/3.m3u8
-北京财经,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv5_2/index.m3u8
-北京长书广播 FM104.3 (Opt-1),http://ls.qingting.fm/live/342.m3u8
-北京长书广播 FM104.3 (Opt-2),http://audiolive.rbc.cn:1935/live/fm1043/96K/tzwj_video.m3u8
-北京青年,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv8_2/index.m3u8
-北京青年广播 FM98.2 (Opt-1),http://ls.qingting.fm/live/347.m3u8
-北京青年广播 FM98.2 (Opt-2),http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-北京音乐广播 FM97.4 (Opt-1),http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
-北京音乐广播 FM97.4 (Opt-2),http://ls.qingting.fm/live/332.m3u8
-北海新闻综合,http://111.12.83.2:6610/000000001000/BeiHai/1.m3u8?livemode=1&IASHttpSessionId=SLB19992019031013130037521848
-华亭电视台,http://117.156.28.119/270000001111/1110000148/index.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-南京影视,http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
-南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-南召一套,http://hnnz.chinashadt.com:1935/live/1002.stream/playlist.m3u8
-南宁交通音乐广播 FM107.4,http://ls.qingting.fm/live/80793.m3u8?aac
-南宁公共,http://111.12.110.76:6610/000000001000/NNGG/1.m3u8?livemode=1&IASHttpSessionId=SLB3800201903101254503191073
-南宁影视娱乐,http://111.12.110.89:6610/000000001000/NNYS/1.m3u8?livemode=1&IASHttpSessionId=SLB1643120190310130553896009
-南宁成功895 FM89.5,http://ls.qingting.fm/live/80797.m3u8?aac
-南宁新闻综合,http://111.12.110.87:6610/000000001000/NNXW/1.m3u8?livemode=1&IASHttpSessionId=SLB1643120190310130729896151
-南宁新闻综合广播 FM101.4,http://ls.qingting.fm/live/61208.m3u8?aac
-南宁经典1049 FM104.9,http://ls.qingting.fm/live/80795.m3u8?aac
-南宁都市生活,http://111.12.83.56:6060/000000001000/NNDS/1.m3u8?livemode=1
-南川人民广播电台 FM107.0,http://ls.qingting.fm/live/5116983.m3u8
-南方卫视 (粤语),http://nclive.grtn.cn/tvs2/sd/live.m3u8
-南通交通广播 FM92.9,http://ls.qingting.fm/live/2216385.m3u8
-南通新闻广播 FM97.0,http://ls.qingting.fm/live/1611381.m3u8
-南通私家车广播 FM106.1,http://ls.qingting.fm/live/1738915.m3u8
-南通音乐广播 FM91.8,http://ls.qingting.fm/live/1606731.m3u8
-博斯魅力網,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-卡酷少儿,http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
-厦视综合,http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
-厦门一套,http://cstv.live.wscdns.com/live/xiamen1/playlist.m3u8
-厦门三套,http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8
-厦门二套,http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
-厦门卫视 (Opt-1),http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
-厦门卫视 (Opt-2),http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
-厦门四套,http://cstv.live.wscdns.com/live/xiamen4/playlist.m3u8
-厦门广播闽南之声,http://ls.qingting.fm/live/1740.m3u8
-厦门影视,http://112.50.243.8/PLTV/88888888/224/3221226764/3.m3u8
-厦门新闻广播,http://ls.qingting.fm/live/1737.m3u8
-厦门海峡,http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
-厦门生活,http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
-厦门私家车广播,http://ls.qingting.fm/live/1741.m3u8
-厦门经济交通广播,http://ls.qingting.fm/live/1738.m3u8
-厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
-叶县一套,http://hnyx.chinashadt.com:1935/live/yexian1001.stream/playlist.m3u8
-叶县二套,http://hnyx.chinashadt.com:1935/live/1002.stream/playlist.m3u8
-吉林卫视,http://111.40.205.76/PLTV/88888888/224/3221225637/index.m3u8
-吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-吉林教育,http://stream1.jletv.cn/jljy/sd/live.m3u8
-吴江新闻综合,http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
-周润发,https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-呼和浩特交通广播 FM107.4,http://ls.qingting.fm/live/2218715.m3u8
-呼和浩特城市生活广播 FM90.1,http://ls.qingting.fm/live/2218717.m3u8
-呼和浩特文艺广播 FM99.8,http://ls.qingting.fm/live/3099076.m3u8
-呼和浩特新闻综合广播 FM92.9,http://ls.qingting.fm/live/2218711.m3u8
-咸阳城市之声 FM100.7,http://ls.qingting.fm/live/3559664.m3u8
-哈哈炫动,http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-哈哈炫动卫视,http://210.210.155.35/qwr9ew/s/s50/index.m3u8
-嘉佳卡通,http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-嘉兴新闻综合,http://112.17.40.140/PLTV/88888888/224/3221226358/index.m3u8
-四川交通广播 FM101.7,http://ls.qingting.fm/live/4886.m3u8
-四川公共,http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
-四川卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
-四川国际,http://61.58.60.230:9319/live/238.m3u8
-四川城市之音 CityFM FM102.6,http://ls.qingting.fm/live/1111.m3u8
-四川妇女,http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
-四川岷江音乐 FM95.5,http://ls.qingting.fm/live/1110.m3u8
-四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
-四川文化,http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
-四川文艺广播 快乐900 FM90.0,http://ls.qingting.fm/live/4887.m3u8
-四川新闻,http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
-四川新闻综合广播 FM98.1,http://ls.qingting.fm/live/4906.m3u8
-四川旅游广播 FM97.0,http://ls.qingting.fm/live/1116.m3u8
-四川民族广播 AM954,http://ls.qingting.fm/live/1115.m3u8
-四川私家车广播 FM92.5,http://ls.qingting.fm/live/4939.m3u8
-四川经济,http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
-四川财富广播 FM94.0,http://ls.qingting.fm/live/4927.m3u8
-四平新闻综合,http://stream2.jlntv.cn/sptv/sd/live.m3u8
-四海钓鱼,http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
-围场影视 (内蒙古),http://www.vctv.com.cn:9090/hls/zkghtv2.m3u8
-围场新闻综合 (内蒙古),http://www.vctv.com.cn:9090/hls/zkghtv1.m3u8
-大同新闻综合,https://hwapi.yunshicloud.com:443/p2984z/k8kl9m.m3u8
-大同生活,https://hwapi.yunshicloud.com:443/p2984z/lnbwyz.m3u8
-大长今,https://aldirect.hls.huya.com/huyalive/30765679-2533158964-10879834905949241344-2847687638-10057-A-0-1_1200.m3u8
-天地玄黄,https://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8
-天津 My FM 100.5,http://ls.qingting.fm/live/23869.m3u8
-天津卫视,http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
-太原交通广播 FM107,http://ls.qingting.fm/live/4900.m3u8
-太原新闻广播 FM91.2,http://ls.qingting.fm/live/23873.m3u8
-太原私家车Radio FM104.4,http://ls.qingting.fm/live/4018.m3u8
-太原音乐广播 FM102.6,http://ls.qingting.fm/live/1185.m3u8
-奉化新闻综合,http://stream.fhtv.net.cn/zhpd/sd/live.m3u8
-奉化生活娱乐,http://stream.fhtv.net.cn/ylpd/sd/live.m3u8
-女神系列2,https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-妇科医生,https://156zy.suyunbo.tv/2018/07/22/C6APNy9p6BWJYpoE/playlist.m3u8
-娄底公共,http://218.77.102.118:1935/live/gonggong/playlist.m3u8
-宁夏交通广播 FM98.4,http://ls.qingting.fm/live/1840.m3u8
-宁夏卫视,http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8
-宁夏经济广播 FM92.8,http://ls.qingting.fm/live/1841.m3u8
-宁夏都市广播 FM103.7,http://ls.qingting.fm/live/1842.m3u8
-宁波交通广播 FM93.9,http://ls.qingting.fm/live/1140.m3u8
-宁波动感105 FM105.2,http://ls.qingting.fm/live/3047946.m3u8
-宁波新闻广播 FM92.0,http://ls.qingting.fm/live/1138.m3u8
-宁波甬江之声 FM100.1,http://ls.qingting.fm/live/23909.m3u8
-宁波私家车音乐台 FM104.7,http://ls.qingting.fm/live/1142.m3u8
-宁波经济广播 FM102.9,http://ls.qingting.fm/live/1152.m3u8
-宁波老少广播 FM90.4,http://ls.qingting.fm/live/1141.m3u8
-安多卫视(藏语),http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
-安徽卫视,http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
-安徽国际,http://61.58.60.230:9319/live/237.m3u8
-安徽小说评书广播,http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
-安徽戏曲广播,http://stream2.ahrtv.cn/xnxq/sd/live.m3u8
-安徽新闻综合广播,http://stream2.ahrtv.cn/xnxw/sd/live.m3u8
-安徽旅游广播,http://stream2.ahrtv.cn/lygb/sd/live.m3u8
-安徽音乐广播,http://stream.ahrtv.cn/xnyy/sd/live.m3u8
-家有儿女,https://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
-宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-宿州综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-山东乡村广播 FM91.9,http://ls.qingting.fm/live/60264.m3u8
-山东交通广播 FM101.1,http://ls.qingting.fm/live/60262.m3u8
-山东体育广播 FM102.1,http://ls.qingting.fm/live/60266.m3u8
-山东卫视,http://112.50.243.8/PLTV/88888888/224/3221225943/3.m3u8
-山东女主播电台 FM97.5,http://ls.qingting.fm/live/60258.m3u8
-山东教育,http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
-山东新闻广播 FM95,http://ls.qingting.fm/live/60180.m3u8
-山东生活广播 MyFM FM105,http://ls.qingting.fm/live/60260.m3u8
-山东音乐广播 FM99.1,http://ls.qingting.fm/live/1665.m3u8
-山西卫视,http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
-岱山电视台,http://develop.zsgd.com:80/hls/dstv.m3u8
-岳云鹏,https://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
-岳阳交通广播 FM106.1,http://ls.qingting.fm/live/88931.m3u8
-岳阳新闻综合广播,http://ls.qingting.fm/live/88933.m3u8
-岷县电视台,http://117.156.28.119/270000001111/1110000130/index.m3u8
-峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
-常州交通广播 FM90,http://ls.qingting.fm/live/2796.m3u8
-平乡电视台,http://hbpx.chinashadt.com:2036/live/px1.stream/chunklist.m3u8
-广东优悦广播(南粤) FM105.7,http://ls.qingting.fm/live/470.m3u8
-广东南方生活广播 FM93.6,http://ls.qingting.fm/live/468.m3u8
-广东卫视,http://112.50.243.8/PLTV/88888888/224/3221225942/3.m3u8
-广东城市之声SunFM爱车 FM103.6,http://ls.qingting.fm/live/469.m3u8
-广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
-广东文体广播 FM107.7,http://ls.qingting.fm/live/471.m3u8
-广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
-广东新闻频道 FM91.4,http://ls.qingting.fm/live/1254.m3u8
-广东珠江经济台 FM97.4,http://ls.qingting.fm/live/1259.m3u8
-广东科教,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-广东羊城交通广播 FM105.2,http://ls.qingting.fm/live/1262.m3u8
-广东股市广播 FM95.3,http://ls.qingting.fm/live/4847.m3u8
-广东音乐之声 FM99.3,http://ls.qingting.fm/live/1260.m3u8
-广东高尔夫,http://nclive.grtn.cn/grfpd/sd/live.m3u8
-广元公共,http://live6a.pstatp.com/live/gytv2/index.m3u8
-广元影视,http://live6a.pstatp.com/live/gytv3/index.m3u8
-广元新闻综合,http://live6a.pstatp.com/live/gytv1/index.m3u8
-广安交通旅游广播,http://ls.qingting.fm/live/1710917.m3u8
-广州 MYFM 88.0 (都市生活),http://ls.qingting.fm/live/52712.m3u8
-广州交通电台 FM106.1,http://ls.qingting.fm/live/4955.m3u8
-广州新闻电台 FM96.2,http://ls.qingting.fm/live/4848.m3u8
-广州汽车音乐电台 FM102.7,http://ls.qingting.fm/live/52710.m3u8
-广州花都广播 FM100.5,http://ls.qingting.fm/live/1263.m3u8
-广水新闻综合,http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-广西交通台 FM100.3,http://ls.qingting.fm/live/1758.m3u8
-广西北部湾之声(广西对外广播) FM96.4,http://ls.qingting.fm/live/1757.m3u8
-广西卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225711/1/index.m3u8?fmt=ts2hls
-广西女主播电台 FM97.0,http://ls.qingting.fm/live/1754.m3u8
-广西新闻910 FM91.0,http://ls.qingting.fm/live/1753.m3u8
-广西旅游广播,http://media.bbrtv.com:1935/live/_definst_/lypl/chunklist_w1542235389.m3u8
-广西私家车930 FM93.0,http://ls.qingting.fm/live/1756.m3u8
-广西音乐台 FM95.0,http://ls.qingting.fm/live/4875.m3u8
-康巴卫视 (藏语),http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
-康熙微服私访,https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
-延安1台,http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
-延安2台,http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
-延边卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
-延边卫视 (Opt-2),http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
-延边卫视 (Opt-3),http://live.ybtvyun.com/video/s10016-cys-sd/index.m3u8
-延边新闻综合,http://stream2.jlntv.cn/jlyb/sd/live.m3u8
-延边汉语综合 (Opt-2),http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
-开州生活频道,http://kaixianlive.cbg.cn:10345/5.m3u8
-开州综合频道,http://kaixianlive.cbg.cn:10345/1.m3u8
-张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-张家港社会生活,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-彩民在线,http://39.135.16.142:6060/PLTV/88888888/224/3221225724/1/index.m3u8?fmt=ts2hls
-德国音乐mv,http://de1se01.v2beat.live/playlist.m3u8
-德州都市,http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
-心约之声公益广播,http://4521.hlsplay.aodianyun.com/xyzs/stream.m3u8
-快乐垂钓,http://124.232.231.246:6610/000000001001/201500000245/12000.m3u8?zte_auth=5b9f652e&IASHttpSessionId=OTT316620190424132116002936&m3u8_level=2&ztecid=201500000245&ispcode=8
-快乐宠物,http://112.17.40.140/PLTV/88888888/224/3221226748/index.m3u8
-恩平电台 FM97.7,http://ls.qingting.fm/live/80439.m3u8
-恩施公共频道,http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
-恩施新闻综合,http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
-惠州新闻综合,http://dslive.grtn.cn/hzzh/sd/live.m3u8
-惠州新闻综合广播 FM100,http://ls.qingting.fm/live/5016.m3u8
-惠州环保交通广播 FM98.8,http://ls.qingting.fm/live/5017.m3u8
-惠州音乐广播 FM90.7,http://ls.qingting.fm/live/2212959.m3u8
-扁豆看,https://ws.streamhls.huya.com/huyalive/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1_1200/playlist.m3u8
-扬州交通广播,http://ls.qingting.fm/live/2804.m3u8
-扬州新闻广播,http://ls.qingting.fm/live/5000.m3u8?aac
-扬州江都广播,http://ls.qingting.fm/live/4312411.m3u8
-扬州流行音乐广播,http://ls.qingting.fm/live/2805.m3u8
-拉萨人民广播电台 FM91.4,http://ls.qingting.fm/live/3244137.m3u8
-搞笑港片,https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8
-攀枝花公共,http://zb.pzhgd.com:9091/live/ggpd_800k.m3u8
-攀枝花新闻,http://zb.pzhgd.com:9091/live/xwzh.m3u8
-敦煌电视台,http://117.156.28.119/270000001111/1110000028/index.m3u8
-文山公众,http://store.ovp.wsrtv.com.cn:9090/ch2/hls/playlist.m3u8
-新乡都市之声 FM101.6,http://ls.qingting.fm/live/2975682.m3u8
-新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
-新唐人亚太臺,https://live.ntdimg.com/aplive200/playlist.m3u8
-新唐人加东臺,https://live.ntdimg.com/mllive860/playlist.m3u8
-新唐人加西臺,https://live.ntdimg.com/cwlive220/playlist.m3u8
-新唐人旧金山臺,https://live.ntdimg.com/sflive990/playlist.m3u8
-新唐人美东臺,https://live.ntdimg.com/live400/playlist.m3u8
-新唐人美西臺,https://live.ntdimg.com/uwlive990/playlist.m3u8
-新婚夫妇的性生活,https://156zy.suyunbo.tv/2018/07/21/RiQKisSwjNi4r7Hb/playlist.m3u8
-新疆交通广播 FM94.9 (Opt-1),http://aod.xjbs.com.cn:1935/live/949/32K/tzwj_video.m3u8
-新疆交通广播 FM94.9 (Opt-2),http://ls.qingting.fm/live/1910.m3u8
-新疆哈萨克语广播,http://ls.qingting.fm/live/1908.m3u8
-新疆哈萨克语广播,http://aod.xjbs.com.cn:1935/live/hay/32K/tzwj_video.m3u8
-新疆故事广播 FM102.8,http://aod.xjbs.com.cn:1935/live/1028/32K/tzwj_video.m3u8
-新疆故事广播 FM102.8,http://ls.qingting.fm/live/1911.m3u8
-新疆新闻广播 FM96.1 (Opt-1),http://ls.qingting.fm/live/1902.m3u8
-新疆新闻广播 FM96.1 (Opt-2),http://aod.xjbs.com.cn:1935/live/961/32K/tzwj_video.m3u8
-新疆柯尔克孜语广播,http://aod.xjbs.com.cn:1935/live/ky/32K/tzwj_video.m3u8
-新疆民生广播 FM92.4 (Opt-1),http://aod.xjbs.com.cn:1935/live/924/32K/tzwj_video.m3u8
-新疆民生广播 FM92.4 (Opt-2),http://ls.qingting.fm/live/76186.m3u8
-新疆私家车广播 FM92.9 (Opt-1),http://ls.qingting.fm/live/1909.m3u8
-新疆私家车广播 FM92.9 (Opt-2),http://aod.xjbs.com.cn:1935/live/929/32K/tzwj_video.m3u8
-新疆维吾尔语交通文艺广播 (Opt-1),http://aod.xjbs.com.cn:1935/live/wywy/32K/tzwj_video.m3u8
-新疆维吾尔语交通文艺广播 (Opt-2),http://ls.qingting.fm/live/78923.m3u8
-新疆维吾尔语综合广播,http://aod.xjbs.com.cn:1935/live/wy/32K/tzwj_video.m3u8
-新疆蒙古语广播 (Opt-1),http://ls.qingting.fm/live/1903.m3u8
-新疆蒙古语广播 (Opt-2),http://aod.xjbs.com.cn:1935/live/my/32K/tzwj_video.m3u8
-新疆阳光895 FM89.5,http://aod.xjbs.com.cn:1935/live/738/32K/tzwj_video.m3u8
-新疆音乐广播 MyFM FM103.9,http://aod.xjbs.com.cn:1935/live/1039/32K/tzwj_video.m3u8
-无锡交通广播 FM106.9,http://ls.qingting.fm/live/2780.m3u8
-无锡新闻广播 FM93.7,http://ls.qingting.fm/live/2777.m3u8
-无锡梁溪之声广播 FM92.6,http://ls.qingting.fm/live/2782.m3u8
-无锡汽车音乐广播 FM91.4,http://ls.qingting.fm/live/2779.m3u8
-无锡经济广播 FM104,http://ls.qingting.fm/live/2778.m3u8
-无锡综合广播 AM1116,http://ls.qingting.fm/live/2776.m3u8
-无锡都市生活广播 FM98.7,http://ls.qingting.fm/live/2783.m3u8
-日照公共,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
-昆明汽车广播 FM95.4,http://ls.qingting.fm/live/1936.m3u8
-昆明资讯频率,http://ls.qingting.fm/live/1937.m3u8
-昆明都市调频 FM102.8,http://ls.qingting.fm/live/1935.m3u8
-昆明阳光广播,http://ls.qingting.fm/live/1934.m3u8
-明星FM,http://ls.qingting.fm/live/91019.m3u8
-晋州综合,http://zhjz.chinashadt.com:2036/live/1.stream/chunklist.m3u8
-曲靖交通,http://ls.qingting.fm/live/3295949.m3u8
-曲靖综合,http://ls.qingting.fm/live/3295952.m3u8
-杭州交通广播 FM91.8,http://ls.qingting.fm/live/1133.m3u8
-杭州少儿,http://112.17.40.140/PLTV/88888888/224/3221226354/index.m3u8
-杭州影视,http://112.17.40.140/PLTV/88888888/224/3221226362/index.m3u8
-杭州文化,http://112.17.40.140/PLTV/88888888/224/3221226352/index.m3u8
-杭州新闻广播 FM89,http://ls.qingting.fm/live/1134.m3u8
-杭州生活,http://112.17.40.140/PLTV/88888888/224/3221226477/index.m3u8
-杭州综合,http://112.17.40.140/PLTV/88888888/224/3221226170/index.m3u8
-杭州综合广播 FM90.7,http://ls.qingting.fm/live/4546579.m3u8
-杭州老朋友广播 AM954,http://ls.qingting.fm/live/1132.m3u8
-杭州西湖之声 FM105.4,http://ls.qingting.fm/live/1163.m3u8
-松原新闻综合,http://stream2.jlntv.cn/sytv/sd/live.m3u8
-松潘电视台,http://111.231.197.215:85/live/spxwzh_600k.m3u8
-极速汽车,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225962/3.m3u8
-柳州科教,http://111.12.83.7:6410/000000001000/lzkj/1.m3u8?livemode=1
-株洲新闻综合,http://live.zzbtv.com/live/live122/800K/tzwj_video.m3u8
-株洲法制频道,http://live.zzbtv.com/live/live124/800K/tzwj_video.m3u8
-桂林公共,http://111.12.83.7:6410/000000001000/GLGG/1.m3u8?livemode=1
-桂林新闻综合,http://111.12.83.7:6410/000000001000/Guilin/1.m3u8?livemode=1
-桂林科教旅游,http://111.12.83.7:6410/000000001000/GLLY/1.m3u8?livemode=1
-梁平综合频道,http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8
-梅州交通广播 FM105.8,http://ls.qingting.fm/live/24195.m3u8
-梅州新闻广播 FM94.8,http://ls.qingting.fm/live/24173.m3u8
-梅州私家车广播 FM94,http://ls.qingting.fm/live/2841338.m3u8
-梅州综合,http://dslive.grtn.cn/mzzh/sd/live.m3u8
-梧州新闻综合,http://111.12.83.60:6610/000000001000/WuZhou/1.m3u8?livemode=1&IASHttpSessionId=SLB19972019031013144238170753
-楚天交通广播 FM92.7,http://ls.qingting.fm/live/1291.m3u8
-楚天音乐广播 FM105.8 (Opt-1),http://ls.qingting.fm/live/1289.m3u8
-楚天音乐广播 FM105.8 (Opt-2),http://live7.hbtv.com.cn/masvod/ctyygb_q1/index.m3u8
-欢笑剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225963/3.m3u8
-民视新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
-汕尾公共,http://dslive.grtn.cn/swzh/sd/live.m3u8
-江津文化旅游,http://jiangjinlive.cbg.cn:1935/ch2.m3u8
-江津新闻综合 (Opt-2),http://jiangjinlive.cbg.cn:1935/ch1.m3u8
-江津经济生活 (Opt-2),http://jiangjinlive.cbg.cn:1935/ch0.m3u8
-江苏交通广播 FM101.1,http://ls.qingting.fm/live/4054.m3u8
-江苏健康广播 AM846,http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
-江苏卫视,http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
-江苏故事广播 AM1206,http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
-江苏文艺广播 AM1053,http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
-江苏新闻广播 FM93.7,http://ls.qingting.fm/live/4944.m3u8
-江苏新闻综合广播 AM702 (Opt-1),http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
-江苏新闻综合广播 AM702 (Opt-2),http://ls.qingting.fm/live/5055.m3u8
-江苏财经广播 AM585,http://lzlive.vojs.cn/caijing/92/live.m3u8
-江苏金陵之声,http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
-江苏金陵之声网络台,http://lzlive.vojs.cn/O7QzcMu/92/live.m3u8
-江苏靓妆,http://39.135.16.142:6060/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
-江苏音乐广播 FM89.7,http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
-江西公共农业,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv05.m3u8
-江西卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
-江西少儿,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv06.m3u8
-江西新闻,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv07.m3u8
-江西旅游影视,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv04.m3u8
-江西移动电视,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv08.m3u8
-江西经济生活,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv03.m3u8
-江西都市,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv02.m3u8
-江门新闻综合台 FM100.2,http://ls.qingting.fm/live/1282.m3u8
-江门旅游音乐台 FM93.3,http://ls.qingting.fm/live/1283.m3u8
-江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
-池州公共,http://cztv.wshls.homecdn.com/live/829d.m3u8
-沈阳新闻广播 FM104.5,http://ls.qingting.fm/live/23891.m3u8
-沈阳生活广播 FM103.4,http://lms.csytv.com/Live/119/live/livestream.m3u8
-沈阳都市广播 FM92.1,http://ls.qingting.fm/live/1099.m3u8
-沈阳音乐广播 路上好朋友 FM98.6,http://ls.qingting.fm/live/1101.m3u8
-河北 My FM 102.9,http://ls.qingting.fm/live/2508757.m3u8
-河北交通广播 FM99.2,http://ls.qingting.fm/live/1646.m3u8
-河北公共,http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
-河北农民,http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
-河北农民广播 AM558,http://ls.qingting.fm/live/1650.m3u8
-河北卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
-河北卫视,http://111.40.205.76/PLTV/88888888/224/3221225623/index.m3u8
-河北影视,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
-河北故事广播 FM107.9,http://ls.qingting.fm/live/1645.m3u8
-河北新闻广播 FM104.3,http://ls.qingting.fm/live/1644.m3u8
-河北旅游广播 AM603,http://ls.qingting.fm/live/1651.m3u8
-河北生活广播 FM88.8,http://ls.qingting.fm/live/4867.m3u8
-河北私家车广播 FM90.7,http://ls.qingting.fm/live/4868.m3u8
-河北经济,http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
-河北音乐广播 FM102.4,http://ls.qingting.fm/live/1649.m3u8
-河南乐龄(信息广播) FM105.6,http://ls.qingting.fm/live/59896.m3u8
-河南交通广播 FM104.1,http://ls.qingting.fm/live/1209.m3u8
-河南卫视 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
-河南卫视 (Opt-2),http://183.207.249.7/PLTV/2/224/3221226065/index.m3u8
-河南卫视 (Opt-3),http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
-河南国际,http://61.58.60.230:9319/live/240.m3u8
-河南娱乐广播 FM97.6,http://ls.qingting.fm/live/1719795.m3u8
-河南影视广播 MyRadio FM90.0,http://ls.qingting.fm/live/1206.m3u8
-河南文物宝库,http://39.135.16.142:6060/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
-河南新闻广播 FM95.4,http://ls.qingting.fm/live/1215.m3u8
-河南武术世界,http://117.158.206.60:9080/live/wssj.m3u8
-河南私家车999 FM99.9,http://ls.qingting.fm/live/1219.m3u8
-河南音乐广播 魅力881 FM88.1,http://ls.qingting.fm/live/1208.m3u8
-河南驾车1066 FM106.6,http://ls.qingting.fm/live/1207.m3u8
-河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
-沾化新闻综合广播 FM104.2,http://ls.qingting.fm/live/2234967.m3u8
-泉港电视台,http://r.gslb.lecloud.com:80/live/hls/2018040830000001a13/desc.m3u8
-法治天地,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225932/1.m3u8
-济南交通广播 FM103.1,http://ls.qingting.fm/live/1669.m3u8
-济南商务,http://ts1.ijntv.cn/jnsw/sd/live.m3u8
-济南娱乐,http://ts2.ijntv.cn/jnyl/sd/live.m3u8
-济南少儿,http://ts2.ijntv.cn/jnse/sd1/live.m3u8
-济南影视,http://ts1.ijntv.cn/yshd/hd/live.m3u8
-济南故事广播 FM104.3,http://ls.qingting.fm/live/1672.m3u8
-济南新闻,http://ts1.ijntv.cn/xwhd/hd/live.m3u8
-济南新闻广播 FM106.6,http://ls.qingting.fm/live/1667.m3u8
-济南生活,http://ts2.ijntv.cn/jnsh/sd/live.m3u8
-济南私家车广播 FM93.6,http://ls.qingting.fm/live/1670.m3u8
-济南经济广播 FM90.9,http://ls.qingting.fm/live/1668.m3u8
-济南都市,http://ts1.ijntv.cn/jnds/sd/live.m3u8
-济南音乐广播(MUSIC887),http://ls.qingting.fm/live/1671.m3u8
-济宁新闻综合,http://lives.jnnews.tv:80/video/s10001-jntv/index.m3u8
-浙江之声 FM88 (Opt-1),http://ls.qingting.fm/live/4518.m3u8
-浙江之声 FM88 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio02/128k.m3u8
-浙江交通之声 FM93 (Opt-1),http://ls.qingting.fm/live/4522.m3u8
-浙江交通之声 FM93 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio04/128k.m3u8
-浙江公共新闻,http://112.17.40.140/PLTV/88888888/224/3221226324/index.m3u8
-浙江动听(音乐调频) FM96.8 (Opt-1),http://yf.m.l.cztv.com/channels/lantian/audio01/128k.m3u8
-浙江动听(音乐调频) FM96.8 (Opt-2),http://ls.qingting.fm/live/4866.m3u8
-浙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
-浙江国际,http://61.58.60.230:9319/live/233.m3u8
-浙江城市之声 (私家车107) FM107 (Opt-1),http://ls.qingting.fm/live/4523.m3u8
-浙江城市之声 (私家车107) FM107 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio06/128k.m3u8
-浙江女主播电台 FM104.5 (Opt-1),http://yf.m.l.cztv.com/channels/lantian/audio07/128k.m3u8
-浙江女主播电台 FM104.5 (Opt-2),http://ls.qingting.fm/live/4524.m3u8
-浙江少儿,http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
-浙江影视娱乐,http://112.17.40.140/PLTV/88888888/224/3221226273/index.m3u8
-浙江教育科技,http://112.17.40.140/PLTV/88888888/224/3221226118/index.m3u8
-浙江数码时代,http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
-浙江新闻广播新锐 FM98.8 (Opt-1),http://ls.qingting.fm/live/2686006.m3u8
-浙江新闻广播新锐 FM98.8 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio08/128k.m3u8
-浙江民生,http://112.17.40.140/PLTV/88888888/224/3221226237/index.m3u8
-浙江民生 FM99.6,http://ls.qingting.fm/live/4521.m3u8
-浙江经济生活,http://112.17.40.140/PLTV/88888888/224/3221226423/index.m3u8
-浙江财富广播 FM95 (Opt-1),http://ls.qingting.fm/live/4519.m3u8
-浙江财富广播 FM95 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio05/128k.m3u8
-浦江之声 AM1422,http://ls.qingting.fm/live/4857.m3u8
-海南交通广播 FM100,http://ls.qingting.fm/live/4911.m3u8
-海南国际旅游之声 FM103.8,http://ls.qingting.fm/live/1862.m3u8
-海南新闻广播 FM88.6,http://ls.qingting.fm/live/1861.m3u8
-海南民生广播 FM101,http://ls.qingting.fm/live/1511803.m3u8
-海南音乐广播 FM94.5,http://ls.qingting.fm/live/4878.m3u8
-海口音乐广播,http://ls.qingting.fm/live/23859.m3u8
-海峡卫视,http://stream6.fjtv.net/haixia/sd/live.m3u8
-深圳DV生活,http://39.135.16.142:6060/PLTV/88888888/224/3221225735/1/index.m3u8?fmt=ts2hls
-深圳先锋898(新闻广播),http://ls.qingting.fm/live/1270.m3u8
-深圳国际,http://61.58.60.230:9319/live/235.m3u8
-深圳快乐1062(交通广播),http://ls.qingting.fm/live/1272.m3u8
-深圳私家车广播 FM94.2,http://ls.qingting.fm/live/1273.m3u8
-深圳蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8
-深圳飞扬音乐971,http://ls.qingting.fm/live/1271.m3u8
-温州交通广播 FM103.9,http://ls.qingting.fm/live/23863.m3u8
-温州新闻广播 FM94.9,http://ls.qingting.fm/live/23861.m3u8
-温州私家车音乐广播 FM100.3,http://ls.qingting.fm/live/23865.m3u8
-温州经济生活广播 FM88.8,http://ls.qingting.fm/live/23867.m3u8
-温州绿色之声 FM93.8,http://ls.qingting.fm/live/1158.m3u8
-游戏风云,http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
-湖南公共,http://124.232.231.246:6610/000000001001/201500000222/8000.m3u8?zte_auth=97417933&IASHttpSessionId=OTT310920190424131305003289&m3u8_level=2&ztecid=201500000222&ispcode=8
-湖南卫视 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
-湖南国际,http://61.58.60.230:9319/live/231.m3u8
-湖南娱乐,http://124.232.231.246:6610/000000001001/201500000239/12000.m3u8?zte_auth=5ceb9ed4&IASHttpSessionId=OTT310520190424131535003711&m3u8_level=2&ztecid=201500000239&ispcode=8
-湖南电影,http://124.232.231.246:6610/000000001001/201500000237/12000.m3u8?zte_auth=36c585e0&IASHttpSessionId=OTT317020190424130851003388&m3u8_level=2&ztecid=201500000237&ispcode=8
-湖南电视剧,http://124.232.231.246:6610/000000001001/201500000236/12000.m3u8?zte_auth=3de67b91&IASHttpSessionId=OTT316220190424131110003832&m3u8_level=2&ztecid=201500000236&ispcode=8
-湖南经视,http://124.232.231.246:6610/000000001001/201500000234/12000.m3u8?zte_auth=6f52ab12&IASHttpSessionId=OTT314620190424132544002761&m3u8_level=2&ztecid=201500000234&ispcode=8
-湖南茶,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-湖南都市,http://124.232.231.246:6610/000000001001/201500000235/12000.m3u8?zte_auth=fbca2edc&IASHttpSessionId=OTT310920190424130449003220&m3u8_level=2&ztecid=201500000235&ispcode=8
-湖州交通文艺广播 FM98.5,http://ls.qingting.fm/live/2811.m3u8
-湖州经济广播 FM103.5,http://ls.qingting.fm/live/2812.m3u8
-湖州综合广播 湖州之声 FM05,http://ls.qingting.fm/live/2810.m3u8
-滨海影视,http://60.30.52.41/live/bhtv3/playlist.m3u8
-滨海新闻,http://60.30.52.41/live/bhtv1/playlist.m3u8
-滨海都市,http://60.30.52.41/live/bhtv2/playlist.m3u8
-潍坊新闻广播 FM100.2,http://ls.qingting.fm/live/60358.m3u8
-潍坊私家车广播 FM93.3,http://ls.qingting.fm/live/84511.m3u8
-潍坊音乐优生活 FM90.8,http://ls.qingting.fm/live/4865.m3u8
-潍坊音乐广播 FM88.7,http://ls.qingting.fm/live/4015.m3u8
-潮安综艺,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
-潮州交通音乐广播 FM91.4,http://ls.qingting.fm/live/4594.m3u8
-潮州戏曲广播 FM103.1,http://ls.qingting.fm/live/4595.m3u8
-潮州新闻综合广播 FM94.0,http://ls.qingting.fm/live/4596.m3u8
-灵台新闻综合,http://117.156.28.119/270000001111/1110000145/index.m3u8
-炫动卡通,http://183.207.249.7/PLTV/2/224/3221226047/index.m3u8
-爱奇艺地方台-河北都市,http://weblive.hebtv.com/live/hbds_bq/index.m3u8
-爱情公寓,https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
-牛叔解说电影,https://al.hls.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_1200.m3u8
-牡丹江经济广播,http://ls.qingting.fm/live/3687385.m3u8
-献县1台,http://hbxx.chinashadt.com:3299/live/stream%3Adi7.stream_360p/chunklist.m3u8
-献县2台,http://hbxx.chinashadt.com:3299/live/stream%3Adi8.stream_360p/chunklist.m3u8
-玉林新闻综合,http://111.12.83.13:6610/000000001000/Yulin/1.m3u8?livemode=1&IASHttpSessionId=SLB20002019031013092037863610
-珠海电台交通音乐875,http://ls.qingting.fm/live/1275.m3u8
-珠海电台先锋951,http://ls.qingting.fm/live/1274.m3u8
-珠海电台活力915,http://ls.qingting.fm/live/2473319.m3u8
-甘肃卫视,http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8
-甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
-甘肃文化影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
-甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
-甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
-生化危机,https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-电视剧频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-白城新闻综合,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-盘锦交通文艺广播 FM91.4,http://ls.qingting.fm/live/2650481.m3u8
-盘锦新闻综合广播 FM104.2,http://ls.qingting.fm/live/1097.m3u8
-盘锦经济生活广播 FM97.1,http://ls.qingting.fm/live/1098.m3u8
-睢宁综合,http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
-石狮电视台,http://218.5.112.180:88/live/dssl/playlist.m3u8
-石狮综合,http://218.5.112.180:88/live/dssl/chunklist_w1615464711.m3u8
-福州少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-福州影视,http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
-福州生活,http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
-福州综合,http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
-福建公共,http://stream5.fjtv.net/ggpd/sd/live.m3u8
-福建少儿,http://stream6.fjtv.net/child/sd/live.m3u8
-福建新闻,http://stream5.fjtv.net/xwpd/sd/live.m3u8
-福建旅游,http://stream6.fjtv.net/dspd/sd/live.m3u8
-福建经济,http://stream6.fjtv.net/jjpd/sd/live.m3u8
-积石山电视台,http://117.156.28.119/270000001111/1110000152/index.m3u8
-第一财经,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
-第一财经 FM97.7,http://ls.qingting.fm/live/276.m3u8
-篮球火,https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
-綦江综合频道,http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
-纪实频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
-终极一班,https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-罗城综合,http://120.78.123.146:9100/lctvlive/lch.m3u8
-老香菇,https://ws.streamhls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1_1200/playlist.m3u8
-肃州电视台,http://117.156.28.119/270000001111/1110000123/index.m3u8
-舌尖上的中国,https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-舟山公共生活,http://live.wifizs.cn/ggsh/sd/live.m3u8
-舟山新闻综合 (Opt-1),http://live.wifizs.cn/xwzh/sd/live.m3u8
-舟山新闻综合 (Opt-2),http://stream.wifizs.cn/xwzh/sd/live.m3u8
-舟山群岛旅游,http://live.wifizs.cn/qdly/sd/live.m3u8
-艺术人文,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225976/1.m3u8
-英语辅导频道,http://39.135.16.142:6060/PLTV/88888888/224/3221225737/1/index.m3u8?fmt=ts2hls
-荆州新闻,http://117.149.150.4/guangdianyun_33058/tv_channel_216__redirect__33058.m3u8
-荆门之声频率 FM89.7,http://live.jmtv.com.cn/xwzhpl/sd/live.m3u8
-荆门交通音乐频率 FM99.3 (Opt-1),http://live.jmtv.com.cn/jtyypl/sd/live.m3u8
-荆门交通音乐频率 FM99.3 (Opt-2),http://ls.qingting.fm/live/60808.m3u8
-萤火虫网络电台,http://ls.qingting.fm/live/4998.m3u8
-衡水交通广播,http://hls.hsrtv.cn/hls/radio3.m3u8
-衡水公共频道,http://hls.hsrtv.cn/hls/hstv3.m3u8
-衡水影视娱乐,http://hls.hsrtv.cn/hls/hstv2.m3u8
-衡水文艺广播 FM96.1,http://hls.hsrtv.cn/hls/radio2.m3u8
-衡水新闻广播,http://hls.hsrtv.cn/hls/radio1.m3u8
-衡水新闻综合,http://hls.hsrtv.cn/hls/hstv1.m3u8
-衡阳交通广播 FM101.8,http://ls.qingting.fm/live/5079921.m3u8
-衡阳新闻广播 FM98.9,http://ls.qingting.fm/live/5079970.m3u8
-襄阳交通广播 FM89.0 (Opt-1),http://ls.qingting.fm/live/1307.m3u8
-襄阳交通广播 FM89.0 (Opt-2),http://ls.qingting.fm/live/1308.m3u8
-襄阳音乐广播,http://ls.qingting.fm/live/5057.m3u8
-西宁交通频率,http://ls.qingting.fm/live/3400408.m3u8
-西宁新闻,http://111.44.138.251:15414/contents38/live/CHANNEL624b6cac092948abad7426bce3d27350/HD_4402299958362184480/live.m3u8
-西宁新闻频率,http://ls.qingting.fm/live/3400403.m3u8
-西宁旅游频率,http://ls.qingting.fm/live/3400411.m3u8
-西宁生活,http://111.44.138.251:15414/contents38/live/CHANNEL10d2ec0ddf704bb3bb45863d5b0f698f/HD_3655028264191063491/live.m3u8
-西宁私家车音乐调频,http://ls.qingting.fm/live/3377772.m3u8
-西安交通广播 FM104.3 (Opt-1),http://ls.qingting.fm/live/1611.m3u8
-西安交通广播 FM104.3 (Opt-2),http://stream3.xiancity.cn/5/sd/live.m3u8
-西安健康,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-西安新闻广播 FM95.0 (Opt-1),http://ls.qingting.fm/live/1610.m3u8
-西安新闻广播 FM95.0 (Opt-2),http://stream3.xiancity.cn/1/sd/live.m3u8
-西安白鸽,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-西安资讯,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-西安资讯广播 FM106.1,http://stream3.xiancity.cn/2/sd/live.m3u8
-西安音乐广播 FM93.1 (Opt-1),http://ls.qingting.fm/live/1612.m3u8
-西安音乐广播 FM93.1 (Opt-2),http://stream3.xiancity.cn/4/sd/live.m3u8
-西安音乐综艺,http://stream2.xiancity.cn/xatv6/sd/live.m3u8
-西游记,https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
-西湖明珠,http://112.17.40.140/PLTV/88888888/224/3221226212/index.m3u8
-西藏卫视,http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
-西藏汉语广播 FM93.3,http://ls.qingting.fm/live/1733219.m3u8
-西藏藏语广播 FM106.3,http://ls.qingting.fm/live/1313.m3u8
-西藏都市生活广播 FM98.0,http://ls.qingting.fm/live/1316.m3u8
-贵州7,http://39.135.16.142:6060/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
-贵州公共,http://39.135.16.142:6060/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
-贵州卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
-贵州大众生活,http://39.135.16.142:6060/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
-贵州新闻综合广播 FM94.6,http://ls.qingting.fm/live/23933.m3u8
-贵州法制,http://39.135.16.142:6060/PLTV/88888888/224/3221225662/1/index.m3u8?fmt=ts2hls
-贵州电台交通广播 FM95.2,http://ls.qingting.fm/live/23927.m3u8
-贵州电台故事广播 FM90.0,http://ls.qingting.fm/live/23931.m3u8
-贵州电台旅游广播 FM97.2,http://ls.qingting.fm/live/23929.m3u8
-贵州电台经济广播 FM98.9,http://ls.qingting.fm/live/23935.m3u8
-贵州电台音乐广播 FM91.6,http://ls.qingting.fm/live/23937.m3u8
-贵州科教健康 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225672/1/index.m3u8?fmt=ts2hls
-贵州科教健康 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
-贵州移动电视,http://39.135.16.142:6060/PLTV/88888888/224/3221225774/1/index.m3u8?fmt=ts2hls
-贵港新闻综合,http://111.12.83.13:6610/000000001000/XinWenZongHe/1.m3u8?livemode=1&IASHttpSessionId=SLB20072019031013115337860633
-贵阳新闻综合,http://39.135.16.142:6060/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
-赞皇电视台,http://hbzz.chinashadt.com:2036/zhibo/4.stream/chunklist.m3u8
-越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-越哥看电影,https://ws.streamhls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_1200/playlist.m3u8
-轩辕剑,https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
-辽宁交通广播 FM97.5,http://ls.qingting.fm/live/23801.m3u8
-辽宁卫视,http://112.50.243.8/PLTV/88888888/224/3221225947/3.m3u8
-辽宁瓢虫台,http://ls.qingting.fm/live/68238.m3u8
-辽宁经济,http://lms.csytv.com/Live/123/live/livestream.m3u8
-辽宁经济广播 FM88.8,http://ls.qingting.fm/live/23797.m3u8
-辽宁综合广播 FM102.9,http://ls.qingting.fm/live/23793.m3u8
-辽源新闻综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-迁安快乐3频道,http://app.qatv.cn:1936/live/stream:kl3pd.stream_720p/playlist.m3u8
-迁安新闻综合,http://app.qatv.cn:1936/live/stream:xwzh.stream_720p/playlist.m3u8
-迁安生活影视,http://app.qatv.cn:1937/live/stream:shfw.stream_720p/playlist.m3u8
-迪庆藏语,http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
-迭部电视台,http://117.156.28.119/270000001111/1110000154/index.m3u8
-通化新闻,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-邢台爱尚986,http://ls.qingting.fm/live/2344255.m3u8
-郁南网络电台,http://ls.qingting.fm/live/23893.m3u8
-郑州新闻广播 FM98.6,http://ls.qingting.fm/live/1220.m3u8
-郑州汽车广播 FM91.2,http://ls.qingting.fm/live/1211.m3u8
-郑州活力944,http://ls.qingting.fm/live/4921.m3u8
-郑州私家车 FM91.8,http://ls.qingting.fm/live/1222.m3u8
-郑州经典广播 FM107.9,http://ls.qingting.fm/live/1223.m3u8
-郑州车道931,http://ls.qingting.fm/live/1221.m3u8
-郴州综合广播 FM99.2,http://ls.qingting.fm/live/76765.m3u8
-郴州音乐交通广播 FM102.8,http://ls.qingting.fm/live/86747.m3u8
-都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
-都市频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225969/3.m3u8
-酒泉公共,http://117.156.28.119/270000001111/1110000002/index.m3u8
-酒泉新闻综合,http://117.156.28.119/270000001111/1110000001/index.m3u8
-重庆交通广播 FM95.5,http://ls.qingting.fm/live/1500.m3u8
-重庆卫视,http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
-重庆国际,http://61.58.60.230:9319/live/236.m3u8
-重庆影视,http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
-重庆文艺广播 FM103.5,http://ls.qingting.fm/live/1501.m3u8
-重庆新闻,http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
-重庆新闻广播 FM96.8,http://ls.qingting.fm/live/1498.m3u8
-重庆汽摩,http://39.135.16.142:6060/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
-重庆移动公交,http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
-重庆移动机场,http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
-重庆都市广播 FM93.8,http://ls.qingting.fm/live/1502.m3u8
-重庆音乐广播 FM88.1,http://ls.qingting.fm/live/647.m3u8
-金十电台,http://fmcdn.jin10.com/AAC/voice.m3u8
-金华教育科技,http://stream.jinhua.com.cn/jykj/app/live.m3u8
-金华都市农村,http://stream.jinhua.com.cn/dsnc/app/live.m3u8
-金庸电影,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-金昌公共频道,http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
-金昌综合频道,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
-金色频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
-金鹰955电台,http://ls.qingting.fm/live/4937.m3u8
-金鹰卡通,http://112.50.243.8/PLTV/88888888/224/3221226746/3.m3u8
-金鹰纪实 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
-金鹰纪实 (Opt-2),http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
-钱江电视,http://112.17.40.140/PLTV/88888888/224/3221226275/index.m3u8
-铜仁综合,http://gztr.chinashadt.com:2036/live/stream:tr1.stream/playlist.m3u8
-铜梁电台龙乡之声 FM96.6,http://222.180.119.78:10346/a1.m3u8
-银川交通音乐台 FM100.6,http://live1.ycgbtv.com.cn/ycjt/sd/live.m3u8
-银川公共,http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
-银川新闻综合频率 AM801,http://live1.ycgbtv.com.cn/ycxwpl/sd/live.m3u8
-银川汽车生活广播 FM90.5,http://live1.ycgbtv.com.cn/yccar/sd/live.m3u8
-银川生活,http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
-银川都市经济广播 FM95.0,http://live1.ycgbtv.com.cn/ycdupl/sd/live.m3u8
-镇江交通频率 FM88.8,http://live.zjmc.tv/5/sd/live.m3u8
-镇江动感私家车电台 FM102.7,http://live.zjmc.tv/9/sd/live.m3u8
-镇江城市生活频率 FM90.5,http://live.zjmc.tv/7/sd/live.m3u8
-镇江新闻频率 FM104,http://live.zjmc.tv/4/sd/live.m3u8
-镇江音乐频率 FM96.3,http://live.zjmc.tv/6/sd/live.m3u8
-长寿文化旅游,http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8
-长春娱乐,http://stream.chinactv.com/ctv2/sd/live.m3u8
-长春市民,http://stream.chinactv.com/ctv3/sd/live.m3u8
-长春汽车,http://stream.chinactv.com/ctv5/sd/live.m3u8
-长春生活故事广播 FM90.0,http://ls.qingting.fm/live/5014.m3u8
-长春经济,http://stream.chinactv.com/ctv4/sd/live.m3u8
-长春综合 (Opt-1),http://stream2.jlntv.cn/jlcc/sd/live.m3u8
-长春综合 (Opt-2),http://stream.chinactv.com/ctv1/sd/live.m3u8
-长沙城市之声 FM101.7,http://ls.qingting.fm/live/4237.m3u8
-长沙新闻广播 FM105.0,http://ls.qingting.fm/live/4877.m3u8
-长治1台,http://streaming.czgd.cn:8084/4b0bcd8509d748358b4450921fc3443b/h264_300k_ts/index.m3u8?type=hls_live_redirect
-长治2台,http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
-长治3台,http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
-长治交通文艺广播 FM94.9,http://ls.qingting.fm/live/2669405.m3u8
-长治新闻综合广播(幸福广播) FM94.3,http://ls.qingting.fm/live/2702863.m3u8
-阆中综合,http://27.148.162.45/guangdianyun_36133/tv_channel_363__redirect__36133.m3u8
-阳信人民广播电台 FM103.4,http://ls.qingting.fm/live/2915753.m3u8
-阳江公共,http://live.yjbc.tv:8081/live/smil:yjtv2.smil/playlist.m3u8
-阳江综合,http://dslive.grtn.cn/yjzh/sd/live.m3u8
-阳江综合,http://live.yjbc.tv:8081/live/smil:yjtv1.smil/playlist.m3u8
-阳泉交通广播,http://ls.qingting.fm/live/4592896.m3u8?aac
-阳泉新闻综合广播,http://ls.qingting.fm/live/5876899.m3u8?aac
-阿祥看电影,https://ws.streamhls.huya.com/huyalive/1199512004776-1199512004776-5223235107350904832-2399024133008-10057-A-0-1_1200/playlist.m3u8
-陕西交通广播 FM91.6,http://ls.qingting.fm/live/1601.m3u8
-陕西公共,http://stream.snrtv.com/sxtvs-5.m3u8
-陕西农村广播 AM900,http://ls.qingting.fm/live/1602.m3u8
-陕西卫视,http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
-陕西戏曲广播 AM747,http://ls.qingting.fm/live/1606.m3u8
-陕西故事广播 AM603,http://ls.qingting.fm/live/1608.m3u8
-陕西汽车调频 FM89.6,http://ls.qingting.fm/live/1603.m3u8
-陕西生活,http://stream.snrtv.com/sxtvs-3.m3u8
-陕西秦腔广播 FM101.1,http://ls.qingting.fm/live/1604.m3u8
-陕西都市,http://stream.snrtv.com/sxtvs-2.m3u8
-陕西都市广播-陕广新闻 FM101.8,http://ls.qingting.fm/live/1609.m3u8
-陕西音乐广播 FM98.8,http://ls.qingting.fm/live/4873.m3u8
-集安综合频道,http://stream2.jlntv.cn/ja/sd/live.m3u8
-青岛交通广播 FM89.7,http://ls.qingting.fm/live/1676.m3u8
-青岛故事广播 FM95.2,http://ls.qingting.fm/live/4956.m3u8
-青岛新闻广播 FM107.6,http://ls.qingting.fm/live/1673.m3u8
-青岛经典音乐调频 FM87.5,http://ls.qingting.fm/live/4613829.m3u8
-青岛西海岸交通广播 FM92.6,http://ls.qingting.fm/live/3748882.m3u8
-青岛西海岸城市生活广播 FM92.6,http://ls.qingting.fm/live/33446.m3u8
-青海交通音乐广播 FM97.2,http://ls.qingting.fm/live/5009.m3u8
-青海卫视,http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
-青海生活,http://111.44.138.251:15414/contents39/live/CHANNEL8c2bd69052744f6698d01be2a829dae9/HD_1212931560398178049/live.m3u8
-青海生活广播 花儿调频 FM90.3,http://ls.qingting.fm/live/2163891.m3u8
-青海经济广播 FM07.5,http://ls.qingting.fm/live/5008.m3u8
-青海都市,http://111.44.138.251:15414/contents39/live/CHANNELd88233ec001443eab59a2654bb3e0d62/HD_1761200208961192182/live.m3u8
-静宁综合,http://117.156.28.119/270000001111/1110000147/index.m3u8
-韩国EBSeHD,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-韩国KBS1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-顶级科幻,https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-马鞍山交通广播 FM92.8,http://ls.qingting.fm/live/79109.m3u8
-马鞍山公共,http://live.massp.cn:5011/vod/video_hls/c03.m3u8
-马鞍山影视,http://live.massp.cn:5011/vod/video_hls/c02.m3u8
-马鞍山新闻广播 FM105.1,http://ls.qingting.fm/live/79135.m3u8
-马鞍山新闻综合,http://live.massp.cn:5011/vod/video_hls/c01.m3u8
-马鞍山音乐广播 FM94.5,http://ls.qingting.fm/live/79133.m3u8
-高台电视台,http://117.156.28.119/270000001111/1110000146/index.m3u8
-鬼话怪谈,https://ws.streamhls.huya.com/huyalive/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1_1200/playlist.m3u8
-魔幻手机,https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
-鹤壁交通音乐广播 FM93.5,http://ls.qingting.fm/live/3032681.m3u8
-鹤壁新闻综合,http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-鹤山电台104.7,http://ls.qingting.fm/live/1286.m3u8
-黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
-黔西南交通旅游广播 FM88.3,http://ls.qingting.fm/live/5046.m3u8
-黔西南金州之声 FM107.9,http://ls.qingting.fm/live/5045.m3u8
-龙岩公共,http://stream.lytv.net.cn/1/sd/live.m3u8
-龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
-龙广乡村广播 AM945,http://stream3.hljtv.com/hljrdnc/sd/live.m3u8
-龙广乡村广播 AM945,http://ls.qingting.fm/live/4977.m3u8
-龙广交通广播 FM99.8,http://ls.qingting.fm/live/4973.m3u8
-龙广北大荒之声 FM104.6,http://stream3.hljtv.com/hljrdgx/sd/live.m3u8
-龙广新闻广播 FM94.6,http://stream3.hljtv.com/hljrdjt/sd/live.m3u8
-龙广新闻广播 FM94.6,http://ls.qingting.fm/live/4974.m3u8
-龙广朝鲜语广播 AM873,http://stream3.hljtv.com/hljrdcy/sd/live.m3u8
-龙广爱家频道 FM97,http://ls.qingting.fm/live/4972.m3u8
-龙广私家车广播 FM104.5,http://ls.qingting.fm/live/4970.m3u8
-龙广都市女性台 FM102.1,http://ls.qingting.fm/live/4968.m3u8
-龙广都市女性台 FM102.1,http://stream3.hljtv.com/hljrd97/sd/live.m3u8
-龙广青苹果之声 FM104.6,http://ls.qingting.fm/live/4976.m3u8
-龙广音乐广播 FM95.8,http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
-龙广音乐广播 FM95.8,http://ls.qingting.fm/live/4969.m3u8
-BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-BSTV(贡献者:007),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-TVB星河,http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-凤凰中文,http://117.169.120.217:8080/live/fhchinese/.m3u8
-凤凰中文HD2,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-凤凰中文备1,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文备2,http://live.fengshows.com/live/PCC_500k/index.m3u8
-凤凰卫视中文台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
-凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰资讯HD1,http://223.82.250.72/live/fhzixun/1.m3u8
-凤凰香港高清,http://223.82.250.72/live/fhhongkong/1.m3u8
-卫视點心,http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE
-唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-壹新闻,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-大愛一台,http://61.58.60.230:9319/live/10.m3u8
-大愛二台,http://61.58.60.230:9319/live/191.m3u8
-天映頻道,http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
-新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
-民视,http://60.251.37.44:8080/live/super7659.m3u8
-民视新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-港台電視 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-澳亞衛視,http://stream.mastvnet.com/MSTV/playlist.m3u8
-澳視高清,http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-澳视MACAU衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-澳视葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-澳视资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-1 Music Channel (Opt-1),http://92.249.129.152/stream/1music.m3u8
-1 Music Channel (Opt-2),http://stream.1music.hu/stream/1music.m3u8
-1 Music Channel (Opt-3),http://stream.1music.hu/stream/1music.m3u8?GrupoTopIptv
-玩命關頭9,https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8#https://europe.olemovienews.com/hlstimeofffmp4/20210521/ysDglvoA/mp4/ysDglvoA.mp4/master.m3u8
-
-以下測試頻道_0120,#genre#
-新婚夫歸的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
-AV女優加籐,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/e/9ea3eb4a05d962b4db273de38c6ced991486995925-1280-720-1653-h264.mp4/master.m3u8
-Z真白愛梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/c/fc3caa1d0d05ec7f5137338ac34243c11486995025-1280-720-1563-h264.mp4/master.m3u8
-復掃真央,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/b/4b1dc42613a50405884270ca2b6364431476575103-1280-720-1384-h264.mp4/master.m3u8
-天然美少女&真夏泳衣SEX青山未來,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/f/ff8585c04bc1a5023bc44b4130f3947d1486992930-1280-720-1537-h264.mp4/master.m3u8
-慾求不滿解消課木村美羽雨宮,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/1/81f1b954fb98909f77c7ddec750c64ce1487073022-1280-720-1466-h264.mp4/master.m3u8
-伊籐果夏,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/4/943e75dc2e01641e5db293ab9698f0121486995615-1280-720-1203-h264.mp4/master.m3u8
-南澤,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/0/501ed65cf38ca3436aa69684917710441487074519-1280-720-1737-h264.mp4/master.m3u8
-中出鄰居姐姐乾優那,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/0/40e16c546dcd8b002efd7f9a80dc48ff1486995022-1280-720-1231-h264.mp4/master.m3u8
-老公不在家被強暴爬著逃跑的人妻從背後被插高潮到痙攣的人妻2,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/3/83638197670621b7ee14dd09c944120b1482799513-720-480-903-h264.mp4/master.m3u8
-巨乳網球社團女大學生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/e/2/e23b31ba6c94be18a5ed41a9ef8dd62b1482877526-720-480-852-h264.mp4/master.m3u8
-美痴女先生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/a/7a15b06dc81bdb7081fbed1d6ebc61351487075127-1280-720-1595-h264.mp4/master.m3u8
-AV女優志望上京娘高烏穗,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/d/cd7195440a796e718ff46bfb149972401486992903-1280-720-1689-h264.mp4/master.m3u8
-SEX相親千葉,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/1/6/1675c05df835324da5ec738c7a59c18c1486994404-1280-720-1854-h264.mp4/master.m3u8
-我們在校外教學的夜晚被持續一整晚侵犯了。紗世悠,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/d/5d7f7c9bf037d6bf42f1534a2a08edd71482817242-720-480-1241-h264.mp4/master.m3u8
-浴衣姿欲情橋本憐奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/4/94f90c2feee4de53b7b4c3d90b67e3b01486994410-1280-720-2212-h264.mp4/master.m3u8
-視界侵入,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/e/ae284abc3af267e10b97777895c8ce6e1487128203-1280-720-1229-h264.mp4/master.m3u8
-後輩之妹荒木,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/3/3363ae4ed1dfaf4f38d2667e35663bdf1486997190-1280-720-1620-h264.mp4/master.m3u8
-美巨乳女幽靈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/c/6c76c4fb62fa921ae79a2a86de66f1cb1486993205-1280-720-1223-h264.mp4/master.m3u8
-戀童癖專用肥皂土地4碧木凜,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/d/4d00b74e2a4267c91d66b04a9d5d860c1487127925-1280-720-1326-h264.mp4/master.m3u8
-甜蜜同居生活春日部,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/0/8/08d21dac5743f87c666c3d5eeb43fb5c1487127626-1280-720-1114-h264.mp4/master.m3u8
-風扇感谢祭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/1/3/134a056848d7d5f1f8aec075c9329f821487130335-1280-720-2143-h264.mp4/master.m3u8
-美尻俱樂部,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/0/a0fd0180d90347c4d99fb438fc59ce851476273018-1280-720-1585-h264.mp4/master.m3u8
-木村粉統感謝祭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/4/f4801e64dac12ff893e3a017da62e25f1475536502-1280-720-2738-h264.mp4/master.m3u8
-大島奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/f/bfbcb4f28f98adfbd6551c52a21628471487073919-1280-720-1554-h264.mp4/master.m3u8
-我為了打工被強暴了蕾,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/4/7406ac8c39a24d4cbc0124cd05eff94d1482843919-720-480-1085-h264.mp4/master.m3u8
-母女4P共演松本萌芭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/a/8ad37e3865a866f4279db5f1ae75fbc41475537727-1280-720-1331-h264.mp4/master.m3u8
-女熱大陸原亞衣,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/7/b73ef6f3754611c000bf4c86c5d683c81476521708-1280-720-1346-h264.mp4/master.m3u8
-本山茉莉,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/c/9c949b9097d3813f934084c83763a3081487076335-1280-720-1558-h264.mp4/master.m3u8
-自宅侵入強暴!,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/d/cda6d1a86f78e4528ca2338e3525fea51481139002-720-480-1205-h264.mp4/master.m3u8
-其實，我老公的主管上了我好多次杏,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/2/92cd0ce8d844c10076da7c6d98fab6891481157326-720-480-891-h264.mp4/master.m3u8
-VICD-390在讀美大女大學生真正破處小川真白,http://videocdn.dlyilian.com:8091/20190331/VI2RTYUI390/index.m3u8
-SSNI-324空姐鬼畜輪姦～標誌性的美人空姐～葵都香紗,http://videocdn.dlyilian.com:8091/20190331/SS6IHN324/index.m3u8
-YOZ-358地鐵站沿線蕩婦女孩工作的妓院,http://videocdn.dlyilian.com:8091/20190331/YO1HJYF358/index.m3u8
-STARS-004加藤桃香馬上要結婚的SOD女員工被【奴隸化·屈服·完全壓制】強姦~戴耳機騎自行車的女孩被盯上~,http://videocdn.dlyilian.com:8091/20190331/ST9KUQ004/index.m3u8
-SDMU-892 SOD女員工精液射光？！真正內射21次！【高潮小穴】非常緊的現實感在這個飛機杯開發的專案組再現，模特選拔無套大亂交！,http://videocdn.dlyilian.com:8091/20190331/SD0MYS892/index.m3u8
-TSP-407機場附近的混浴露天溫泉是空姐們最喜歡的地方！在這裡喝酒上床的這件事3,http://videocdn.dlyilian.com:8091/20190331/TS6KUBZ407/index.m3u8
-SDDE-552以「制服?內褲?全裸」陪伴你的跨坐男人小穴航空9內射航班,http://videocdn.dlyilian.com:8091/20190331/SQK4EFL552/index.m3u8
-SHKD-810輪姦學校西野翔,http://videocdn.dlyilian.com:8091/20190331/SAK2TUDF810/index.m3u8
-TAAK-027剛搬來的是狂被性騷擾肉感女大生神宮寺奈緒,http://videocdn.dlyilian.com:8091/20190331/TA6UJYD027/index.m3u8
-SGSR-223喝酒的好時候！！一直在意的可愛同僚女社員乘醉在激情做愛中12人4小時,http://videocdn.dlyilian.com:8091/20190331/SG2QDGFZ223/index.m3u8
-SABA-377無套內射離家出走的製服美少女002小楓,http://videocdn.dlyilian.com:8091/20190331/SA7IOPFW377/index.m3u8
-TMCY-118女子大學生，在找工作。,http://videocdn.dlyilian.com:8091/20190331/TMI2GFNB118/index.m3u8
-SSNI-176新人女優第一名阿由葉亞美AV出道作！名牌大學畢業的苗條女大學生有碼高清,http://videocdn.dlyilian.com:8091/20190331/SNR4YES176/index.m3u8
-PRED-116追擊口交達人射精後陰莖又勃起！喜歡口交的在讀女大學生AV出演！深田詠美有碼高清,http://videocdn.dlyilian.com:8091/20190331/PR5HBNS116/index.m3u8
-SSNI-328女子大學生在電車上強忍羞恥聲音連續高潮的數天日菜菜彩音,http://videocdn.dlyilian.com:8091/20190331/SS8IOUKF328/index.m3u8
-SDMU-906 SOD公司星探偷拍到的AV業界新人女優做愛真實視頻柿沼凜（20）,http://videocdn.dlyilian.com:8091/20190331/SD7UIBG906/index.m3u8
-PRED-113知識份子女上司的中出攝影會寶生莉莉,http://videocdn.dlyilian.com:8091/20190331/PR2TUHG113/index.m3u8
-SVDVD-688修學旅行來到東京的鄉下女學生被無套內射！一起跟她來的同學也被叫出來連環強姦4,http://videocdn.dlyilian.com:8091/20190331/SV7UKFW688/index.m3u8
-SKMJ-014將畢業處女學生妹！向暗戀教師告白＆擁抱＆初吻＆開幹！,http://videocdn.dlyilian.com:8091/20190331/SK2TYUDF014/index.m3u8
-PRTD-019在屈辱中流出淫水，強制高潮失禁的要強搜查官麻倉憂,http://videocdn.dlyilian.com:8091/20190331/PR1QAHT019/index.m3u8
-STAR-995百合與花蜜純情蕾絲邊第一次敗給肉棒的那天古川伊織,http://videocdn.dlyilian.com:8091/20190331/ST0QARJY995/index.m3u8
-SDMU-884 SOD女職員2018（裡）游泳大會在潤滑油泳池中襯衫、小穴犬神都變的濕噠噠的羞恥特訓！！,http://videocdn.dlyilian.com:8091/20190331/SD7PWGER884/index.m3u8
-RD-911色香味俱全的熟女人妻VOL.6清純人妻初次在外人面前脫衣，面試的時候私處就已經……,http://videocdn.dlyilian.com:8091/20190331/RD1QTRF911/index.m3u8
-HD SSNI-165鬼畜團體盯上癡漢搜查官アキホ吉澤明步有碼高清,http://videocdn.dlyilian.com:8091/20190331/SS6KDFR165/index.m3u8
-SCPX-325有著性騷擾嫌疑的男人潛入了某體育系女子大學芭蕾部的合宿房間進行偷拍！,http://videocdn.dlyilian.com:8091/20190331/SC2GJGF325/index.m3u8
-RD-904秀色可餐的熟女人妻VOL.5面試中讓熟女人妻初次在自己面前半裸,http://videocdn.dlyilian.com:8091/20190331/RD1JRYB904/index.m3u8
-SDAM-002大學運動部女經理人給男部員不停擼！按照60分鐘內射精數獲得社團費！！～做愛1次3萬元的究極挑戰青春白濁對抗戰～,http://videocdn.dlyilian.com:8091/20190331/SD1GFHJ002/index.m3u8
-NKKD-095這次我的妻子（35）被打工處的職員（20）上了…→雖然很不甘心還是請你把這當AV賣了吧。,http://videocdn.dlyilian.com:8091/20190331/NK1JYGGH095/index.m3u8
-PRED-115班上的高冷美女被下了春藥變成我的淫亂砲友。神宮寺奈緒有碼高清,http://videocdn.dlyilian.com:8091/20190331/PR6MHT115/index.m3u8
-MIFD-057當時很火的美少女、現在是大學生運動員！！身高175cm長腿巨臀芭蕾選手AV出道土谷真菜（假名）,http://videocdn.dlyilian.com:8091/20190331/MI5HJRY057/index.m3u8
-NACR-198為了讓客戶簽約什麼都願意幹的房地產女OL真白杏,http://videocdn.dlyilian.com:8091/20190331/NA9UJR198/index.m3u8
-NNPJ-294為了增進關係一起混浴G罩杯的女大學生…,http://videocdn.dlyilian.com:8091/20190331/NQ8RJYFS294/index.m3u8
-MIAE-333時間停止班上的女生全被男生時停強姦皆月光,http://videocdn.dlyilian.com:8091/20190331/MI4JYNS333/index.m3u8
-NHDTB-209即刻開插學生妹剛自慰到高潮痙攣肉穴！,http://videocdn.dlyilian.com:8091/20190331/NH3UJKT209/index.m3u8
-MDTM-463回家社學生妹的課後中出打工4小時II,http://videocdn.dlyilian.com:8091/20190331/MD5UIFE463/index.m3u8
-NNPJ-309貼拍清純女大生初次高潮到下海57天把妹JAPAN EXPRESS Vol.86,http://videocdn.dlyilian.com:8091/20190331/NN9GHF309/index.m3u8
-MEYD-444女教師NTR看到學年主任的妻子和教導主任去在修學旅行的時候…篠田優有碼高清,http://videocdn.dlyilian.com:8091/20190331/ME5TJUKW444/index.m3u8
-MUDR-057制服美少女是個侍奉內射風俗女阿由葉亞美,http://videocdn.dlyilian.com:8091/20190331/MU5JYD057/index.m3u8
-MDTM-445只限新人不斷舔的作品製服砲友Vol.002岬澪,http://videocdn.dlyilian.com:8091/20190331/MD3YUTJY445/index.m3u8
-MDB-934性慾中樞正常化醫院護士的實錄病歷市橋繪里奈花咲以杏碧市乃,http://videocdn.dlyilian.com:8091/20190331/MQK8LOEF934/index.m3u8
-MDS-885學生妹拘束中出乾砲,http://videocdn.dlyilian.com:8091/20190331/MD6UIODF885/index.m3u8
-MIAE-323成為受孕生活雜誌模特兒的女大生椎名空,http://videocdn.dlyilian.com:8091/20190331/MIYU3VWS323/index.m3u8
-MDB-968萌萌可愛女大學生的內射風俗部,http://videocdn.dlyilian.com:8091/20190331/MD6UIHG968/index.m3u8
-MIFD-056和遠距離戀愛男友三個月沒做過愛了，女大學生的身體愈發敏感渴求被幹慾求不滿女孩AV出道！！山本麻衣,http://videocdn.dlyilian.com:8091/20190331/MIYD1DS056/index.m3u8
-MDTM-433無法想像誰都不給看的私立大學女學生的性愛無套交尾03,http://videocdn.dlyilian.com:8091/20190331/MD6IKHD433/index.m3u8
-MIAE-322痙攣高潮輪姦越是叫人幫忙越是粗暴所以學生會長只好忍著不出聲神宮寺奈緒,http://videocdn.dlyilian.com:8091/20190331/MIJS8WDR322/index.m3u8
-MDTM-425新人限定舔舔親親制服刺激Vol.001南菜月,http://videocdn.dlyilian.com:8091/20190331/MD0QWHTW425/index.m3u8
-MIRD-181私立真空口交學園,http://videocdn.dlyilian.com:8091/20190331/MI9PKNZ181/index.m3u8
-MDTM-461溫泉旅行與學生無套內射佐久間恵美,http://videocdn.dlyilian.com:8091/20190331/MD5UIHG461/index.m3u8
-
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
@@ -1770,33 +562,6 @@ Astro 华丽ᴴᴰ,p2p://fccseuro.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed
 中天新闻,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#p2p://fccsovh.pvbox.live:18912/5b14096a000dc9172181b048e1caf279.ts#p2p://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
 东森新闻台,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p2p://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#p2p://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 
-台灣©頻道,#genre#
-国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-TVBS新闻台,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天新闻,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#p2p://fccsovh.pvbox.live:18912/5b14096a000dc9172181b048e1caf279.ts#p2p://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
-
-东森新闻台,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p2p://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#p2p://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
-东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-东森财经新闻台,rtmp://59.124.75.130/sat/tv571
-三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
-三立新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
-中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
-台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
-民视新闻台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 
 電影©頻道,#genre#
 HHBOHD,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m02000000000017768575&ct=17955&tsum=c3ecd772420130079ba147320f61cc12
@@ -3053,7 +1818,1239 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 江苏好享购物 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 
+以下測試頻道_0120,#genre#
+新婚夫歸的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
+AV女優加籐,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/e/9ea3eb4a05d962b4db273de38c6ced991486995925-1280-720-1653-h264.mp4/master.m3u8
+Z真白愛梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/c/fc3caa1d0d05ec7f5137338ac34243c11486995025-1280-720-1563-h264.mp4/master.m3u8
+復掃真央,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/b/4b1dc42613a50405884270ca2b6364431476575103-1280-720-1384-h264.mp4/master.m3u8
+天然美少女&真夏泳衣SEX青山未來,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/f/ff8585c04bc1a5023bc44b4130f3947d1486992930-1280-720-1537-h264.mp4/master.m3u8
+慾求不滿解消課木村美羽雨宮,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/1/81f1b954fb98909f77c7ddec750c64ce1487073022-1280-720-1466-h264.mp4/master.m3u8
+伊籐果夏,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/4/943e75dc2e01641e5db293ab9698f0121486995615-1280-720-1203-h264.mp4/master.m3u8
+南澤,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/0/501ed65cf38ca3436aa69684917710441487074519-1280-720-1737-h264.mp4/master.m3u8
+中出鄰居姐姐乾優那,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/0/40e16c546dcd8b002efd7f9a80dc48ff1486995022-1280-720-1231-h264.mp4/master.m3u8
+老公不在家被強暴爬著逃跑的人妻從背後被插高潮到痙攣的人妻2,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/3/83638197670621b7ee14dd09c944120b1482799513-720-480-903-h264.mp4/master.m3u8
+巨乳網球社團女大學生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/e/2/e23b31ba6c94be18a5ed41a9ef8dd62b1482877526-720-480-852-h264.mp4/master.m3u8
+美痴女先生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/a/7a15b06dc81bdb7081fbed1d6ebc61351487075127-1280-720-1595-h264.mp4/master.m3u8
+AV女優志望上京娘高烏穗,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/d/cd7195440a796e718ff46bfb149972401486992903-1280-720-1689-h264.mp4/master.m3u8
+SEX相親千葉,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/1/6/1675c05df835324da5ec738c7a59c18c1486994404-1280-720-1854-h264.mp4/master.m3u8
+我們在校外教學的夜晚被持續一整晚侵犯了。紗世悠,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/d/5d7f7c9bf037d6bf42f1534a2a08edd71482817242-720-480-1241-h264.mp4/master.m3u8
+浴衣姿欲情橋本憐奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/4/94f90c2feee4de53b7b4c3d90b67e3b01486994410-1280-720-2212-h264.mp4/master.m3u8
+視界侵入,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/e/ae284abc3af267e10b97777895c8ce6e1487128203-1280-720-1229-h264.mp4/master.m3u8
+後輩之妹荒木,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/3/3363ae4ed1dfaf4f38d2667e35663bdf1486997190-1280-720-1620-h264.mp4/master.m3u8
+美巨乳女幽靈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/c/6c76c4fb62fa921ae79a2a86de66f1cb1486993205-1280-720-1223-h264.mp4/master.m3u8
+戀童癖專用肥皂土地4碧木凜,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/d/4d00b74e2a4267c91d66b04a9d5d860c1487127925-1280-720-1326-h264.mp4/master.m3u8
+甜蜜同居生活春日部,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/0/8/08d21dac5743f87c666c3d5eeb43fb5c1487127626-1280-720-1114-h264.mp4/master.m3u8
+風扇感谢祭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/1/3/134a056848d7d5f1f8aec075c9329f821487130335-1280-720-2143-h264.mp4/master.m3u8
+美尻俱樂部,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/0/a0fd0180d90347c4d99fb438fc59ce851476273018-1280-720-1585-h264.mp4/master.m3u8
+木村粉統感謝祭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/4/f4801e64dac12ff893e3a017da62e25f1475536502-1280-720-2738-h264.mp4/master.m3u8
+大島奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/f/bfbcb4f28f98adfbd6551c52a21628471487073919-1280-720-1554-h264.mp4/master.m3u8
+我為了打工被強暴了蕾,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/4/7406ac8c39a24d4cbc0124cd05eff94d1482843919-720-480-1085-h264.mp4/master.m3u8
+母女4P共演松本萌芭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/a/8ad37e3865a866f4279db5f1ae75fbc41475537727-1280-720-1331-h264.mp4/master.m3u8
+女熱大陸原亞衣,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/7/b73ef6f3754611c000bf4c86c5d683c81476521708-1280-720-1346-h264.mp4/master.m3u8
+本山茉莉,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/c/9c949b9097d3813f934084c83763a3081487076335-1280-720-1558-h264.mp4/master.m3u8
+自宅侵入強暴!,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/d/cda6d1a86f78e4528ca2338e3525fea51481139002-720-480-1205-h264.mp4/master.m3u8
+其實，我老公的主管上了我好多次杏,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/2/92cd0ce8d844c10076da7c6d98fab6891481157326-720-480-891-h264.mp4/master.m3u8
+VICD-390在讀美大女大學生真正破處小川真白,http://videocdn.dlyilian.com:8091/20190331/VI2RTYUI390/index.m3u8
+SSNI-324空姐鬼畜輪姦～標誌性的美人空姐～葵都香紗,http://videocdn.dlyilian.com:8091/20190331/SS6IHN324/index.m3u8
+YOZ-358地鐵站沿線蕩婦女孩工作的妓院,http://videocdn.dlyilian.com:8091/20190331/YO1HJYF358/index.m3u8
+STARS-004加藤桃香馬上要結婚的SOD女員工被【奴隸化·屈服·完全壓制】強姦~戴耳機騎自行車的女孩被盯上~,http://videocdn.dlyilian.com:8091/20190331/ST9KUQ004/index.m3u8
+SDMU-892 SOD女員工精液射光？！真正內射21次！【高潮小穴】非常緊的現實感在這個飛機杯開發的專案組再現，模特選拔無套大亂交！,http://videocdn.dlyilian.com:8091/20190331/SD0MYS892/index.m3u8
+TSP-407機場附近的混浴露天溫泉是空姐們最喜歡的地方！在這裡喝酒上床的這件事3,http://videocdn.dlyilian.com:8091/20190331/TS6KUBZ407/index.m3u8
+SDDE-552以「制服?內褲?全裸」陪伴你的跨坐男人小穴航空9內射航班,http://videocdn.dlyilian.com:8091/20190331/SQK4EFL552/index.m3u8
+SHKD-810輪姦學校西野翔,http://videocdn.dlyilian.com:8091/20190331/SAK2TUDF810/index.m3u8
+TAAK-027剛搬來的是狂被性騷擾肉感女大生神宮寺奈緒,http://videocdn.dlyilian.com:8091/20190331/TA6UJYD027/index.m3u8
+SGSR-223喝酒的好時候！！一直在意的可愛同僚女社員乘醉在激情做愛中12人4小時,http://videocdn.dlyilian.com:8091/20190331/SG2QDGFZ223/index.m3u8
+SABA-377無套內射離家出走的製服美少女002小楓,http://videocdn.dlyilian.com:8091/20190331/SA7IOPFW377/index.m3u8
+TMCY-118女子大學生，在找工作。,http://videocdn.dlyilian.com:8091/20190331/TMI2GFNB118/index.m3u8
+SSNI-176新人女優第一名阿由葉亞美AV出道作！名牌大學畢業的苗條女大學生有碼高清,http://videocdn.dlyilian.com:8091/20190331/SNR4YES176/index.m3u8
+PRED-116追擊口交達人射精後陰莖又勃起！喜歡口交的在讀女大學生AV出演！深田詠美有碼高清,http://videocdn.dlyilian.com:8091/20190331/PR5HBNS116/index.m3u8
+SSNI-328女子大學生在電車上強忍羞恥聲音連續高潮的數天日菜菜彩音,http://videocdn.dlyilian.com:8091/20190331/SS8IOUKF328/index.m3u8
+SDMU-906 SOD公司星探偷拍到的AV業界新人女優做愛真實視頻柿沼凜（20）,http://videocdn.dlyilian.com:8091/20190331/SD7UIBG906/index.m3u8
+PRED-113知識份子女上司的中出攝影會寶生莉莉,http://videocdn.dlyilian.com:8091/20190331/PR2TUHG113/index.m3u8
+SVDVD-688修學旅行來到東京的鄉下女學生被無套內射！一起跟她來的同學也被叫出來連環強姦4,http://videocdn.dlyilian.com:8091/20190331/SV7UKFW688/index.m3u8
+SKMJ-014將畢業處女學生妹！向暗戀教師告白＆擁抱＆初吻＆開幹！,http://videocdn.dlyilian.com:8091/20190331/SK2TYUDF014/index.m3u8
+PRTD-019在屈辱中流出淫水，強制高潮失禁的要強搜查官麻倉憂,http://videocdn.dlyilian.com:8091/20190331/PR1QAHT019/index.m3u8
+STAR-995百合與花蜜純情蕾絲邊第一次敗給肉棒的那天古川伊織,http://videocdn.dlyilian.com:8091/20190331/ST0QARJY995/index.m3u8
+SDMU-884 SOD女職員2018（裡）游泳大會在潤滑油泳池中襯衫、小穴犬神都變的濕噠噠的羞恥特訓！！,http://videocdn.dlyilian.com:8091/20190331/SD7PWGER884/index.m3u8
+RD-911色香味俱全的熟女人妻VOL.6清純人妻初次在外人面前脫衣，面試的時候私處就已經……,http://videocdn.dlyilian.com:8091/20190331/RD1QTRF911/index.m3u8
+HD SSNI-165鬼畜團體盯上癡漢搜查官アキホ吉澤明步有碼高清,http://videocdn.dlyilian.com:8091/20190331/SS6KDFR165/index.m3u8
+SCPX-325有著性騷擾嫌疑的男人潛入了某體育系女子大學芭蕾部的合宿房間進行偷拍！,http://videocdn.dlyilian.com:8091/20190331/SC2GJGF325/index.m3u8
+RD-904秀色可餐的熟女人妻VOL.5面試中讓熟女人妻初次在自己面前半裸,http://videocdn.dlyilian.com:8091/20190331/RD1JRYB904/index.m3u8
+SDAM-002大學運動部女經理人給男部員不停擼！按照60分鐘內射精數獲得社團費！！～做愛1次3萬元的究極挑戰青春白濁對抗戰～,http://videocdn.dlyilian.com:8091/20190331/SD1GFHJ002/index.m3u8
+NKKD-095這次我的妻子（35）被打工處的職員（20）上了…→雖然很不甘心還是請你把這當AV賣了吧。,http://videocdn.dlyilian.com:8091/20190331/NK1JYGGH095/index.m3u8
+PRED-115班上的高冷美女被下了春藥變成我的淫亂砲友。神宮寺奈緒有碼高清,http://videocdn.dlyilian.com:8091/20190331/PR6MHT115/index.m3u8
+MIFD-057當時很火的美少女、現在是大學生運動員！！身高175cm長腿巨臀芭蕾選手AV出道土谷真菜（假名）,http://videocdn.dlyilian.com:8091/20190331/MI5HJRY057/index.m3u8
+NACR-198為了讓客戶簽約什麼都願意幹的房地產女OL真白杏,http://videocdn.dlyilian.com:8091/20190331/NA9UJR198/index.m3u8
+NNPJ-294為了增進關係一起混浴G罩杯的女大學生…,http://videocdn.dlyilian.com:8091/20190331/NQ8RJYFS294/index.m3u8
+MIAE-333時間停止班上的女生全被男生時停強姦皆月光,http://videocdn.dlyilian.com:8091/20190331/MI4JYNS333/index.m3u8
+NHDTB-209即刻開插學生妹剛自慰到高潮痙攣肉穴！,http://videocdn.dlyilian.com:8091/20190331/NH3UJKT209/index.m3u8
+MDTM-463回家社學生妹的課後中出打工4小時II,http://videocdn.dlyilian.com:8091/20190331/MD5UIFE463/index.m3u8
+NNPJ-309貼拍清純女大生初次高潮到下海57天把妹JAPAN EXPRESS Vol.86,http://videocdn.dlyilian.com:8091/20190331/NN9GHF309/index.m3u8
+MEYD-444女教師NTR看到學年主任的妻子和教導主任去在修學旅行的時候…篠田優有碼高清,http://videocdn.dlyilian.com:8091/20190331/ME5TJUKW444/index.m3u8
+MUDR-057制服美少女是個侍奉內射風俗女阿由葉亞美,http://videocdn.dlyilian.com:8091/20190331/MU5JYD057/index.m3u8
+MDTM-445只限新人不斷舔的作品製服砲友Vol.002岬澪,http://videocdn.dlyilian.com:8091/20190331/MD3YUTJY445/index.m3u8
+MDB-934性慾中樞正常化醫院護士的實錄病歷市橋繪里奈花咲以杏碧市乃,http://videocdn.dlyilian.com:8091/20190331/MQK8LOEF934/index.m3u8
+MDS-885學生妹拘束中出乾砲,http://videocdn.dlyilian.com:8091/20190331/MD6UIODF885/index.m3u8
+MIAE-323成為受孕生活雜誌模特兒的女大生椎名空,http://videocdn.dlyilian.com:8091/20190331/MIYU3VWS323/index.m3u8
+MDB-968萌萌可愛女大學生的內射風俗部,http://videocdn.dlyilian.com:8091/20190331/MD6UIHG968/index.m3u8
+MIFD-056和遠距離戀愛男友三個月沒做過愛了，女大學生的身體愈發敏感渴求被幹慾求不滿女孩AV出道！！山本麻衣,http://videocdn.dlyilian.com:8091/20190331/MIYD1DS056/index.m3u8
+MDTM-433無法想像誰都不給看的私立大學女學生的性愛無套交尾03,http://videocdn.dlyilian.com:8091/20190331/MD6IKHD433/index.m3u8
+MIAE-322痙攣高潮輪姦越是叫人幫忙越是粗暴所以學生會長只好忍著不出聲神宮寺奈緒,http://videocdn.dlyilian.com:8091/20190331/MIJS8WDR322/index.m3u8
+MDTM-425新人限定舔舔親親制服刺激Vol.001南菜月,http://videocdn.dlyilian.com:8091/20190331/MD0QWHTW425/index.m3u8
+MIRD-181私立真空口交學園,http://videocdn.dlyilian.com:8091/20190331/MI9PKNZ181/index.m3u8
+MDTM-461溫泉旅行與學生無套內射佐久間恵美,http://videocdn.dlyilian.com:8091/20190331/MD5UIHG461/index.m3u8
+
+台灣©頻道,#genre#
+国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
+Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+TVBS新闻台,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新闻,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#p2p://fccsovh.pvbox.live:18912/5b14096a000dc9172181b048e1caf279.ts#p2p://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
+
+东森新闻台,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p2p://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#p2p://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
+
+私人定制,#genre#
+
+玩命關頭9,https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8#https://europe.olemovienews.com/hlstimeofffmp4/20210521/ysDglvoA/mp4/ysDglvoA.mp4/master.m3u8
+
+
+
 TEST,#genre#
+5高清3,http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_2.m3u8
+5高清4,http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_3.m3u8
+Aniu TV (New!),http://cclive.aniu.tv/live/anzb.m3u8
+BABY亲子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+Bright Smart Channel (Opt-1) (New!),http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+Canal Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+Canal Macau (Opt-2) (New!),http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+CCTV 15 音乐频道,http://111.40.205.76/PLTV/88888888/224/3221225601/index.m3u8
+CCTV PLUS LD,http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
+CCTV 高尔夫·网球频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+CCTV-1,http://www.szmgiptv.com:14437/hls/1.m3u8
+CCTV-1 (Opt-1),http://hhab.chinashadt.com:2136/live/di1.stream/playlist.m3u8
+CCTV-1 (Opt-2),http://36476.hlsplay.aodianyun.com/guangdianyun_36476/tv_channel_416.m3u8
+CCTV-1 (Opt-3),http://hljjms.chinashadt.com:2036/live/1002.stream/playlist.m3u8
+CCTV-1 综合 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+CCTV-1 综合 (Opt-2),http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/index.m3u8
+CCTV-1 综合 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
+CCTV-10,http://hnmc.chinashadt.com:3036/live/1004.stream/playlist.m3u8
+CCTV-10 科教 (Opt-1),http://cctv.v.live.qingcdn.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio
+CCTV-10 科教 (Opt-2),http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
+CCTV-11 戏曲 (Opt-1),http://cctv.v.kcdnvip.com/live/cctv11_1/index.m3u8?adapt=0&BR=audio
+CCTV-11 戏曲 (Opt-2),http://cctv.v.myalicdn.com/live/cctv11_1audio.m3u8?adapt=0&BR=audio
+CCTV-11 戏曲 (Opt-3),http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8
+CCTV-12 社会与法 (Opt-1),http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-12 社会与法 (Opt-2),http://cctv.v.myalicdn.com/live/cctv12_1audio.m3u8?adapt=0&BR=audio
+CCTV-12 社会与法 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio
+CCTV-13 新闻 (Opt-1),http://cctv.v.kcdnvip.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
+CCTV-13 新闻频道 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+CCTV-14 少儿 (Opt-1),http://cctv.v.myalicdn.com/live/cctvchild_1audio.m3u8?adapt=0&BR=audio
+CCTV-14 少儿 (Opt-2),http://cctv.v.kcdnvip.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
+CCTV-14 少儿频道 (Opt-3),http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-2,http://hljjms.chinashadt.com:2036/live/1004.stream/playlist.m3u8
+CCTV-2 财经 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
+CCTV-2 财经 (Opt-2),http://cctv.v.myalicdn.com/live/cctv2_1audio.m3u8?adapt=0&BR=audio
+CCTV-2 财经 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio
+CCTV-2高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+CCTV-3 综艺 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/index.m3u8
+CCTV-3 综艺 (Opt-2),http://cctv.v.kcdnvip.com/live/cctv3_1/index.m3u8?adapt=0&BR=audio
+CCTV-3 综艺 (Opt-3),http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8?adapt=0&BR=audio
+CCTV-3高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+CCTV-4 中文国际 (Opt-1),http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8
+CCTV-4 中文国际 (Opt-2),http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV-4 中文国际 (Opt-3),http://39.135.16.142:6060/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+CCTV-4 中文国际 (Opt-4),http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/index.m3u8
+CCTV-4 中文国际 欧洲 (Opt-1),http://cctv.v.kcdnvip.com/live/cctveurope_1/index.m3u8?adapt=0&BR=audio
+CCTV-4 中文国际 美洲 (Opt-2),http://cctv.v.kcdnvip.com/live/cctvamerica_1/index.m3u8?adapt=0&BR=audio
+CCTV-4 中文国际 美洲 (Opt-3),http://cctv.v.myalicdn.com/live/cctvamerica_1audio.m3u8?adapt=0&BR=audio
+CCTV-4高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+CCTV-5,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+CCTV-5 体育频道,http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8
+CCTV-5+ 体育赛事频道,http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+CCTV-5高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+CCTV-6,http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8
+CCTV-6 电影 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
+CCTV-6 电影 (Opt-2),http://cctv.v.kcdnvip.com/live/cctv6_1/index.m3u8?adapt=0&BR=audio
+CCTV-6 电影 (Opt-3),http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8?adapt=0&BR=audio
+CCTV-7,http://hljjms.chinashadt.com:2036/live/1008.stream/playlist.m3u8
+CCTV-7 军事·农业 (Opt-1),http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
+CCTV-7 军事农业 (Opt-2),http://cctv.v.myalicdn.com/live/cctv7_1audio.m3u8?adapt=0&BR=audio
+CCTV-8,http://hbry.chinashadt.com:1938/live/1002.stream_360p/playlist.m3u8
+CCTV-8 电视剧 (Opt-1),http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8?adapt=0&BR=audio
+CCTV-8 电视剧 (Opt-2),http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
+CCTV-8 电视剧 (Opt-3),http://cctv.v.kcdnvip.com/live/cctv8_1/index.m3u8?adapt=0&BR=audio
+CCTV-9 纪录 (Opt-1),http://cctv.v.kcdnvip.com/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio
+CCTV-9 纪录 (Opt-2),http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-9 纪录 (Opt-3),http://cctv.v.myalicdn.com/live/cctvjilu_1audio.m3u8?adapt=0&BR=audio
+CCTV10-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+CCTV11-高清,http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+CCTV12-高清,http://223.110.241.203:6610/gitv/live1/CCTV-12/CCTV-12/
+CCTV13-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+CCTV14-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+CCTV5+高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+CCTV7-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+CCTV8-高清,http://223.110.241.203:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+CCTV9-高清,http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+CCTV世界地理,http://39.135.16.142:6060/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+CCTV卫生健康,http://39.135.16.142:6060/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
+CCTV国防军事,http://39.135.16.142:6060/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+CCTV央视文化精品,http://39.135.16.142:6060/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+CCTV女性时尚,http://39.135.16.142:6060/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+CCTV怀旧剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+CCTV新科动漫,http://39.135.16.142:6060/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
+CCTV电视指南,http://39.135.16.142:6060/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+CCTV第一剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+CCTV老故事,http://39.135.16.142:6060/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+CCTV风云剧场,http://39.135.16.142:6060/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://39.135.16.142:6060/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球,http://39.135.16.142:6060/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+CETV(早期教育),http://39.135.16.142:6060/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
+CETV1,http://39.135.16.142:6060/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+CETV2,http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
+CETV3,http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+CGTN (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
+CGTN (Opt-2),http://live.cgtn.com/500/prog_index.m3u8
+CGTN (Opt-2) (CN),http://live.cgtn.com/1000/prog_index.m3u8
+CGTN Arabic (Opt-1),http://live.cgtn.com/1000a/prog_index.m3u8
+CGTN Arabic (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
+CGTN Arabic (Opt-3),http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8
+CGTN Arabic [576p],http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN Documentary,http://bit.ly/2D1FvME
+CGTN Documentary [EN][576p],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN Espanol,http://live.cgtn.com/1000e/prog_index.m3u8
+CGTN Español,http://bit.ly/2F0ODBz
+CGTN-俄语,http://live.cgtn.com/cctv-r.m3u8
+CGTN-法语,http://live.cgtn.com/cctv-f.m3u8
+China Business Network (Opt-3),https://w1live.livecdn.yicai.com/live/cbn.m3u8
+CNR 中华之声 (Opt-1),http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 中华之声 (Opt-2),http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
+CNR 中华之声 (Opt-3),http://ls.qingting.fm/live/390.m3u8
+CNR 中国之声 (Opt-1),http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
+CNR 中国之声 (Opt-2),http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 中国之声 (Opt-3),http://ls.qingting.fm/live/386.m3u8
+CNR 中国乡村之声 (Opt-1),http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+CNR 中国乡村之声 (Opt-2),http://ls.qingting.fm/live/5039.m3u8
+CNR 中国乡村之声 (Opt-3),http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 中国交通广播 (Opt-1),http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR 中国交通广播 (Opt-2),http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
+CNR 中国交通广播 (Opt-3),http://ls.qingting.fm/live/4985.m3u8
+CNR 中国民乐 (Opt-1),http://ngcdn021.cnr.cn/live/zgmy48/index.m3u8
+CNR 中国民乐 (Opt-2),http://ngcdn021.cnr.cn/live/zgmy/index.m3u8
+CNR 华夏之声 (Opt-1),http://ls.qingting.fm/live/392.m3u8
+CNR 华夏之声 (Opt-2),http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 华夏之声 (Opt-3),http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
+CNR 古典音乐 (Opt-1),http://ls.qingting.fm/live/4993.m3u8
+CNR 古典音乐 (Opt-2),http://ngcdn022.cnr.cn/live/gdyy48/index.m3u8
+CNR 古典音乐 (Opt-3),http://ngcdn022.cnr.cn/live/gdyy/index.m3u8
+CNR 哈语广播 (Opt-1),http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+CNR 哈语广播 (Opt-2),http://ngcdn025.cnr.cn/live/hygb48/index.m3u8
+CNR 娱乐广播 (Opt-1),http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 娱乐广播 (Opt-2),http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
+CNR 娱乐广播 (Opt-3),http://ls.qingting.fm/live/398.m3u8
+CNR 文艺之声 (Opt-1),http://ls.qingting.fm/live/395.m3u8
+CNR 文艺之声 (Opt-2),http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 文艺之声 (Opt-3),http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
+CNR 民族之声 (Opt-1),http://ls.qingting.fm/live/394.m3u8
+CNR 民族之声 (Opt-2),http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 民族之声 (Opt-3),http://ngcdn009.cnr.cn/live/mzzs48/index.m3u8
+CNR 相声小品 (Opt-1),http://ngcdn023.cnr.cn/live/xsxp/index.m3u8
+CNR 相声小品 (Opt-2),http://ngcdn023.cnr.cn/live/xsxp48/index.m3u8
+CNR 相声小品 (Opt-3),http://ls.qingting.fm/live/4990.m3u8
+CNR 神州之声 (Opt-1),http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 神州之声 (Opt-2),http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
+CNR 神州之声 (Opt-3),http://ls.qingting.fm/live/391.m3u8
+CNR 经典音乐广播 101.8 (Opt-1),http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
+CNR 经典音乐广播 101.8 (Opt-2),http://ls.qingting.fm/live/389.m3u8
+CNR 经典音乐广播 101.8 (Opt-3),http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 经济之声 (Opt-1),http://ls.qingting.fm/live/387.m3u8
+CNR 经济之声 (Opt-2),http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 经济之声 (Opt-3),http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
+CNR 维语广播 (Opt-1),http://ngcdn013.cnr.cn/live/wygb48/index.m3u8
+CNR 维语广播 (Opt-2),http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR 维语广播 (Opt-3),http://ls.qingting.fm/live/4988.m3u8
+CNR 老年之声 (Opt-1),http://ls.qingting.fm/live/396.m3u8
+CNR 老年之声 (Opt-2),http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
+CNR 老年之声 (Opt-3),http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 藏语广播 (Opt-1),http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR 藏语广播 (Opt-2),http://ngcdn012.cnr.cn/live/zygb48/index.m3u8
+CNR 长篇联播 (Opt-1),http://ngcdn024.cnr.cn/live/cplb/index.m3u8
+CNR 长篇联播 (Opt-2),http://ls.qingting.fm/live/4992.m3u8
+CNR 长篇联播 (Opt-3),http://ngcdn024.cnr.cn/live/cplb48/index.m3u8
+CNR 音乐之声 (Opt-1),http://ls.qingting.fm/live/388.m3u8
+CNR 音乐之声 (Opt-2),http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 音乐之声 (Opt-3),http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
+CNR 香港之声 (Opt-1),http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
+CNR 香港之声 (Opt-2),http://ls.qingting.fm/live/4986.m3u8
+CNR 香港之声 (Opt-3),http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CRI Easy FM – FM91.5,http://sk.cri.cn/915.m3u8
+CRI Hit FM FM88.7 (Opt-1),http://sk.cri.cn/887.m3u8
+CRI Hit FM FM88.7 (Opt-2),http://ls.qingting.fm/live/1007.m3u8
+CRI NEWS Plus AM1008 (Opt-1),http://ls.qingting.fm/live/4584.m3u8
+CRI NEWS Plus AM1008 (Opt-2),http://sk.cri.cn/am1008.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI 中文环球广播 (Opt-1),http://ls.qingting.fm/live/4995.m3u8
+CRI 中文环球广播 (Opt-2),http://sk.cri.cn/hyhq.m3u8
+CRI 南海之声 (Opt-1),http://ls.qingting.fm/live/62624.m3u8
+CRI 南海之声 (Opt-2),http://sk.cri.cn/nhzs.m3u8
+CRI 客家之声,http://sk.cri.cn/hakka.m3u8
+CRI 海峡飞虹,http://ls.qingting.fm/live/1734855.m3u8
+CRI 环球资讯广播 FM90.5 (Opt-1),http://ls.qingting.fm/live/24035.m3u8
+CRI 环球资讯广播 FM90.5 (Opt-2),http://sk.cri.cn/905.m3u8
+CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
+CRI 闽南之音 (Opt-1),http://ls.qingting.fm/live/1002.m3u8
+CRI 闽南之音 (Opt-2),http://sk.cri.cn/minnan.m3u8
+FASHION TV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+Fix HD,http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
+GOODTV,http://live.streamingfast.net/osmflivech5.m3u8
+goodtv真理台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+goodtv综合台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+Hong Kong Open TV (HK) (Opt-1) (New!),http://media.fantv.hk/m3u8/archive/channel2.m3u8
+HRB娱乐,http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
+HRB影视,http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
+HRB新闻综合,http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
+HRB生活,http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
+HRB资讯,http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
+ICS 上海外语,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
+Jusmin TV (Opt-1),http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+Jusmin TV (Opt-2),http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+Love Radio FM103.7,http://ls.qingting.fm/live/273.m3u8
+MASTV,http://stream.mastvnet.com/MSTV/playlist.m3u8
+Max Financial Media (New!),http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+MY FM 西安 FM105.5,http://ls.qingting.fm/live/4885.m3u8
+NewTV Blockbusters (New!),http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+NewTV Movies (Opt-1) (New!),http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
+NewTV Sports (New!),http://183.251.61.198/PLTV/88888888/224/3221225803/index.m3u8
+NewTV Suspense (New!),http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
+Newtv 中国功夫,http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
+Newtv 健康有约,http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
+Newtv 军事评论,http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
+Newtv 军旅剧场,http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
+Newtv 动作电影,http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
+Newtv 动画王国,http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
+Newtv 古装剧场,http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
+Newtv 家庭剧场,http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
+Newtv 惊悚悬疑,http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
+Newtv 搏击剧场,http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
+Newtv 明星大片,http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
+Newtv 海外剧场,http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
+Newtv 炫舞未来,http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+Newtv 爱情喜剧,http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
+Newtv 电竟,http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
+Newtv 精品大剧,http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
+Newtv 精品电影,http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
+Newtv 精品记录,http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
+Newtv 金牌综艺,http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
+Newtv健康有约,http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
+Newtv搏击剧场,http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
+Newtv精品记录,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+Phim TQ (Anh hùng xạ điêu),http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+Phim TQ (Bao thanh thiên),http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+Phim TQ (Chen Xiang 6:30),http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
+Phim TQ (Cờ bạc quốc gia),http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+Phim TQ (Disney),http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+Phim TQ (Dragon Gate Escort),http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+Phim TQ (Hoạt hình Doraemon),http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+Phim TQ (Hoạt hình Hoàng tử quần vợt),http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
+Phim TQ (Lưu Đức Hòa),http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+Phim TQ (Thám tử Di Renjie),http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
+Phim TQ (Tốc độ và niềm đam mê),http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+Phim TQ (Yitian Shoulong),http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+RED BULL TV FHD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+RTHK 32 (Hong Kong),http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+RTHK TV 31 (HK) (Opt-1) (New!),http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+RTHK TV 31 (HK) (Opt-2) (New!),http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+RTHK TV 31 (HK) (Opt-3) (New!),http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK TV 32 (HK) (Opt-2),http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+RTHK TV 32 (HK) (Opt-3),http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+Shanghai - Skyline,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+Shemale Tube TV 2,http://www.ast.tv/stream/2/master.m3u8
+SinoVision (US),http://ec.sinovision.net/video/ts/lv.m3u8
+TDM HD Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+TDM Info. Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+TDM Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+TDM Macau (Opt-2) (New!),http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+TDM Macau Satelite (Opt-1) (New!),http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+TDM Macau Satelite (Opt-2) (New!),http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+TDM Sports Macau (Opt-1) (New!),http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+Toon Max TV,http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+Universal TV (HK) (New!),http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+Xuzhou TV 1 Shanghai (Opt-2) (New!),http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+Xuzhou TV 2 Shanghai (New!),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+一新闻备,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+七彩戏剧,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+七彩西游记1猪八戒招亲HD高清,https://ifeng.com-l-ifeng.com/20190103/26081_6443bc56/index.m3u8
+万州三峡移民 (Opt-1),http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+万州影视文艺 (Opt-2),http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+万州科教频道 (Opt-2),http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
+万州综合频道 (Opt-2),http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+万载综合频道,http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+三亚天涯之声 FM104.6,http://ls.qingting.fm/live/68236.m3u8
+三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
+三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
+三明新闻综合广播,http://ls.qingting.fm/live/3128814.m3u8
+三河品味1033音乐广播,http://ls.qingting.fm/live/3687659.m3u8
+上海 KFM981,http://ls.qingting.fm/live/2963035.m3u8
+上海交通台 FM105.7,http://ls.qingting.fm/live/266.m3u8
+上海人民广播电台 FM93.4,http://ls.qingting.fm/live/270.m3u8
+上海动感101 FM101.7,http://ls.qingting.fm/live/274.m3u8
+上海故事广播 FM107.2,http://ls.qingting.fm/live/268.m3u8
+上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+上海新闻综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
+上海浦东广播 FM106.5,http://ls.qingting.fm/live/1794199.m3u8
+上海经典947 FM94.7,http://ls.qingting.fm/live/267.m3u8
+上海闵行电台 FM102.7,http://ls.qingting.fm/live/58826.m3u8
+东南卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
+东广新闻台 FM90.9,http://ls.qingting.fm/live/275.m3u8
+东方卫视 (Opt-1),http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/.m3u8
+东方卫视 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
+东方广播 FM89.9,http://ls.qingting.fm/live/4893.m3u8
+东方电影,http://117.156.28.57/PLTV/88888888/224/3221225656/index.m3u8
+东莞FM104音乐广播,http://ls.qingting.fm/live/93619.m3u8
+东莞畅享1075交通广播,http://ls.qingting.fm/live/1288.m3u8
+东莞阳光1008新闻综合,http://ls.qingting.fm/live/1276.m3u8
+东营公共频道,http://stream.hhek.cn/ggpd/sd/live.m3u8
+东营科教频道,http://stream.hhek.cn/dyjy/sd/live.m3u8
+东营综合频道,http://stream.hhek.cn/xwzh/sd/live.m3u8
+两对夫妇的情事,https://156zy.suyunbo.tv/2018/07/21/ERc1jhgnYvZXt23Q/playlist.m3u8
+中国电影频道,http://61.58.60.230:9319/live/225.m3u8
+中山公共,http://dslive.grtn.cn/zszh/sd/live.m3u8
+中山电台快乐888,http://ls.qingting.fm/live/1278.m3u8
+中山电台新锐967,http://ls.qingting.fm/live/1277.m3u8
+乌克兰VOTV,http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
+乌贼说故事,https://ws.streamhls.huya.com/huyalive/1444264308-1444264308-6203067969640071168-4655558802-10057-A-0-1_1200/playlist.m3u8
+乌鲁木齐 FM103.9,http://ls.qingting.fm/live/4029.m3u8
+九寨沟新闻综合,http://111.231.194.231:85/live/xwzh.m3u8
+九江交通广播 FM88.4 FM88.9,http://ls.qingting.fm/live/2785094.m3u8
+云南交通广播 FM91.8,http://ls.qingting.fm/live/1928.m3u8
+云南卫视,http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
+云南国际,http://61.58.60.230:9319/live/241.m3u8
+云南少儿广播 FM101.7,http://ls.qingting.fm/live/1931.m3u8
+云南教育广播 FM100,http://ls.qingting.fm/live/1930.m3u8
+云南新闻广播 FM105.8,http://ls.qingting.fm/live/1926.m3u8
+云南民族广播 SW7210,http://ls.qingting.fm/live/1933.m3u8
+云南经济广播 私家车 FM88.7,http://ls.qingting.fm/live/1927.m3u8
+云南音乐广播 FM97,http://ls.qingting.fm/live/1929.m3u8
+云南香格里拉之声 FM99,http://ls.qingting.fm/live/24463.m3u8
+云南香格里拉之声 SW6035,http://ls.qingting.fm/live/24461.m3u8
+五星体育 FM94.0,http://ls.qingting.fm/live/4928.m3u8
+五福星系列,https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+五邑旅游频道 FM90.4,http://ls.qingting.fm/live/3047974.m3u8
+亮剑,https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+亳州农村,http://218.22.251.12:8001/tslslive/JpWzs2u/hls/live_sd.m3u8
+亳州新闻综合,http://218.22.251.12:8001/tslslive/wT9aUpL/hls/live_sd.m3u8
+仁寿综合,http://118.122.224.176:8091/live/xwzh.m3u8
+仁寿综艺,http://118.122.224.176:8091/live/shzx.m3u8
+仙桃文体生活,http://221.233.242.239:280/live/72/playlist.m3u8
+仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8
+优优宝贝,http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
+优漫卡通,http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
+优视频道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+优购必买,http://cjzb.u15.live.17ugo.com/ugo.m3u8
+佛山电台三水台 FM90.6,http://ls.qingting.fm/live/1264.m3u8
+佛山电台千色 FM98.5,http://ls.qingting.fm/live/1266.m3u8
+佛山电台真爱 FM94.6,http://ls.qingting.fm/live/1265.m3u8
+佛山电台顺德台 FM90.1,http://ls.qingting.fm/live/1268.m3u8
+佛山电台飞跃 FM92.4,http://ls.qingting.fm/live/1267.m3u8
+佛山电台高明台 FM88.3,http://ls.qingting.fm/live/1269.m3u8
+佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
+保姆的目的,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
+保定交通广播 FM104.8,http://ls.qingting.fm/live/28140.m3u8
+保定城市服务广播 乐动1016,http://ls.qingting.fm/live/62628.m3u8
+保定新闻广播 FM93.7,http://ls.qingting.fm/live/3701149.m3u8
+保定私家车广播 经济广播 FM99.7,http://ls.qingting.fm/live/28138.m3u8
+保定经典964汽车音乐广播,http://ls.qingting.fm/live/2227017.m3u8
+保山综合广播 FM98.7,http://ls.qingting.fm/live/3702178.m3u8
+先锋乒羽,http://124.232.231.246:6610/000000001001/201500000115/2500.m3u8?zte_auth=7fcdf814&IASHttpSessionId=OTT310220190424132013004361&m3u8_level=2&ztecid=201500000115&ispcode=8
+克拉玛依 1,http://klmyzb.rcsxzx.com/hls/klmy1.m3u8
+克拉玛依 3,http://klmyzb.rcsxzx.com/hls/klmy3.m3u8
+克拉玛依 4,http://klmyzb.rcsxzx.com/hls/klmy4.m3u8
+克拉玛依 5,http://klmyzb.rcsxzx.com/hls/klmy5.m3u8
+全纪实频道,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
+六安公共频道,http://live.china-latv.com/channel2/sd/live.m3u8
+六安新闻综合,http://live.china-latv.com/channel1/sd/live.m3u8
+六盘水新闻综合 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225773/1/index.m3u8?fmt=ts2hls
+六盘水新闻综合 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225772/1/index.m3u8?fmt=ts2hls
+兰州交通音乐广播 FM99.5,http://ls.qingting.fm/live/1711.m3u8
+兰州新闻综合广播 FM97.3,http://ls.qingting.fm/live/1712.m3u8
+兰州生活文艺广播 FM100.8,http://ls.qingting.fm/live/1713.m3u8
+兵团卫视 (Opt-1),http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+兵团卫视 (Opt-2),http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
+冕宁电视台,http://live.sichuanmianning.com/live/xwpd.m3u8
+农安新闻综合,http://stream2.jlntv.cn/naxw/sd/live.m3u8
+农林卫视 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
+农林卫视 (Opt-2),http://stream.snrtv.com/sxtvs-nl.m3u8
+动漫秀场 (Opt-1),http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/1.m3u8
+动漫秀场 (Opt-2),http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
+北京交通广播 FM103.9 (Opt-1),http://ls.qingting.fm/live/336.m3u8
+北京交通广播 FM103.9 (Opt-2),http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
+北京体育广播 FM102.5 (Opt-1),http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
+北京体育广播 FM102.5 (Opt-2),http://ls.qingting.fm/live/335.m3u8
+北京冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+北京动听调频 Metro FM94.5,http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
+北京卫视,http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
+北京古典音乐 FM98.6 (Opt-1),http://ls.qingting.fm/live/344.m3u8
+北京古典音乐 FM98.6 (Opt-2),http://audiolive.rbc.cn:1935/live/fm986/96K/tzwj_video.m3u8
+北京国际频道,http://61.58.60.230:9319/live/226.m3u8
+北京城市广播 FM107.3 (Opt-1),http://ls.qingting.fm/live/345.m3u8
+北京城市广播 FM107.3 (Opt-2),http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
+北京外语广播 AM774 (Opt-1),http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
+北京外语广播 AM774 (Opt-2),http://ls.qingting.fm/live/334.m3u8
+北京好音乐 FM95.9,http://ls.qingting.fm/live/2131011.m3u8
+北京怀旧金曲 FM107.5 (Opt-1),http://ls.qingting.fm/live/340.m3u8
+北京怀旧金曲 FM107.5 (Opt-2),http://123.56.16.201:1935/live/fm1075/96K/tzwj_video.m3u8
+北京戏曲曲艺 FM105.1 (Opt-1),http://123.56.16.201:1935/live/fm1051/96K/tzwj_video.m3u8
+北京戏曲曲艺 FM105.1 (Opt-2),http://ls.qingting.fm/live/343.m3u8
+北京房山经典音乐 FM96.9,http://ls.qingting.fm/live/68746.m3u8
+北京故事广播 AM603 (Opt-1),http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
+北京故事广播 AM603 (Opt-2),http://ls.qingting.fm/live/337.m3u8
+北京教学广播 FM99.4 (Opt-1),http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
+北京教学广播 FM99.4 (Opt-2),http://ls.qingting.fm/live/338.m3u8
+北京文艺广播 FM87.6 (Opt-1),http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
+北京文艺广播 FM87.6 (Opt-2),http://ls.qingting.fm/live/333.m3u8
+北京新闻,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv9_2_hd.m3u8
+北京新闻广播 FM100.6 (Opt-1),http://ls.qingting.fm/live/339.m3u8
+北京新闻广播 FM100.6 (Opt-2),http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
+北京欢乐时光 FM106.5 (Opt-1),http://ls.qingting.fm/live/341.m3u8
+北京欢乐时光 FM106.5 (Opt-2),http://123.56.16.201:1935/live/fm1065/96K/tzwj_video.m3u8
+北京生活,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv7_2/index.m3u8
+北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/3.m3u8
+北京财经,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv5_2/index.m3u8
+北京长书广播 FM104.3 (Opt-1),http://ls.qingting.fm/live/342.m3u8
+北京长书广播 FM104.3 (Opt-2),http://audiolive.rbc.cn:1935/live/fm1043/96K/tzwj_video.m3u8
+北京青年,http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv8_2/index.m3u8
+北京青年广播 FM98.2 (Opt-1),http://ls.qingting.fm/live/347.m3u8
+北京青年广播 FM98.2 (Opt-2),http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+北京音乐广播 FM97.4 (Opt-1),http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
+北京音乐广播 FM97.4 (Opt-2),http://ls.qingting.fm/live/332.m3u8
+北海新闻综合,http://111.12.83.2:6610/000000001000/BeiHai/1.m3u8?livemode=1&IASHttpSessionId=SLB19992019031013130037521848
+华亭电视台,http://117.156.28.119/270000001111/1110000148/index.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+南京影视,http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
+南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+南召一套,http://hnnz.chinashadt.com:1935/live/1002.stream/playlist.m3u8
+南宁交通音乐广播 FM107.4,http://ls.qingting.fm/live/80793.m3u8?aac
+南宁公共,http://111.12.110.76:6610/000000001000/NNGG/1.m3u8?livemode=1&IASHttpSessionId=SLB3800201903101254503191073
+南宁影视娱乐,http://111.12.110.89:6610/000000001000/NNYS/1.m3u8?livemode=1&IASHttpSessionId=SLB1643120190310130553896009
+南宁成功895 FM89.5,http://ls.qingting.fm/live/80797.m3u8?aac
+南宁新闻综合,http://111.12.110.87:6610/000000001000/NNXW/1.m3u8?livemode=1&IASHttpSessionId=SLB1643120190310130729896151
+南宁新闻综合广播 FM101.4,http://ls.qingting.fm/live/61208.m3u8?aac
+南宁经典1049 FM104.9,http://ls.qingting.fm/live/80795.m3u8?aac
+南宁都市生活,http://111.12.83.56:6060/000000001000/NNDS/1.m3u8?livemode=1
+南川人民广播电台 FM107.0,http://ls.qingting.fm/live/5116983.m3u8
+南方卫视 (粤语),http://nclive.grtn.cn/tvs2/sd/live.m3u8
+南通交通广播 FM92.9,http://ls.qingting.fm/live/2216385.m3u8
+南通新闻广播 FM97.0,http://ls.qingting.fm/live/1611381.m3u8
+南通私家车广播 FM106.1,http://ls.qingting.fm/live/1738915.m3u8
+南通音乐广播 FM91.8,http://ls.qingting.fm/live/1606731.m3u8
+博斯魅力網,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+卡酷少儿,http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
+厦视综合,http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
+厦门一套,http://cstv.live.wscdns.com/live/xiamen1/playlist.m3u8
+厦门三套,http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8
+厦门二套,http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
+厦门卫视 (Opt-1),http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
+厦门卫视 (Opt-2),http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
+厦门四套,http://cstv.live.wscdns.com/live/xiamen4/playlist.m3u8
+厦门广播闽南之声,http://ls.qingting.fm/live/1740.m3u8
+厦门影视,http://112.50.243.8/PLTV/88888888/224/3221226764/3.m3u8
+厦门新闻广播,http://ls.qingting.fm/live/1737.m3u8
+厦门海峡,http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
+厦门生活,http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
+厦门私家车广播,http://ls.qingting.fm/live/1741.m3u8
+厦门经济交通广播,http://ls.qingting.fm/live/1738.m3u8
+厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
+叶县一套,http://hnyx.chinashadt.com:1935/live/yexian1001.stream/playlist.m3u8
+叶县二套,http://hnyx.chinashadt.com:1935/live/1002.stream/playlist.m3u8
+吉林卫视,http://111.40.205.76/PLTV/88888888/224/3221225637/index.m3u8
+吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
+吉林教育,http://stream1.jletv.cn/jljy/sd/live.m3u8
+吴江新闻综合,http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
+周润发,https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+呼和浩特交通广播 FM107.4,http://ls.qingting.fm/live/2218715.m3u8
+呼和浩特城市生活广播 FM90.1,http://ls.qingting.fm/live/2218717.m3u8
+呼和浩特文艺广播 FM99.8,http://ls.qingting.fm/live/3099076.m3u8
+呼和浩特新闻综合广播 FM92.9,http://ls.qingting.fm/live/2218711.m3u8
+咸阳城市之声 FM100.7,http://ls.qingting.fm/live/3559664.m3u8
+哈哈炫动,http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+哈哈炫动卫视,http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+嘉佳卡通,http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+嘉兴新闻综合,http://112.17.40.140/PLTV/88888888/224/3221226358/index.m3u8
+四川交通广播 FM101.7,http://ls.qingting.fm/live/4886.m3u8
+四川公共,http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
+四川卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
+四川国际,http://61.58.60.230:9319/live/238.m3u8
+四川城市之音 CityFM FM102.6,http://ls.qingting.fm/live/1111.m3u8
+四川妇女,http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
+四川岷江音乐 FM95.5,http://ls.qingting.fm/live/1110.m3u8
+四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
+四川文化,http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
+四川文艺广播 快乐900 FM90.0,http://ls.qingting.fm/live/4887.m3u8
+四川新闻,http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
+四川新闻综合广播 FM98.1,http://ls.qingting.fm/live/4906.m3u8
+四川旅游广播 FM97.0,http://ls.qingting.fm/live/1116.m3u8
+四川民族广播 AM954,http://ls.qingting.fm/live/1115.m3u8
+四川私家车广播 FM92.5,http://ls.qingting.fm/live/4939.m3u8
+四川经济,http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
+四川财富广播 FM94.0,http://ls.qingting.fm/live/4927.m3u8
+四平新闻综合,http://stream2.jlntv.cn/sptv/sd/live.m3u8
+四海钓鱼,http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
+围场影视 (内蒙古),http://www.vctv.com.cn:9090/hls/zkghtv2.m3u8
+围场新闻综合 (内蒙古),http://www.vctv.com.cn:9090/hls/zkghtv1.m3u8
+大同新闻综合,https://hwapi.yunshicloud.com:443/p2984z/k8kl9m.m3u8
+大同生活,https://hwapi.yunshicloud.com:443/p2984z/lnbwyz.m3u8
+大长今,https://aldirect.hls.huya.com/huyalive/30765679-2533158964-10879834905949241344-2847687638-10057-A-0-1_1200.m3u8
+天地玄黄,https://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8
+天津 My FM 100.5,http://ls.qingting.fm/live/23869.m3u8
+天津卫视,http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
+太原交通广播 FM107,http://ls.qingting.fm/live/4900.m3u8
+太原新闻广播 FM91.2,http://ls.qingting.fm/live/23873.m3u8
+太原私家车Radio FM104.4,http://ls.qingting.fm/live/4018.m3u8
+太原音乐广播 FM102.6,http://ls.qingting.fm/live/1185.m3u8
+奉化新闻综合,http://stream.fhtv.net.cn/zhpd/sd/live.m3u8
+奉化生活娱乐,http://stream.fhtv.net.cn/ylpd/sd/live.m3u8
+女神系列2,https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+妇科医生,https://156zy.suyunbo.tv/2018/07/22/C6APNy9p6BWJYpoE/playlist.m3u8
+娄底公共,http://218.77.102.118:1935/live/gonggong/playlist.m3u8
+宁夏交通广播 FM98.4,http://ls.qingting.fm/live/1840.m3u8
+宁夏卫视,http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8
+宁夏经济广播 FM92.8,http://ls.qingting.fm/live/1841.m3u8
+宁夏都市广播 FM103.7,http://ls.qingting.fm/live/1842.m3u8
+宁波交通广播 FM93.9,http://ls.qingting.fm/live/1140.m3u8
+宁波动感105 FM105.2,http://ls.qingting.fm/live/3047946.m3u8
+宁波新闻广播 FM92.0,http://ls.qingting.fm/live/1138.m3u8
+宁波甬江之声 FM100.1,http://ls.qingting.fm/live/23909.m3u8
+宁波私家车音乐台 FM104.7,http://ls.qingting.fm/live/1142.m3u8
+宁波经济广播 FM102.9,http://ls.qingting.fm/live/1152.m3u8
+宁波老少广播 FM90.4,http://ls.qingting.fm/live/1141.m3u8
+安多卫视(藏语),http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
+安徽卫视,http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
+安徽国际,http://61.58.60.230:9319/live/237.m3u8
+安徽小说评书广播,http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
+安徽戏曲广播,http://stream2.ahrtv.cn/xnxq/sd/live.m3u8
+安徽新闻综合广播,http://stream2.ahrtv.cn/xnxw/sd/live.m3u8
+安徽旅游广播,http://stream2.ahrtv.cn/lygb/sd/live.m3u8
+安徽音乐广播,http://stream.ahrtv.cn/xnyy/sd/live.m3u8
+家有儿女,https://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+宿州综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+山东乡村广播 FM91.9,http://ls.qingting.fm/live/60264.m3u8
+山东交通广播 FM101.1,http://ls.qingting.fm/live/60262.m3u8
+山东体育广播 FM102.1,http://ls.qingting.fm/live/60266.m3u8
+山东卫视,http://112.50.243.8/PLTV/88888888/224/3221225943/3.m3u8
+山东女主播电台 FM97.5,http://ls.qingting.fm/live/60258.m3u8
+山东教育,http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+山东新闻广播 FM95,http://ls.qingting.fm/live/60180.m3u8
+山东生活广播 MyFM FM105,http://ls.qingting.fm/live/60260.m3u8
+山东音乐广播 FM99.1,http://ls.qingting.fm/live/1665.m3u8
+山西卫视,http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
+岱山电视台,http://develop.zsgd.com:80/hls/dstv.m3u8
+岳云鹏,https://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
+岳阳交通广播 FM106.1,http://ls.qingting.fm/live/88931.m3u8
+岳阳新闻综合广播,http://ls.qingting.fm/live/88933.m3u8
+岷县电视台,http://117.156.28.119/270000001111/1110000130/index.m3u8
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+常州交通广播 FM90,http://ls.qingting.fm/live/2796.m3u8
+平乡电视台,http://hbpx.chinashadt.com:2036/live/px1.stream/chunklist.m3u8
+广东优悦广播(南粤) FM105.7,http://ls.qingting.fm/live/470.m3u8
+广东南方生活广播 FM93.6,http://ls.qingting.fm/live/468.m3u8
+广东卫视,http://112.50.243.8/PLTV/88888888/224/3221225942/3.m3u8
+广东城市之声SunFM爱车 FM103.6,http://ls.qingting.fm/live/469.m3u8
+广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
+广东文体广播 FM107.7,http://ls.qingting.fm/live/471.m3u8
+广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
+广东新闻频道 FM91.4,http://ls.qingting.fm/live/1254.m3u8
+广东珠江经济台 FM97.4,http://ls.qingting.fm/live/1259.m3u8
+广东科教,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+广东羊城交通广播 FM105.2,http://ls.qingting.fm/live/1262.m3u8
+广东股市广播 FM95.3,http://ls.qingting.fm/live/4847.m3u8
+广东音乐之声 FM99.3,http://ls.qingting.fm/live/1260.m3u8
+广东高尔夫,http://nclive.grtn.cn/grfpd/sd/live.m3u8
+广元公共,http://live6a.pstatp.com/live/gytv2/index.m3u8
+广元影视,http://live6a.pstatp.com/live/gytv3/index.m3u8
+广元新闻综合,http://live6a.pstatp.com/live/gytv1/index.m3u8
+广安交通旅游广播,http://ls.qingting.fm/live/1710917.m3u8
+广州 MYFM 88.0 (都市生活),http://ls.qingting.fm/live/52712.m3u8
+广州交通电台 FM106.1,http://ls.qingting.fm/live/4955.m3u8
+广州新闻电台 FM96.2,http://ls.qingting.fm/live/4848.m3u8
+广州汽车音乐电台 FM102.7,http://ls.qingting.fm/live/52710.m3u8
+广州花都广播 FM100.5,http://ls.qingting.fm/live/1263.m3u8
+广水新闻综合,http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
+广西交通台 FM100.3,http://ls.qingting.fm/live/1758.m3u8
+广西北部湾之声(广西对外广播) FM96.4,http://ls.qingting.fm/live/1757.m3u8
+广西卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225711/1/index.m3u8?fmt=ts2hls
+广西女主播电台 FM97.0,http://ls.qingting.fm/live/1754.m3u8
+广西新闻910 FM91.0,http://ls.qingting.fm/live/1753.m3u8
+广西旅游广播,http://media.bbrtv.com:1935/live/_definst_/lypl/chunklist_w1542235389.m3u8
+广西私家车930 FM93.0,http://ls.qingting.fm/live/1756.m3u8
+广西音乐台 FM95.0,http://ls.qingting.fm/live/4875.m3u8
+康巴卫视 (藏语),http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
+康熙微服私访,https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
+延安1台,http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
+延安2台,http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
+延边卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
+延边卫视 (Opt-2),http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+延边卫视 (Opt-3),http://live.ybtvyun.com/video/s10016-cys-sd/index.m3u8
+延边新闻综合,http://stream2.jlntv.cn/jlyb/sd/live.m3u8
+延边汉语综合 (Opt-2),http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
+开州生活频道,http://kaixianlive.cbg.cn:10345/5.m3u8
+开州综合频道,http://kaixianlive.cbg.cn:10345/1.m3u8
+张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+张家港社会生活,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+彩民在线,http://39.135.16.142:6060/PLTV/88888888/224/3221225724/1/index.m3u8?fmt=ts2hls
+德国音乐mv,http://de1se01.v2beat.live/playlist.m3u8
+德州都市,http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
+心约之声公益广播,http://4521.hlsplay.aodianyun.com/xyzs/stream.m3u8
+快乐垂钓,http://124.232.231.246:6610/000000001001/201500000245/12000.m3u8?zte_auth=5b9f652e&IASHttpSessionId=OTT316620190424132116002936&m3u8_level=2&ztecid=201500000245&ispcode=8
+快乐宠物,http://112.17.40.140/PLTV/88888888/224/3221226748/index.m3u8
+恩平电台 FM97.7,http://ls.qingting.fm/live/80439.m3u8
+恩施公共频道,http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
+恩施新闻综合,http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
+惠州新闻综合,http://dslive.grtn.cn/hzzh/sd/live.m3u8
+惠州新闻综合广播 FM100,http://ls.qingting.fm/live/5016.m3u8
+惠州环保交通广播 FM98.8,http://ls.qingting.fm/live/5017.m3u8
+惠州音乐广播 FM90.7,http://ls.qingting.fm/live/2212959.m3u8
+扁豆看,https://ws.streamhls.huya.com/huyalive/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1_1200/playlist.m3u8
+扬州交通广播,http://ls.qingting.fm/live/2804.m3u8
+扬州新闻广播,http://ls.qingting.fm/live/5000.m3u8?aac
+扬州江都广播,http://ls.qingting.fm/live/4312411.m3u8
+扬州流行音乐广播,http://ls.qingting.fm/live/2805.m3u8
+拉萨人民广播电台 FM91.4,http://ls.qingting.fm/live/3244137.m3u8
+搞笑港片,https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8
+攀枝花公共,http://zb.pzhgd.com:9091/live/ggpd_800k.m3u8
+攀枝花新闻,http://zb.pzhgd.com:9091/live/xwzh.m3u8
+敦煌电视台,http://117.156.28.119/270000001111/1110000028/index.m3u8
+文山公众,http://store.ovp.wsrtv.com.cn:9090/ch2/hls/playlist.m3u8
+新乡都市之声 FM101.6,http://ls.qingting.fm/live/2975682.m3u8
+新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
+新唐人亚太臺,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人加东臺,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加西臺,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人旧金山臺,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人美东臺,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美西臺,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新婚夫妇的性生活,https://156zy.suyunbo.tv/2018/07/21/RiQKisSwjNi4r7Hb/playlist.m3u8
+新疆交通广播 FM94.9 (Opt-1),http://aod.xjbs.com.cn:1935/live/949/32K/tzwj_video.m3u8
+新疆交通广播 FM94.9 (Opt-2),http://ls.qingting.fm/live/1910.m3u8
+新疆哈萨克语广播,http://ls.qingting.fm/live/1908.m3u8
+新疆哈萨克语广播,http://aod.xjbs.com.cn:1935/live/hay/32K/tzwj_video.m3u8
+新疆故事广播 FM102.8,http://aod.xjbs.com.cn:1935/live/1028/32K/tzwj_video.m3u8
+新疆故事广播 FM102.8,http://ls.qingting.fm/live/1911.m3u8
+新疆新闻广播 FM96.1 (Opt-1),http://ls.qingting.fm/live/1902.m3u8
+新疆新闻广播 FM96.1 (Opt-2),http://aod.xjbs.com.cn:1935/live/961/32K/tzwj_video.m3u8
+新疆柯尔克孜语广播,http://aod.xjbs.com.cn:1935/live/ky/32K/tzwj_video.m3u8
+新疆民生广播 FM92.4 (Opt-1),http://aod.xjbs.com.cn:1935/live/924/32K/tzwj_video.m3u8
+新疆民生广播 FM92.4 (Opt-2),http://ls.qingting.fm/live/76186.m3u8
+新疆私家车广播 FM92.9 (Opt-1),http://ls.qingting.fm/live/1909.m3u8
+新疆私家车广播 FM92.9 (Opt-2),http://aod.xjbs.com.cn:1935/live/929/32K/tzwj_video.m3u8
+新疆维吾尔语交通文艺广播 (Opt-1),http://aod.xjbs.com.cn:1935/live/wywy/32K/tzwj_video.m3u8
+新疆维吾尔语交通文艺广播 (Opt-2),http://ls.qingting.fm/live/78923.m3u8
+新疆维吾尔语综合广播,http://aod.xjbs.com.cn:1935/live/wy/32K/tzwj_video.m3u8
+新疆蒙古语广播 (Opt-1),http://ls.qingting.fm/live/1903.m3u8
+新疆蒙古语广播 (Opt-2),http://aod.xjbs.com.cn:1935/live/my/32K/tzwj_video.m3u8
+新疆阳光895 FM89.5,http://aod.xjbs.com.cn:1935/live/738/32K/tzwj_video.m3u8
+新疆音乐广播 MyFM FM103.9,http://aod.xjbs.com.cn:1935/live/1039/32K/tzwj_video.m3u8
+无锡交通广播 FM106.9,http://ls.qingting.fm/live/2780.m3u8
+无锡新闻广播 FM93.7,http://ls.qingting.fm/live/2777.m3u8
+无锡梁溪之声广播 FM92.6,http://ls.qingting.fm/live/2782.m3u8
+无锡汽车音乐广播 FM91.4,http://ls.qingting.fm/live/2779.m3u8
+无锡经济广播 FM104,http://ls.qingting.fm/live/2778.m3u8
+无锡综合广播 AM1116,http://ls.qingting.fm/live/2776.m3u8
+无锡都市生活广播 FM98.7,http://ls.qingting.fm/live/2783.m3u8
+日照公共,http://stream.rzw.com.cn/kzpd/sd/live.m3u8
+昆明汽车广播 FM95.4,http://ls.qingting.fm/live/1936.m3u8
+昆明资讯频率,http://ls.qingting.fm/live/1937.m3u8
+昆明都市调频 FM102.8,http://ls.qingting.fm/live/1935.m3u8
+昆明阳光广播,http://ls.qingting.fm/live/1934.m3u8
+明星FM,http://ls.qingting.fm/live/91019.m3u8
+晋州综合,http://zhjz.chinashadt.com:2036/live/1.stream/chunklist.m3u8
+曲靖交通,http://ls.qingting.fm/live/3295949.m3u8
+曲靖综合,http://ls.qingting.fm/live/3295952.m3u8
+杭州交通广播 FM91.8,http://ls.qingting.fm/live/1133.m3u8
+杭州少儿,http://112.17.40.140/PLTV/88888888/224/3221226354/index.m3u8
+杭州影视,http://112.17.40.140/PLTV/88888888/224/3221226362/index.m3u8
+杭州文化,http://112.17.40.140/PLTV/88888888/224/3221226352/index.m3u8
+杭州新闻广播 FM89,http://ls.qingting.fm/live/1134.m3u8
+杭州生活,http://112.17.40.140/PLTV/88888888/224/3221226477/index.m3u8
+杭州综合,http://112.17.40.140/PLTV/88888888/224/3221226170/index.m3u8
+杭州综合广播 FM90.7,http://ls.qingting.fm/live/4546579.m3u8
+杭州老朋友广播 AM954,http://ls.qingting.fm/live/1132.m3u8
+杭州西湖之声 FM105.4,http://ls.qingting.fm/live/1163.m3u8
+松原新闻综合,http://stream2.jlntv.cn/sytv/sd/live.m3u8
+松潘电视台,http://111.231.197.215:85/live/spxwzh_600k.m3u8
+极速汽车,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225962/3.m3u8
+柳州科教,http://111.12.83.7:6410/000000001000/lzkj/1.m3u8?livemode=1
+株洲新闻综合,http://live.zzbtv.com/live/live122/800K/tzwj_video.m3u8
+株洲法制频道,http://live.zzbtv.com/live/live124/800K/tzwj_video.m3u8
+桂林公共,http://111.12.83.7:6410/000000001000/GLGG/1.m3u8?livemode=1
+桂林新闻综合,http://111.12.83.7:6410/000000001000/Guilin/1.m3u8?livemode=1
+桂林科教旅游,http://111.12.83.7:6410/000000001000/GLLY/1.m3u8?livemode=1
+梁平综合频道,http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8
+梅州交通广播 FM105.8,http://ls.qingting.fm/live/24195.m3u8
+梅州新闻广播 FM94.8,http://ls.qingting.fm/live/24173.m3u8
+梅州私家车广播 FM94,http://ls.qingting.fm/live/2841338.m3u8
+梅州综合,http://dslive.grtn.cn/mzzh/sd/live.m3u8
+梧州新闻综合,http://111.12.83.60:6610/000000001000/WuZhou/1.m3u8?livemode=1&IASHttpSessionId=SLB19972019031013144238170753
+楚天交通广播 FM92.7,http://ls.qingting.fm/live/1291.m3u8
+楚天音乐广播 FM105.8 (Opt-1),http://ls.qingting.fm/live/1289.m3u8
+楚天音乐广播 FM105.8 (Opt-2),http://live7.hbtv.com.cn/masvod/ctyygb_q1/index.m3u8
+欢笑剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225963/3.m3u8
+民视新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
+汕尾公共,http://dslive.grtn.cn/swzh/sd/live.m3u8
+江津文化旅游,http://jiangjinlive.cbg.cn:1935/ch2.m3u8
+江津新闻综合 (Opt-2),http://jiangjinlive.cbg.cn:1935/ch1.m3u8
+江津经济生活 (Opt-2),http://jiangjinlive.cbg.cn:1935/ch0.m3u8
+江苏交通广播 FM101.1,http://ls.qingting.fm/live/4054.m3u8
+江苏健康广播 AM846,http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
+江苏卫视,http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
+江苏故事广播 AM1206,http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
+江苏文艺广播 AM1053,http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
+江苏新闻广播 FM93.7,http://ls.qingting.fm/live/4944.m3u8
+江苏新闻综合广播 AM702 (Opt-1),http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
+江苏新闻综合广播 AM702 (Opt-2),http://ls.qingting.fm/live/5055.m3u8
+江苏财经广播 AM585,http://lzlive.vojs.cn/caijing/92/live.m3u8
+江苏金陵之声,http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+江苏金陵之声网络台,http://lzlive.vojs.cn/O7QzcMu/92/live.m3u8
+江苏靓妆,http://39.135.16.142:6060/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
+江苏音乐广播 FM89.7,http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
+江西公共农业,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv05.m3u8
+江西卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
+江西少儿,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv06.m3u8
+江西新闻,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv07.m3u8
+江西旅游影视,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv04.m3u8
+江西移动电视,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv08.m3u8
+江西经济生活,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv03.m3u8
+江西都市,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv02.m3u8
+江门新闻综合台 FM100.2,http://ls.qingting.fm/live/1282.m3u8
+江门旅游音乐台 FM93.3,http://ls.qingting.fm/live/1283.m3u8
+江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
+池州公共,http://cztv.wshls.homecdn.com/live/829d.m3u8
+沈阳新闻广播 FM104.5,http://ls.qingting.fm/live/23891.m3u8
+沈阳生活广播 FM103.4,http://lms.csytv.com/Live/119/live/livestream.m3u8
+沈阳都市广播 FM92.1,http://ls.qingting.fm/live/1099.m3u8
+沈阳音乐广播 路上好朋友 FM98.6,http://ls.qingting.fm/live/1101.m3u8
+河北 My FM 102.9,http://ls.qingting.fm/live/2508757.m3u8
+河北交通广播 FM99.2,http://ls.qingting.fm/live/1646.m3u8
+河北公共,http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+河北农民,http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+河北农民广播 AM558,http://ls.qingting.fm/live/1650.m3u8
+河北卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+河北卫视,http://111.40.205.76/PLTV/88888888/224/3221225623/index.m3u8
+河北影视,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+河北故事广播 FM107.9,http://ls.qingting.fm/live/1645.m3u8
+河北新闻广播 FM104.3,http://ls.qingting.fm/live/1644.m3u8
+河北旅游广播 AM603,http://ls.qingting.fm/live/1651.m3u8
+河北生活广播 FM88.8,http://ls.qingting.fm/live/4867.m3u8
+河北私家车广播 FM90.7,http://ls.qingting.fm/live/4868.m3u8
+河北经济,http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+河北音乐广播 FM102.4,http://ls.qingting.fm/live/1649.m3u8
+河南乐龄(信息广播) FM105.6,http://ls.qingting.fm/live/59896.m3u8
+河南交通广播 FM104.1,http://ls.qingting.fm/live/1209.m3u8
+河南卫视 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
+河南卫视 (Opt-2),http://183.207.249.7/PLTV/2/224/3221226065/index.m3u8
+河南卫视 (Opt-3),http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
+河南国际,http://61.58.60.230:9319/live/240.m3u8
+河南娱乐广播 FM97.6,http://ls.qingting.fm/live/1719795.m3u8
+河南影视广播 MyRadio FM90.0,http://ls.qingting.fm/live/1206.m3u8
+河南文物宝库,http://39.135.16.142:6060/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
+河南新闻广播 FM95.4,http://ls.qingting.fm/live/1215.m3u8
+河南武术世界,http://117.158.206.60:9080/live/wssj.m3u8
+河南私家车999 FM99.9,http://ls.qingting.fm/live/1219.m3u8
+河南音乐广播 魅力881 FM88.1,http://ls.qingting.fm/live/1208.m3u8
+河南驾车1066 FM106.6,http://ls.qingting.fm/live/1207.m3u8
+河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
+沾化新闻综合广播 FM104.2,http://ls.qingting.fm/live/2234967.m3u8
+泉港电视台,http://r.gslb.lecloud.com:80/live/hls/2018040830000001a13/desc.m3u8
+法治天地,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225932/1.m3u8
+济南交通广播 FM103.1,http://ls.qingting.fm/live/1669.m3u8
+济南商务,http://ts1.ijntv.cn/jnsw/sd/live.m3u8
+济南娱乐,http://ts2.ijntv.cn/jnyl/sd/live.m3u8
+济南少儿,http://ts2.ijntv.cn/jnse/sd1/live.m3u8
+济南影视,http://ts1.ijntv.cn/yshd/hd/live.m3u8
+济南故事广播 FM104.3,http://ls.qingting.fm/live/1672.m3u8
+济南新闻,http://ts1.ijntv.cn/xwhd/hd/live.m3u8
+济南新闻广播 FM106.6,http://ls.qingting.fm/live/1667.m3u8
+济南生活,http://ts2.ijntv.cn/jnsh/sd/live.m3u8
+济南私家车广播 FM93.6,http://ls.qingting.fm/live/1670.m3u8
+济南经济广播 FM90.9,http://ls.qingting.fm/live/1668.m3u8
+济南都市,http://ts1.ijntv.cn/jnds/sd/live.m3u8
+济南音乐广播(MUSIC887),http://ls.qingting.fm/live/1671.m3u8
+济宁新闻综合,http://lives.jnnews.tv:80/video/s10001-jntv/index.m3u8
+浙江之声 FM88 (Opt-1),http://ls.qingting.fm/live/4518.m3u8
+浙江之声 FM88 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio02/128k.m3u8
+浙江交通之声 FM93 (Opt-1),http://ls.qingting.fm/live/4522.m3u8
+浙江交通之声 FM93 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio04/128k.m3u8
+浙江公共新闻,http://112.17.40.140/PLTV/88888888/224/3221226324/index.m3u8
+浙江动听(音乐调频) FM96.8 (Opt-1),http://yf.m.l.cztv.com/channels/lantian/audio01/128k.m3u8
+浙江动听(音乐调频) FM96.8 (Opt-2),http://ls.qingting.fm/live/4866.m3u8
+浙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
+浙江国际,http://61.58.60.230:9319/live/233.m3u8
+浙江城市之声 (私家车107) FM107 (Opt-1),http://ls.qingting.fm/live/4523.m3u8
+浙江城市之声 (私家车107) FM107 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio06/128k.m3u8
+浙江女主播电台 FM104.5 (Opt-1),http://yf.m.l.cztv.com/channels/lantian/audio07/128k.m3u8
+浙江女主播电台 FM104.5 (Opt-2),http://ls.qingting.fm/live/4524.m3u8
+浙江少儿,http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
+浙江影视娱乐,http://112.17.40.140/PLTV/88888888/224/3221226273/index.m3u8
+浙江教育科技,http://112.17.40.140/PLTV/88888888/224/3221226118/index.m3u8
+浙江数码时代,http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
+浙江新闻广播新锐 FM98.8 (Opt-1),http://ls.qingting.fm/live/2686006.m3u8
+浙江新闻广播新锐 FM98.8 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio08/128k.m3u8
+浙江民生,http://112.17.40.140/PLTV/88888888/224/3221226237/index.m3u8
+浙江民生 FM99.6,http://ls.qingting.fm/live/4521.m3u8
+浙江经济生活,http://112.17.40.140/PLTV/88888888/224/3221226423/index.m3u8
+浙江财富广播 FM95 (Opt-1),http://ls.qingting.fm/live/4519.m3u8
+浙江财富广播 FM95 (Opt-2),http://yf.m.l.cztv.com/channels/lantian/audio05/128k.m3u8
+浦江之声 AM1422,http://ls.qingting.fm/live/4857.m3u8
+海南交通广播 FM100,http://ls.qingting.fm/live/4911.m3u8
+海南国际旅游之声 FM103.8,http://ls.qingting.fm/live/1862.m3u8
+海南新闻广播 FM88.6,http://ls.qingting.fm/live/1861.m3u8
+海南民生广播 FM101,http://ls.qingting.fm/live/1511803.m3u8
+海南音乐广播 FM94.5,http://ls.qingting.fm/live/4878.m3u8
+海口音乐广播,http://ls.qingting.fm/live/23859.m3u8
+海峡卫视,http://stream6.fjtv.net/haixia/sd/live.m3u8
+深圳DV生活,http://39.135.16.142:6060/PLTV/88888888/224/3221225735/1/index.m3u8?fmt=ts2hls
+深圳先锋898(新闻广播),http://ls.qingting.fm/live/1270.m3u8
+深圳国际,http://61.58.60.230:9319/live/235.m3u8
+深圳快乐1062(交通广播),http://ls.qingting.fm/live/1272.m3u8
+深圳私家车广播 FM94.2,http://ls.qingting.fm/live/1273.m3u8
+深圳蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8
+深圳飞扬音乐971,http://ls.qingting.fm/live/1271.m3u8
+温州交通广播 FM103.9,http://ls.qingting.fm/live/23863.m3u8
+温州新闻广播 FM94.9,http://ls.qingting.fm/live/23861.m3u8
+温州私家车音乐广播 FM100.3,http://ls.qingting.fm/live/23865.m3u8
+温州经济生活广播 FM88.8,http://ls.qingting.fm/live/23867.m3u8
+温州绿色之声 FM93.8,http://ls.qingting.fm/live/1158.m3u8
+游戏风云,http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
+湖南公共,http://124.232.231.246:6610/000000001001/201500000222/8000.m3u8?zte_auth=97417933&IASHttpSessionId=OTT310920190424131305003289&m3u8_level=2&ztecid=201500000222&ispcode=8
+湖南卫视 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
+湖南国际,http://61.58.60.230:9319/live/231.m3u8
+湖南娱乐,http://124.232.231.246:6610/000000001001/201500000239/12000.m3u8?zte_auth=5ceb9ed4&IASHttpSessionId=OTT310520190424131535003711&m3u8_level=2&ztecid=201500000239&ispcode=8
+湖南电影,http://124.232.231.246:6610/000000001001/201500000237/12000.m3u8?zte_auth=36c585e0&IASHttpSessionId=OTT317020190424130851003388&m3u8_level=2&ztecid=201500000237&ispcode=8
+湖南电视剧,http://124.232.231.246:6610/000000001001/201500000236/12000.m3u8?zte_auth=3de67b91&IASHttpSessionId=OTT316220190424131110003832&m3u8_level=2&ztecid=201500000236&ispcode=8
+湖南经视,http://124.232.231.246:6610/000000001001/201500000234/12000.m3u8?zte_auth=6f52ab12&IASHttpSessionId=OTT314620190424132544002761&m3u8_level=2&ztecid=201500000234&ispcode=8
+湖南茶,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+湖南都市,http://124.232.231.246:6610/000000001001/201500000235/12000.m3u8?zte_auth=fbca2edc&IASHttpSessionId=OTT310920190424130449003220&m3u8_level=2&ztecid=201500000235&ispcode=8
+湖州交通文艺广播 FM98.5,http://ls.qingting.fm/live/2811.m3u8
+湖州经济广播 FM103.5,http://ls.qingting.fm/live/2812.m3u8
+湖州综合广播 湖州之声 FM05,http://ls.qingting.fm/live/2810.m3u8
+滨海影视,http://60.30.52.41/live/bhtv3/playlist.m3u8
+滨海新闻,http://60.30.52.41/live/bhtv1/playlist.m3u8
+滨海都市,http://60.30.52.41/live/bhtv2/playlist.m3u8
+潍坊新闻广播 FM100.2,http://ls.qingting.fm/live/60358.m3u8
+潍坊私家车广播 FM93.3,http://ls.qingting.fm/live/84511.m3u8
+潍坊音乐优生活 FM90.8,http://ls.qingting.fm/live/4865.m3u8
+潍坊音乐广播 FM88.7,http://ls.qingting.fm/live/4015.m3u8
+潮安综艺,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+潮州交通音乐广播 FM91.4,http://ls.qingting.fm/live/4594.m3u8
+潮州戏曲广播 FM103.1,http://ls.qingting.fm/live/4595.m3u8
+潮州新闻综合广播 FM94.0,http://ls.qingting.fm/live/4596.m3u8
+灵台新闻综合,http://117.156.28.119/270000001111/1110000145/index.m3u8
+炫动卡通,http://183.207.249.7/PLTV/2/224/3221226047/index.m3u8
+爱奇艺地方台-河北都市,http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+爱情公寓,https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
+牛叔解说电影,https://al.hls.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_1200.m3u8
+牡丹江经济广播,http://ls.qingting.fm/live/3687385.m3u8
+献县1台,http://hbxx.chinashadt.com:3299/live/stream%3Adi7.stream_360p/chunklist.m3u8
+献县2台,http://hbxx.chinashadt.com:3299/live/stream%3Adi8.stream_360p/chunklist.m3u8
+玉林新闻综合,http://111.12.83.13:6610/000000001000/Yulin/1.m3u8?livemode=1&IASHttpSessionId=SLB20002019031013092037863610
+珠海电台交通音乐875,http://ls.qingting.fm/live/1275.m3u8
+珠海电台先锋951,http://ls.qingting.fm/live/1274.m3u8
+珠海电台活力915,http://ls.qingting.fm/live/2473319.m3u8
+甘肃卫视,http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8
+甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
+甘肃文化影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
+甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
+甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
+生化危机,https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+电视剧频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
+白城新闻综合,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+盘锦交通文艺广播 FM91.4,http://ls.qingting.fm/live/2650481.m3u8
+盘锦新闻综合广播 FM104.2,http://ls.qingting.fm/live/1097.m3u8
+盘锦经济生活广播 FM97.1,http://ls.qingting.fm/live/1098.m3u8
+睢宁综合,http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
+石狮电视台,http://218.5.112.180:88/live/dssl/playlist.m3u8
+石狮综合,http://218.5.112.180:88/live/dssl/chunklist_w1615464711.m3u8
+福州少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
+福州影视,http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
+福州生活,http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
+福州综合,http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
+福建公共,http://stream5.fjtv.net/ggpd/sd/live.m3u8
+福建少儿,http://stream6.fjtv.net/child/sd/live.m3u8
+福建新闻,http://stream5.fjtv.net/xwpd/sd/live.m3u8
+福建旅游,http://stream6.fjtv.net/dspd/sd/live.m3u8
+福建经济,http://stream6.fjtv.net/jjpd/sd/live.m3u8
+积石山电视台,http://117.156.28.119/270000001111/1110000152/index.m3u8
+第一财经,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
+第一财经 FM97.7,http://ls.qingting.fm/live/276.m3u8
+篮球火,https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+綦江综合频道,http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
+纪实频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
+终极一班,https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+罗城综合,http://120.78.123.146:9100/lctvlive/lch.m3u8
+老香菇,https://ws.streamhls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1_1200/playlist.m3u8
+肃州电视台,http://117.156.28.119/270000001111/1110000123/index.m3u8
+舌尖上的中国,https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+舟山公共生活,http://live.wifizs.cn/ggsh/sd/live.m3u8
+舟山新闻综合 (Opt-1),http://live.wifizs.cn/xwzh/sd/live.m3u8
+舟山新闻综合 (Opt-2),http://stream.wifizs.cn/xwzh/sd/live.m3u8
+舟山群岛旅游,http://live.wifizs.cn/qdly/sd/live.m3u8
+艺术人文,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225976/1.m3u8
+英语辅导频道,http://39.135.16.142:6060/PLTV/88888888/224/3221225737/1/index.m3u8?fmt=ts2hls
+荆州新闻,http://117.149.150.4/guangdianyun_33058/tv_channel_216__redirect__33058.m3u8
+荆门之声频率 FM89.7,http://live.jmtv.com.cn/xwzhpl/sd/live.m3u8
+荆门交通音乐频率 FM99.3 (Opt-1),http://live.jmtv.com.cn/jtyypl/sd/live.m3u8
+荆门交通音乐频率 FM99.3 (Opt-2),http://ls.qingting.fm/live/60808.m3u8
+萤火虫网络电台,http://ls.qingting.fm/live/4998.m3u8
+衡水交通广播,http://hls.hsrtv.cn/hls/radio3.m3u8
+衡水公共频道,http://hls.hsrtv.cn/hls/hstv3.m3u8
+衡水影视娱乐,http://hls.hsrtv.cn/hls/hstv2.m3u8
+衡水文艺广播 FM96.1,http://hls.hsrtv.cn/hls/radio2.m3u8
+衡水新闻广播,http://hls.hsrtv.cn/hls/radio1.m3u8
+衡水新闻综合,http://hls.hsrtv.cn/hls/hstv1.m3u8
+衡阳交通广播 FM101.8,http://ls.qingting.fm/live/5079921.m3u8
+衡阳新闻广播 FM98.9,http://ls.qingting.fm/live/5079970.m3u8
+襄阳交通广播 FM89.0 (Opt-1),http://ls.qingting.fm/live/1307.m3u8
+襄阳交通广播 FM89.0 (Opt-2),http://ls.qingting.fm/live/1308.m3u8
+襄阳音乐广播,http://ls.qingting.fm/live/5057.m3u8
+西宁交通频率,http://ls.qingting.fm/live/3400408.m3u8
+西宁新闻,http://111.44.138.251:15414/contents38/live/CHANNEL624b6cac092948abad7426bce3d27350/HD_4402299958362184480/live.m3u8
+西宁新闻频率,http://ls.qingting.fm/live/3400403.m3u8
+西宁旅游频率,http://ls.qingting.fm/live/3400411.m3u8
+西宁生活,http://111.44.138.251:15414/contents38/live/CHANNEL10d2ec0ddf704bb3bb45863d5b0f698f/HD_3655028264191063491/live.m3u8
+西宁私家车音乐调频,http://ls.qingting.fm/live/3377772.m3u8
+西安交通广播 FM104.3 (Opt-1),http://ls.qingting.fm/live/1611.m3u8
+西安交通广播 FM104.3 (Opt-2),http://stream3.xiancity.cn/5/sd/live.m3u8
+西安健康,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+西安新闻广播 FM95.0 (Opt-1),http://ls.qingting.fm/live/1610.m3u8
+西安新闻广播 FM95.0 (Opt-2),http://stream3.xiancity.cn/1/sd/live.m3u8
+西安白鸽,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+西安资讯,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+西安资讯广播 FM106.1,http://stream3.xiancity.cn/2/sd/live.m3u8
+西安音乐广播 FM93.1 (Opt-1),http://ls.qingting.fm/live/1612.m3u8
+西安音乐广播 FM93.1 (Opt-2),http://stream3.xiancity.cn/4/sd/live.m3u8
+西安音乐综艺,http://stream2.xiancity.cn/xatv6/sd/live.m3u8
+西游记,https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+西湖明珠,http://112.17.40.140/PLTV/88888888/224/3221226212/index.m3u8
+西藏卫视,http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
+西藏汉语广播 FM93.3,http://ls.qingting.fm/live/1733219.m3u8
+西藏藏语广播 FM106.3,http://ls.qingting.fm/live/1313.m3u8
+西藏都市生活广播 FM98.0,http://ls.qingting.fm/live/1316.m3u8
+贵州7,http://39.135.16.142:6060/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
+贵州公共,http://39.135.16.142:6060/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
+贵州卫视,http://39.135.16.142:6060/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
+贵州大众生活,http://39.135.16.142:6060/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
+贵州新闻综合广播 FM94.6,http://ls.qingting.fm/live/23933.m3u8
+贵州法制,http://39.135.16.142:6060/PLTV/88888888/224/3221225662/1/index.m3u8?fmt=ts2hls
+贵州电台交通广播 FM95.2,http://ls.qingting.fm/live/23927.m3u8
+贵州电台故事广播 FM90.0,http://ls.qingting.fm/live/23931.m3u8
+贵州电台旅游广播 FM97.2,http://ls.qingting.fm/live/23929.m3u8
+贵州电台经济广播 FM98.9,http://ls.qingting.fm/live/23935.m3u8
+贵州电台音乐广播 FM91.6,http://ls.qingting.fm/live/23937.m3u8
+贵州科教健康 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225672/1/index.m3u8?fmt=ts2hls
+贵州科教健康 (Opt-2),http://39.135.16.142:6060/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
+贵州移动电视,http://39.135.16.142:6060/PLTV/88888888/224/3221225774/1/index.m3u8?fmt=ts2hls
+贵港新闻综合,http://111.12.83.13:6610/000000001000/XinWenZongHe/1.m3u8?livemode=1&IASHttpSessionId=SLB20072019031013115337860633
+贵阳新闻综合,http://39.135.16.142:6060/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
+赞皇电视台,http://hbzz.chinashadt.com:2036/zhibo/4.stream/chunklist.m3u8
+越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+越哥看电影,https://ws.streamhls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_1200/playlist.m3u8
+轩辕剑,https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
+辽宁交通广播 FM97.5,http://ls.qingting.fm/live/23801.m3u8
+辽宁卫视,http://112.50.243.8/PLTV/88888888/224/3221225947/3.m3u8
+辽宁瓢虫台,http://ls.qingting.fm/live/68238.m3u8
+辽宁经济,http://lms.csytv.com/Live/123/live/livestream.m3u8
+辽宁经济广播 FM88.8,http://ls.qingting.fm/live/23797.m3u8
+辽宁综合广播 FM102.9,http://ls.qingting.fm/live/23793.m3u8
+辽源新闻综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+迁安快乐3频道,http://app.qatv.cn:1936/live/stream:kl3pd.stream_720p/playlist.m3u8
+迁安新闻综合,http://app.qatv.cn:1936/live/stream:xwzh.stream_720p/playlist.m3u8
+迁安生活影视,http://app.qatv.cn:1937/live/stream:shfw.stream_720p/playlist.m3u8
+迪庆藏语,http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+迭部电视台,http://117.156.28.119/270000001111/1110000154/index.m3u8
+通化新闻,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+邢台爱尚986,http://ls.qingting.fm/live/2344255.m3u8
+郁南网络电台,http://ls.qingting.fm/live/23893.m3u8
+郑州新闻广播 FM98.6,http://ls.qingting.fm/live/1220.m3u8
+郑州汽车广播 FM91.2,http://ls.qingting.fm/live/1211.m3u8
+郑州活力944,http://ls.qingting.fm/live/4921.m3u8
+郑州私家车 FM91.8,http://ls.qingting.fm/live/1222.m3u8
+郑州经典广播 FM107.9,http://ls.qingting.fm/live/1223.m3u8
+郑州车道931,http://ls.qingting.fm/live/1221.m3u8
+郴州综合广播 FM99.2,http://ls.qingting.fm/live/76765.m3u8
+郴州音乐交通广播 FM102.8,http://ls.qingting.fm/live/86747.m3u8
+都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
+都市频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225969/3.m3u8
+酒泉公共,http://117.156.28.119/270000001111/1110000002/index.m3u8
+酒泉新闻综合,http://117.156.28.119/270000001111/1110000001/index.m3u8
+重庆交通广播 FM95.5,http://ls.qingting.fm/live/1500.m3u8
+重庆卫视,http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
+重庆国际,http://61.58.60.230:9319/live/236.m3u8
+重庆影视,http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
+重庆文艺广播 FM103.5,http://ls.qingting.fm/live/1501.m3u8
+重庆新闻,http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
+重庆新闻广播 FM96.8,http://ls.qingting.fm/live/1498.m3u8
+重庆汽摩,http://39.135.16.142:6060/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
+重庆移动公交,http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
+重庆移动机场,http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
+重庆都市广播 FM93.8,http://ls.qingting.fm/live/1502.m3u8
+重庆音乐广播 FM88.1,http://ls.qingting.fm/live/647.m3u8
+金十电台,http://fmcdn.jin10.com/AAC/voice.m3u8
+金华教育科技,http://stream.jinhua.com.cn/jykj/app/live.m3u8
+金华都市农村,http://stream.jinhua.com.cn/dsnc/app/live.m3u8
+金庸电影,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
+金昌公共频道,http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
+金昌综合频道,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+金色频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+金鹰955电台,http://ls.qingting.fm/live/4937.m3u8
+金鹰卡通,http://112.50.243.8/PLTV/88888888/224/3221226746/3.m3u8
+金鹰纪实 (Opt-1),http://39.135.16.142:6060/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+金鹰纪实 (Opt-2),http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
+钱江电视,http://112.17.40.140/PLTV/88888888/224/3221226275/index.m3u8
+铜仁综合,http://gztr.chinashadt.com:2036/live/stream:tr1.stream/playlist.m3u8
+铜梁电台龙乡之声 FM96.6,http://222.180.119.78:10346/a1.m3u8
+银川交通音乐台 FM100.6,http://live1.ycgbtv.com.cn/ycjt/sd/live.m3u8
+银川公共,http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
+银川新闻综合频率 AM801,http://live1.ycgbtv.com.cn/ycxwpl/sd/live.m3u8
+银川汽车生活广播 FM90.5,http://live1.ycgbtv.com.cn/yccar/sd/live.m3u8
+银川生活,http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+银川都市经济广播 FM95.0,http://live1.ycgbtv.com.cn/ycdupl/sd/live.m3u8
+镇江交通频率 FM88.8,http://live.zjmc.tv/5/sd/live.m3u8
+镇江动感私家车电台 FM102.7,http://live.zjmc.tv/9/sd/live.m3u8
+镇江城市生活频率 FM90.5,http://live.zjmc.tv/7/sd/live.m3u8
+镇江新闻频率 FM104,http://live.zjmc.tv/4/sd/live.m3u8
+镇江音乐频率 FM96.3,http://live.zjmc.tv/6/sd/live.m3u8
+长寿文化旅游,http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8
+长春娱乐,http://stream.chinactv.com/ctv2/sd/live.m3u8
+长春市民,http://stream.chinactv.com/ctv3/sd/live.m3u8
+长春汽车,http://stream.chinactv.com/ctv5/sd/live.m3u8
+长春生活故事广播 FM90.0,http://ls.qingting.fm/live/5014.m3u8
+长春经济,http://stream.chinactv.com/ctv4/sd/live.m3u8
+长春综合 (Opt-1),http://stream2.jlntv.cn/jlcc/sd/live.m3u8
+长春综合 (Opt-2),http://stream.chinactv.com/ctv1/sd/live.m3u8
+长沙城市之声 FM101.7,http://ls.qingting.fm/live/4237.m3u8
+长沙新闻广播 FM105.0,http://ls.qingting.fm/live/4877.m3u8
+长治1台,http://streaming.czgd.cn:8084/4b0bcd8509d748358b4450921fc3443b/h264_300k_ts/index.m3u8?type=hls_live_redirect
+长治2台,http://streaming.czgd.cn:8084/7223161a96984d81b711d762d7e7fdd1/h264_300k_ts/index.m3u8?type=hls_live_redirect
+长治3台,http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
+长治交通文艺广播 FM94.9,http://ls.qingting.fm/live/2669405.m3u8
+长治新闻综合广播(幸福广播) FM94.3,http://ls.qingting.fm/live/2702863.m3u8
+阆中综合,http://27.148.162.45/guangdianyun_36133/tv_channel_363__redirect__36133.m3u8
+阳信人民广播电台 FM103.4,http://ls.qingting.fm/live/2915753.m3u8
+阳江公共,http://live.yjbc.tv:8081/live/smil:yjtv2.smil/playlist.m3u8
+阳江综合,http://dslive.grtn.cn/yjzh/sd/live.m3u8
+阳江综合,http://live.yjbc.tv:8081/live/smil:yjtv1.smil/playlist.m3u8
+阳泉交通广播,http://ls.qingting.fm/live/4592896.m3u8?aac
+阳泉新闻综合广播,http://ls.qingting.fm/live/5876899.m3u8?aac
+阿祥看电影,https://ws.streamhls.huya.com/huyalive/1199512004776-1199512004776-5223235107350904832-2399024133008-10057-A-0-1_1200/playlist.m3u8
+陕西交通广播 FM91.6,http://ls.qingting.fm/live/1601.m3u8
+陕西公共,http://stream.snrtv.com/sxtvs-5.m3u8
+陕西农村广播 AM900,http://ls.qingting.fm/live/1602.m3u8
+陕西卫视,http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
+陕西戏曲广播 AM747,http://ls.qingting.fm/live/1606.m3u8
+陕西故事广播 AM603,http://ls.qingting.fm/live/1608.m3u8
+陕西汽车调频 FM89.6,http://ls.qingting.fm/live/1603.m3u8
+陕西生活,http://stream.snrtv.com/sxtvs-3.m3u8
+陕西秦腔广播 FM101.1,http://ls.qingting.fm/live/1604.m3u8
+陕西都市,http://stream.snrtv.com/sxtvs-2.m3u8
+陕西都市广播-陕广新闻 FM101.8,http://ls.qingting.fm/live/1609.m3u8
+陕西音乐广播 FM98.8,http://ls.qingting.fm/live/4873.m3u8
+集安综合频道,http://stream2.jlntv.cn/ja/sd/live.m3u8
+青岛交通广播 FM89.7,http://ls.qingting.fm/live/1676.m3u8
+青岛故事广播 FM95.2,http://ls.qingting.fm/live/4956.m3u8
+青岛新闻广播 FM107.6,http://ls.qingting.fm/live/1673.m3u8
+青岛经典音乐调频 FM87.5,http://ls.qingting.fm/live/4613829.m3u8
+青岛西海岸交通广播 FM92.6,http://ls.qingting.fm/live/3748882.m3u8
+青岛西海岸城市生活广播 FM92.6,http://ls.qingting.fm/live/33446.m3u8
+青海交通音乐广播 FM97.2,http://ls.qingting.fm/live/5009.m3u8
+青海卫视,http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
+青海生活,http://111.44.138.251:15414/contents39/live/CHANNEL8c2bd69052744f6698d01be2a829dae9/HD_1212931560398178049/live.m3u8
+青海生活广播 花儿调频 FM90.3,http://ls.qingting.fm/live/2163891.m3u8
+青海经济广播 FM07.5,http://ls.qingting.fm/live/5008.m3u8
+青海都市,http://111.44.138.251:15414/contents39/live/CHANNELd88233ec001443eab59a2654bb3e0d62/HD_1761200208961192182/live.m3u8
+静宁综合,http://117.156.28.119/270000001111/1110000147/index.m3u8
+韩国EBSeHD,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国KBS1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+顶级科幻,https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+马鞍山交通广播 FM92.8,http://ls.qingting.fm/live/79109.m3u8
+马鞍山公共,http://live.massp.cn:5011/vod/video_hls/c03.m3u8
+马鞍山影视,http://live.massp.cn:5011/vod/video_hls/c02.m3u8
+马鞍山新闻广播 FM105.1,http://ls.qingting.fm/live/79135.m3u8
+马鞍山新闻综合,http://live.massp.cn:5011/vod/video_hls/c01.m3u8
+马鞍山音乐广播 FM94.5,http://ls.qingting.fm/live/79133.m3u8
+高台电视台,http://117.156.28.119/270000001111/1110000146/index.m3u8
+鬼话怪谈,https://ws.streamhls.huya.com/huyalive/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1_1200/playlist.m3u8
+魔幻手机,https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
+鹤壁交通音乐广播 FM93.5,http://ls.qingting.fm/live/3032681.m3u8
+鹤壁新闻综合,http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+鹤山电台104.7,http://ls.qingting.fm/live/1286.m3u8
+黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
+黔西南交通旅游广播 FM88.3,http://ls.qingting.fm/live/5046.m3u8
+黔西南金州之声 FM107.9,http://ls.qingting.fm/live/5045.m3u8
+龙岩公共,http://stream.lytv.net.cn/1/sd/live.m3u8
+龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
+龙广乡村广播 AM945,http://stream3.hljtv.com/hljrdnc/sd/live.m3u8
+龙广乡村广播 AM945,http://ls.qingting.fm/live/4977.m3u8
+龙广交通广播 FM99.8,http://ls.qingting.fm/live/4973.m3u8
+龙广北大荒之声 FM104.6,http://stream3.hljtv.com/hljrdgx/sd/live.m3u8
+龙广新闻广播 FM94.6,http://stream3.hljtv.com/hljrdjt/sd/live.m3u8
+龙广新闻广播 FM94.6,http://ls.qingting.fm/live/4974.m3u8
+龙广朝鲜语广播 AM873,http://stream3.hljtv.com/hljrdcy/sd/live.m3u8
+龙广爱家频道 FM97,http://ls.qingting.fm/live/4972.m3u8
+龙广私家车广播 FM104.5,http://ls.qingting.fm/live/4970.m3u8
+龙广都市女性台 FM102.1,http://ls.qingting.fm/live/4968.m3u8
+龙广都市女性台 FM102.1,http://stream3.hljtv.com/hljrd97/sd/live.m3u8
+龙广青苹果之声 FM104.6,http://ls.qingting.fm/live/4976.m3u8
+龙广音乐广播 FM95.8,http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
+龙广音乐广播 FM95.8,http://ls.qingting.fm/live/4969.m3u8
+BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+BSTV(贡献者:007),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+TVB星河,http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+凤凰中文,http://117.169.120.217:8080/live/fhchinese/.m3u8
+凤凰中文HD2,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰中文备1,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文备2,http://live.fengshows.com/live/PCC_500k/index.m3u8
+凤凰卫视中文台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
+凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰资讯HD1,http://223.82.250.72/live/fhzixun/1.m3u8
+凤凰香港高清,http://223.82.250.72/live/fhhongkong/1.m3u8
+卫视點心,http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE
+唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+壹新闻,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+大愛一台,http://61.58.60.230:9319/live/10.m3u8
+大愛二台,http://61.58.60.230:9319/live/191.m3u8
+天映頻道,http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
+新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
+民视,http://60.251.37.44:8080/live/super7659.m3u8
+民视新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+港台電視 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+澳亞衛視,http://stream.mastvnet.com/MSTV/playlist.m3u8
+澳視高清,http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+澳视MACAU衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+澳视葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+澳视资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+1 Music Channel (Opt-1),http://92.249.129.152/stream/1music.m3u8
+1 Music Channel (Opt-2),http://stream.1music.hu/stream/1music.m3u8
+1 Music Channel (Opt-3),http://stream.1music.hu/stream/1music.m3u8?GrupoTopIptv
+
+
+
 BLUE ANT EXTREME,p2p://fccs.123178.top:9806/60441771000d4807000e774ad2f62e16.ts
 Comedy Central Asia,p2p://fccs.123178.top:9806/6044183b000d06f700118c4956df7f03.ts
 CatchPlay電影台,p2p://fccs.123178.top:9806/6044191d000d8b620014ff3bef2f4594%20.ts
