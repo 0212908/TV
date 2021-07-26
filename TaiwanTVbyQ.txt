@@ -99,7 +99,7 @@ momo綜合台|８３,rtmp://161.202.204.248:1935/sat/tv761
 三立iNEWS|９２,http://seb.sason.top/sc/slinews_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live
 SBN全球財經|９３,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live
 誠心電視台|９４,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCRvNvZZH79MpSRubnW9pdcw/live
-公視三台|９５,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq#tvbus://8RT5B4va9wkfC7a6twDMtKQiQAhu8HcNNmVdi7Rhnri1nSnv9b
+公視三台|９５,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq#tvbus://8RT5B4va9wkfC7a6twDMtKQiQAhu8HcNNmVdi7Rhnri1nSnv9b#tvbus://4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd#mitv://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804#vjms://122.155.180.8:8500:5021/live/cid=436
 彰化生活台|９５,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCrVBXIxpYnjTk4ezn9F-fug/live
 大愛二台|９６,http://61.58.60.230:9319/live/191.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=8ddDTi-gzQA#tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
 華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
