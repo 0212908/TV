@@ -1824,6 +1824,15 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 
 以下測試頻道_0120,#genre#
+松视1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
+松视2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+
+中|超有魄力！臀圍92cm巨臀素人人妻溫柔給處男破處！獨居的處男大學生和慾求不滿人妻瘋狂做愛！！菊花不停顫抖被連續內射！,https://fc.imgscloud.com/h/lcgwghotlq/lcgwghotlq.m3u8
+
+
 新婚夫歸的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
 AV女優加籐,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/e/9ea3eb4a05d962b4db273de38c6ced991486995925-1280-720-1653-h264.mp4/master.m3u8
 Z真白愛梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/c/fc3caa1d0d05ec7f5137338ac34243c11486995025-1280-720-1563-h264.mp4/master.m3u8
@@ -3867,15 +3876,10 @@ Channel U,http://47.242.54.220/daili/ce50.php?gun=2&id=ChannelU
 雲南衛視,http://61.58.60.230:9319/live/241.m3u8
 
 港澳海外_0120,#genre#
-彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-松视2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松视1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
-松视1,p5p://fccs.ggboxtv.tw:9806/60694312000ca14f15cde67abcbaadc0.ts
-松视2,p5p://fccs.ggboxtv.tw:9806/606943840001b56215cfa0fe5764c8dc.ts
-爱尔达体育台3,p5p://198.255.106.42:16871/5f37fe5f000e039f4332d3fa26419fbb#p5p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb
-中|超有魄力！臀圍92cm巨臀素人人妻溫柔給處男破處！獨居的處男大學生和慾求不滿人妻瘋狂做愛！！菊花不停顫抖被連續內射！,https://fc.imgscloud.com/h/lcgwghotlq/lcgwghotlq.m3u8
 
+
+
+爱尔达体育台3,p5p://198.255.106.42:16871/5f37fe5f000e039f4332d3fa26419fbb#p5p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb
  ELTA体育1台,mitv://ns2.hellotvvod.com:9906/eecacd3c63a14d3f9da0f400003608b9.ts
  ELTA体育2台,mitv://ns2.hellotvvod.com:9906/bb4cc9019047419d922eeb136a0cbb5d.ts
  ELTA体育3台,mitv://ns2.hellotvvod.com:9906/503446c594c24716958396834149f671.ts
