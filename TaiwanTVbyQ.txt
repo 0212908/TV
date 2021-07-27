@@ -286,8 +286,6 @@ NHK総合１・大阪,tvbus://61EgTy58KnWL1wAh94Y6DKmV1FUkGB4a3CLn18sadyXxUa2rsH
 SBS,tvbus://6BnPxmt8WkCw6rk9RaZjxzfA1qrZ2vqPXY7ncamkcUvzPNxHLhHb8SJhpVEL5
 cbcnews,tvbus://66hXtpJAkqdfjjvcptVuaYcxuMsn2BUALFJoMPg5g2QaGXD2qKQd2TjjD2WcB
 eurosp1,tvbus://5vuZqZCyWNbmMosYWFUHFpKcjaKsDYz7CPKMCEBd9tLGKKA4D8kBqphgq6SXf
-
-Absent Friend, [26.07.21 14:40]
 eurosp2,tvbus://5Za3uPb1YTSR3kVaZCo1iJUk4pqCT7ECiGNELwAynTkY692gfqGnV6h9YEeBL
 NOWTVHD,tvbus://5kGBTYcpcvpsaR38XS8eF9unJCn792pGR5ARKB68BYQhKvASmXV5nu2HXsAQk
 sportnet one,tvbus://6ahDPxEgeWYkzyPevtNTedg8YQGTbqh9bAurnKRBrCHtGhNRhtfV4at96GVms
@@ -3924,7 +3922,10 @@ Channel U,http://47.242.54.220/daili/ce50.php?gun=2&id=ChannelU
 雲南衛視,http://61.58.60.230:9319/live/241.m3u8
 
 港澳海外_0120,#genre#
-test,mitv://ns2.hellotvvod.com:9906/60449a27000cf419020d0e24d4fdafd9.ts
+彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+松视2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松视1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
 松视1,p5p://fccs.ggboxtv.tw:9806/60694312000ca14f15cde67abcbaadc0.ts
 松视2,p5p://fccs.ggboxtv.tw:9806/606943840001b56215cfa0fe5764c8dc.ts
 爱尔达体育台3,p5p://198.255.106.42:16871/5f37fe5f000e039f4332d3fa26419fbb#p5p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb
