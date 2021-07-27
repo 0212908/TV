@@ -3865,6 +3865,7 @@ Channel U,http://47.242.54.220/daili/ce50.php?gun=2&id=ChannelU
 雲南衛視,http://61.58.60.230:9319/live/241.m3u8
 
 港澳海外_0120,#genre#
+test,mitv://ns2.hellotvvod.com:9906/60449a27000cf419020d0e24d4fdafd9.ts
 松视1,p5p://fccs.ggboxtv.tw:9806/60694312000ca14f15cde67abcbaadc0.ts
 松视2,p5p://fccs.ggboxtv.tw:9806/606943840001b56215cfa0fe5764c8dc.ts
 爱尔达体育台3,p5p://198.255.106.42:16871/5f37fe5f000e039f4332d3fa26419fbb#p5p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb
