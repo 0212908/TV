@@ -3897,13 +3897,12 @@ Channel U,http://47.242.54.220/daili/ce50.php?gun=2&id=ChannelU
 雲南衛視,http://61.58.60.230:9319/live/241.m3u8
 
 港澳海外_0120,#genre#
-Pandora1,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
-Pandora2,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
-Sonsee1,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
-Sonsee2,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
-Banana,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
-Amazing,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
-e彩虹,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+
+Pandora2,p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615#mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
+
+Amazing,p2p://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b#mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
+e彩虹,p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f#mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+
 Miami,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8#http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 Miami  Jenny,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8#http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 Miami  Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8#http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
