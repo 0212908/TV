@@ -165,6 +165,8 @@ CCTV5,http://198.16.106.62:8278/streams/d/cctv5/playlist.m3u8
 CCTV5+,http://198.16.106.62:8278/streams/d/cctv5plus/playlist.m3u8
 AstroArena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 香港開電視,https://www.navchina.cf/IPTV/icable.php?id=77
+SPORT: NL: Eurosport 1,http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/911
+Sport: NL: Eurosport 2,http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/39155
 以上可以看奧運,
 BBCLifestyle|２０３,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 星衛HD電影|２０４,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA#tvbus://6HEgk6v2dcFEp48HohXkhC73Pdye4wZ1Mgws8KK833aq6rAzythmo9Z4ZDnP9#tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy#p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccsovh.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts#p2p://fccseuro.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts
@@ -4227,6 +4229,8 @@ LOOK,p2p://ns1.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
 电影限制级<欧美>,Ahttp://cdn.adultiptv.net/compilation.m3u8?streamType=live
 电影恨制级<欧美,>http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 限制级电影<欧美>,http://185.96.176.139:8080/superone/index.m3u8
+
+LOOK HD,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd#p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
 
 
 爱尔达体育台3,p5p://198.255.106.42:16871/5f37fe5f000e039f4332d3fa26419fbb#p5p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb
