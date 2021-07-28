@@ -4207,6 +4207,28 @@ Visit-X,http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
 Jasmin ,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 Jasmin,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
+LOOK,p2p://ns1.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
+惊艳台,p2p://ns1.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
+松视1台,p2p://ns1.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
+极限电影台,p2p://ns1.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts 
+电影1,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+电影2,http://188.35.9.26:5031/udp/058j?streamType=livеhls
+限制级1,https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8?streamType=live
+限制级2,http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+限制级3,hhttp://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+限制级4,http://176.197.26.198:81/udp/239.255.42.143:1234
+限制级6,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
+限制级7,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+限制级8,http://188.93.95.83:80/ort/mpegts?streamType=live
+限制级9,http://e02.plius.tv:64144/n137/index.m3u8?streamType=live
+限制级10,http://dprtv.phoenix-dnr.ru/first-republic-tv?streamType=live
+限制级11,http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb15bb5b0d62c23.m3u8
+限制级14,http://193.42.99.130:23455/NHKBS1/playlist.m3u8
+电影限制级<欧美>,Ahttp://cdn.adultiptv.net/compilation.m3u8?streamType=live
+电影恨制级<欧美,>http://62.112.9.63:88/Brazzers/index.m3u8?token=test
+限制级电影<欧美>,http://185.96.176.139:8080/superone/index.m3u8
+
+
 爱尔达体育台3,p5p://198.255.106.42:16871/5f37fe5f000e039f4332d3fa26419fbb#p5p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb
  ELTA体育1台,mitv://ns2.hellotvvod.com:9906/eecacd3c63a14d3f9da0f400003608b9.ts
  ELTA体育2台,mitv://ns2.hellotvvod.com:9906/bb4cc9019047419d922eeb136a0cbb5d.ts
