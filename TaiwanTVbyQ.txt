@@ -23,7 +23,7 @@ GoodTV|綜合台１５,http://live.streamingfast.net/osmflivech1.m3u8#http://liv
 優視頻道|１５,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8#tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
 客家電視台|１７,tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
-國家地理頻道|１８,tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W#rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.2:1935/livetv/natlgeo#mitv://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#mitv://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
+國家地理頻道|１８,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.2:1935/livetv/natlgeo#tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W#mitv://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#mitv://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
 Discovery|１９,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F#mitv://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f#mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
 TLC旅遊生活|２０,mitv://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b#mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b#tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir#http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 動物星球|２１,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq#mitv://fccseuro.pvbox.live:18912/5b14096100006f339d699b1699f3896d#mitv://fccsovh.pvbox.live:18912/5b14096100006f339d699b1699f3896d
@@ -191,7 +191,8 @@ HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c3
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 HBOFamily|家庭２２９,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw#p2p://138.68.6.47:8290/560785230005eaa0584aacc24e0710fb#mitv://fccseuro.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6#mitv://fccsovh.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6
 國家地理悠人|２３０,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
-NickJr.|２３１,tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+NickJr.|２３１,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8#tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+Nickelodeon|２３２,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 亞洲旅遊台|２３３,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#mitv://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7#mitv://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
 DMAX|２３４,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 Discovery科學|２３５,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
@@ -1859,7 +1860,7 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 潘朵拉粉紅,p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615#mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
 
 http://dzqs3.xyz/
-個撮|普通の女の子なのに、地道に活動を続ける地下アイドルとプライベート撮影會をセッhttps://vip5.bobolj.com/20210730/Jas5D5KF/index.m3u8
+個撮|普通の女の子なのに、地道に活動を続ける地下アイドルとプライベート撮影會をセ,ッhttps://vip5.bobolj.com/20210730/Jas5D5KF/index.m3u8
 個撮|産後4ヶ月の美人奧様はアナル調教願望有の変態むっつりスケベｗ旦那に知らないところ,https://vip5.bobolj.com/20210730/PQrgqhpv/index.m3u8
 
 
