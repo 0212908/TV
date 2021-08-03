@@ -191,7 +191,8 @@ HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c3
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 HBOFamily|家庭２２９,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw#p2p://138.68.6.47:8290/560785230005eaa0584aacc24e0710fb#mitv://fccseuro.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6#mitv://fccsovh.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6
 國家地理悠人|２３０,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
-NickJr.|２３１,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8#tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+NickJr.|２３１,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+壞tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
 Nickelodeon|２３２,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 亞洲旅遊台|２３３,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#mitv://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7#mitv://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
 DMAX|２３４,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
@@ -2201,23 +2202,14 @@ SGA-034c従順過人妻  桃瀬ゆり,http://videocdn.quweikm.com:8091/20180617/
 
 
 
-台灣©頻道,#genre#
-国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+海外兒少,#genre#
+
 Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-TVBS新闻台,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天新闻,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#p2p://fccsovh.pvbox.live:18912/5b14096a000dc9172181b048e1caf279.ts#p2p://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
 
-东森新闻台,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p2p://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#p2p://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 
 私人定制,#genre#
 
