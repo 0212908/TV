@@ -14,7 +14,7 @@ CNN|印尼５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 壞tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
 中視|１０,rtmp://59.124.75.153/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 壞tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb#tvbus://5LmrGHhxSH1Up9zZ15nLUL1sMTP1oQJEkGsGdZ9HtHyS3J2GoHccAP2rdowRE
-霹靂台灣台|１１,mitv://147.135.39.171:9906/5eb29fdf000086880f55a14e1d6461c4.ts#p2p://fccs.123178.top:9806/60443eff000b560c00a8f97ad079a022.ts#mitv://fccs.123178.top:9806/60443eff000b560c00a8f97ad079a022.ts
+霹靂台灣台|１１,mitv://ns2.hellotvvod.com:9906/710044747eb740fcb8b5809687eba572.ts
 壞tvbus://5tbhpmB9A19vYgEerCRAK923PMVMbtPByt4Ku3T1XrAJeBzfiMS7kCXtfJ5mX
 華視|１２,rtmp://161.202.204.248:1935/sat/tv111#rtmp://59.124.75.153/sat/tv111#tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx#tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX#tvbus://5fBSSdxDCwiMGu78eXCcAGdrMrRJMgRoi9AwsmFD8t37G5WGbw1z9pxZW5iv#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422
 公視|１３,tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5#tvbus://7gZG9TtGAevuGZ6z3sUYaPxrr8zeqP5pAPMS6o2HVTag7yh4Bm#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=JAzRXylm3M0#mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
