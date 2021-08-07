@@ -3892,55 +3892,22 @@ NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 
 
 ﻿HOT,#genre#
-熊猫频道 3.5M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226349/index.m3u8
-爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226349/index.m3u8
 精彩电视剧 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 精彩电影 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 精彩综艺 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 精彩体育 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 
 ﻿轮播电影,#genre#
-邵氏电影,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/501160/live_97065163_17925468_1500.m3u8 
 香港鬼片,http://cn-sdjn3-cu-live-01.bilivideo.com/live-bvc/874778/live_22989278_9714011_1500.m3u8 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 英叔电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-功夫台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_3499419391_0.m3u8
-齐港台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_1831830486_0.m3u8
-橙子影视,http://hls.haokan.bdstatic.com/haokan/stream_bduid_1646578943_0.m3u8 
-峨眉电影,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
-黑莓电影,http://183.207.248.71/cntv/live1/黑莓电影/-8000k-1080P-Supermovie
-亚洲影院,http://125.210.152.21:9120/live/YZYY.m3u8
-亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttppSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zzjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-精品剧场,http://125.210.152.18:9090/live/JPJC.m3u8
-精品剧场,http://125.210.152.21:9120/live/JPJC.m3u8
 娱乐,http://125.210.152.21:9120/live/GQYL.m3u8
-欧美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 CHC动作电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-鹤峰影视台,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
 影视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
-影视1,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 影视2,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
 影视4,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
 影视5,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
