@@ -3790,28 +3790,9 @@ USA大蛇恐怖,http://qj.yyrjdp.cn/jiuban/huya.php?id=19564134
 舌尖上的中国,http://qj.yyrjdp.cn/jiuban/huya.php?id=11352955
 
 ﻿记录探索,#genre#
-Channel V音乐台,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-求索一,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-求索二,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-求索三,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-求索科学移动2,http://39.134.182.236/PLTV/88888888/224/3221226608/index.m3u8
-求索科学全网通,http://125.210.152.18:9090/live/QSKX_1200.m3u8
-求索动物全网通,http://125.210.152.18:9090/live/QW_1200.m3u8
-求索生活全网通,http://125.210.152.18:9090/live/QSSH_1200.m3u8
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-Channel,rtmp://58.200.131.2:1935/livetv/channelv
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
 全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 CCTV发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
-相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 
 宗教文化,#genre#
 生命台1080p,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
@@ -3833,61 +3814,6 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 江蘇衛視,http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/.m3u8
 国学频道,http://223.110.241.137:6610/gitv/live1/G_GUOXUE/G_GUOXUE/.m3u8
 
-﻿newTV,#genre#
-湖南快乐垂钓 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8
-湖南茶频道 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8
-黑莓动画 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
-黑莓电影 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
-黑莓电竞 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8
-NewTV中国功夫 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
-NewTV怡伴健康 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
-NewTV军事评论 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8
-NewTV军旅剧场 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/1.m3u8
-NewTV农业致富 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226304/1.m3u8
-NewTV动作电影 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8
-NewTV古装剧场 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226323/1.m3u8
-NewTV家庭剧场 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226330/1.m3u8
-NewTV惊悚悬疑 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225921/1.m3u8
-NewTV惊悚悬疑 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226423/1.m3u8
-NewTV明星大片 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225929/1.m3u8
-NewTV明星大片 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226425/1.m3u8
-NewTV武搏世界 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/1.m3u8
-NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/1.m3u8
-NewTV潮妈辣婆 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/1.m3u8
-NewTV炫舞未来 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/1.m3u8
-NewTV爱情喜剧 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/1.m3u8
-NewTV精品体育 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/1.m3u8
-NewTV精品大剧 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8
-NewTV精品纪录 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226332/1.m3u8
-NewTV超级体育 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/1.m3u8
-NewTV超级体育 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8
-NewTV超级电影 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
-NewTV超级电影 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
-NewTV超级电视剧 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
-NewTV超级电视剧 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226368/1.m3u8
-NewTV超级综艺 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226231/1.m3u8
-NewTV超级综艺 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226370/1.m3u8
-NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226347/1.m3u8
-咪咕视频 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226374/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226375/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226377/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226378/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226379/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226380/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226381/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226382/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226394/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226395/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226396/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226397/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226398/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226393/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226392/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226391/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226390/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226372/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226373/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226376/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226383/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226384/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
-NewTV精品记录,http://111.12.102.68:6610/PLTV/77777777/224/3221225681/index.m3u8?
-NewTV精品体育,http://111.12.102.68:6610/PLTV/77777777/224/3221225724/index.m3u8?
-NewTV精品大剧,http://111.12.102.68:6610/PLTV/77777777/224/3221225737/index.m3u8?
-NewTV中国功夫,http://111.12.102.68:6610/PLTV/77777777/224/3221225690/index.m3u8?
-NewTV爱情喜剧,http://111.12.102.68:6610/PLTV/77777777/224/3221225698/index.m3u8?#http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-NewTV动作电影,http://111.12.102.68:6610/PLTV/77777777/224/3221225703/index.m3u8?
-NewTV古装剧场,http://111.12.102.68:6610/PLTV/77777777/224/3221225706/index.m3u8?
-NewTV潮妈辣婆,http://111.12.102.68:6610/PLTV/77777777/224/3221225709/index.m3u8?
-NewTV军旅剧场,http://111.12.102.68:6610/PLTV/77777777/224/3221225727/index.m3u8?
-NewTV炫舞未来,http://111.12.102.68:6610/PLTV/77777777/224/3221225728/index.m3u8?
-NewTV家庭剧场,http://111.12.102.68:6610/PLTV/77777777/224/3221225743/index.m3u8?
-NewTV惊悚悬疑,http://111.12.102.68:6610/PLTV/77777777/224/3221225746/index.m3u8?#http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-NewTV军事评论,http://111.12.102.68:6610/PLTV/77777777/224/3221225749/index.m3u8?
-NewTV金牌综艺,http://111.12.102.68:6610/PLTV/77777777/224/3221225755/index.m3u8?
-NewTV武博世界,http://111.12.102.68:6610/PLTV/77777777/224/3221225758/index.m3u8?
-NewTV农业致富,http://111.12.102.68:6610/PLTV/77777777/224/3221225687/index.m3u8?
-NewTV怡伴健康,http://111.12.102.68:6610/PLTV/77777777/224/3221225684/index.m3u8?
-NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 
 
 
