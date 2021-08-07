@@ -3893,10 +3893,10 @@ NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 
 ﻿HOT,#genre#
 CCTV1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226349/index.m3u8
-精彩电视剧 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-精彩电影 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-精彩综艺 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-精彩体育 10M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+CCTV8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+CCTV3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 
 ﻿轮播电影,#genre#
 香港鬼片,http://cn-sdjn3-cu-live-01.bilivideo.com/live-bvc/874778/live_22989278_9714011_1500.m3u8 
