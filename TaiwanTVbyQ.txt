@@ -303,15 +303,10 @@ GTV51遇見祝福４５１,http://live.streamingfast.net/osmflivech51.m3u8
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 河南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
-无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
-无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-河南都市,https://tvcdn.stream3.hndt.com/tv/e775d12dd48d4731ae8bdea77dd1e9f9_transios/playlist.m3u8
 
 體育©頻道,#genre#
 CCTV奧運,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
@@ -754,22 +749,17 @@ ONE,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 4K©頻道,#genre#
 
 CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-CCTV4KII,https://hnan.cloud/woniu/4K.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4KII,http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-百事通4K 15M2160,http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
-
 
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-芒果TV 15M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 
-PP体育1080P,http://39.134.65.162/PLTV/88888888/224/3221225655/index.m3u8
 SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 广州南国都市,http://149.129.100.78/gztv.php?id=shenghuo
@@ -783,13 +773,8 @@ Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 音樂©頻道,#genre#
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 Channel V,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Channel V,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-Channel V,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
-MTVWMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTVSpankinNew,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
 
 
@@ -3830,12 +3815,9 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 
 宗教文化,#genre#
 生命台1080p,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-生命台720p,http://210.209.3.1/live/973EAA2E-EEF7-7F3A-7105-17ECB9B1B77E.m3u8?fmt=x264_0K_ts&cpid=admin&sora=1&size=1280X720
-华藏,https://5fbd5b4f0d47e.streamlock.net/hwazanlivetv/live.stream/playlist.m3u8
-華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
+华藏,https://5fbd5b4f0d47e.streamlock.net/hwazanlivetv/live.stream/playlist.m3u8#http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 佛卫慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
 佛衛慈悲台2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8
-佛卫慈悲台3,mitv://147.135.39.171:9906/5ede79e4000e493cbaa19f79282b2078.ts
 移动梨园频道,http://hndxrm1.8686c.com/live/live31_tzwj_500k.m3u8
 唯心佛教电视台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 净空老法师讲经,http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w577962608.m3u8
@@ -3846,9 +3828,9 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 弈坛春秋,http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/.m3u8
 老故事,http://223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/.m3u8
 女性时尚,http://223.110.241.137:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/.m3u8
-高尔夫,http://223.110.241.137:6610/gitv/live1/G_GAOERFU/G_GAOERFU/.m3u8
-职业指南,http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/.m3u8
-中国交通频道,http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/.m3u8
+江蘇衛視,http://223.110.241.137:6610/gitv/live1/G_GAOERFU/G_GAOERFU/.m3u8
+家庭理财,http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/.m3u8
+江蘇衛視,http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/.m3u8
 国学频道,http://223.110.241.137:6610/gitv/live1/G_GUOXUE/G_GUOXUE/.m3u8
 
 ﻿newTV,#genre#
