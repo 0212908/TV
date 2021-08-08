@@ -4211,7 +4211,7 @@ Discovery|北美,tvbus://66ZJBnoErjPriZPjTocXRVY8ZvdC9etLK7nw2uiWSHbRrbTEt2QJv4f
 
 
 
-Xporn_ ,#genre#
+Xporn_a,#genre#
 松视2,http://z2.ubtvfans.com/live/403/b741a128b1800642619013729d093847/index.m3u8
 (墙)松視1臺備,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL 
 (墙)松視2臺備,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE 
