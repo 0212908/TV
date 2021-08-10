@@ -51,9 +51,9 @@ YOYO點點名|２５,https://linkastream.co/headless?url=https://www.youtube.com
 壞tvbus://5cn9j1kJ9kuy7UYaPW6MPuDZ2YjZ5qWU6uQTvWehGFjRoujhsZkt6RrrTSKuP#tvbus://8TDBW4MDGAQmpRQdKnwJTj9fWZrK5YvtErGcJ11GaEmFjDkJs4#tvbus://5pg1iZLjKEbAtyQcxRG2qbap2M9hLUgfuAWDfbxFrtrvKcr2Mxngbqy9Rk9KB#
 八大綜合台|２８,mitv://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40#mitv://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40#p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
 壞tvbus://5L5N1QrvtKfN1R2rZVrXewcP5EJuRcXFqaYanE6GrqfaGvZoQDvxF89bQc55Q#tvbus://6hfWgjwocr7LeYLf2vV1sBahEpzikaKALHtd5dL8m9ukhQHJNG6M4AtTSYDSk#
-三立台灣台|２９,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4ab522292acf55d9a26c895a5ea0149594d94a22ab9c6af5070f2#mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
+三立台灣台|２９,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4ab522292acf55d9a26c895a5ea0149594d94a22ab9c6af5070f2#mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
 壞tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF#tvbus://6KDZEwsaiTyKpYASWzYE3aJSWB8vkhQyrgtNDb8XAqgriAwdo2EiMcMhVm8oa
-三立都會台|失效３０,
+三立都會台|３０,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 壞tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY#tvbus://6ZLRzjLE58srUuzBPq3QNRSPE9L5EYDhp1p2uvYHEBZ8nJBY9kQii1X5hTy2w
 tvN|３１,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 壞tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N#http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
@@ -66,7 +66,7 @@ tvN|３１,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8#mitv://fccseuro.p
 彰化資訊台|３４,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCtZ_IzWQUaUcshHcUoFNXbg/live
 中天綜合台|３６,mitv://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4
 壞http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8#tvbus://5rgD9pjmXsTKdWcJnpJuJyrvUnaBotkNk8Yr38KkcZVUyNRcCTu2bhPnMFfMN#
-東風衛視|３７,mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
+東風衛視|３７,tvbus://3GJxe38kPtvzKUkaiU2JVuTJMJdhiy5wQvuqhxE9fQ7itp6fEJ#mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
 年代MUCH|３８,mitv://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#mitv://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
 中天娛樂台|３９,mitv://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#mitv://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
 壞tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R#
@@ -96,7 +96,7 @@ CYC世新綜合|４９,http://61.58.60.230:9319/live/49.m3u8
 三立新聞台|５４,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8#tvbus://6WxVzF559pzcD3LF3jGWZLz5cVHqsBkzm42eB7Uc7xhYtxHyS1bZTRUWkEguQ#tvbus://7YZWC167sdVy4xDaeGwu56oLobQxvyG4KfCdU6zY8jr8c6Smsb#tvbus://6BPkoTzjx1a4Bu7bLY4Xbft7nEgFjACpgrLmcaYrL9SCJ14Kgqq7hJDXadxQJ#tvbus://5cwGJpWNtUKi6osPYwMrGPt3mfGQnmS2ZkuGCPnsvfmBqKoba1JydtMDUynb7#mitv://fccseuro.pvbox.live:18912/5c2dd73800094069401436c92bc9bed5#mitv://fccsovh.pvbox.live:18912/5c2dd73800094069401436c92bc9bed5
 三立LIVE新聞|５４,https://linkastream.co/headless?url=https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live
 壞http://seb.sason.top/sc/sllive_fhd.m3u8
-TVBS新聞台|５５,rtmp://161.202.204.248:1935/sat/tv551#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live#mitv://fccseuro.pvbox.live:18912/60728727000c9f1e6b478352546e3859#mitv://fccsovh.pvbox.live:18912/60728727000c9f1e6b478352546e3859
+TVBS新聞台|５５,rtmp://161.202.204.248:1935/sat/tv551#p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live#mitv://fccseuro.pvbox.live:18912/60728727000c9f1e6b478352546e3859#mitv://fccsovh.pvbox.live:18912/60728727000c9f1e6b478352546e3859
 壞http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8#http://seb.sason.top/sc/tvbsxw_fhd.m3u8#tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB#tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9#tvbus://6KxfkSoU56HDWea64uocvh7CTtc4Wq67mqQzw24vWqBavv19xEHDToAGitsG8#tvbus://5TZxcd2Pzyvmc2n5B54G2QaVmrJdb3JPtVNaeg3gLBw2aqNtGM7Lt5PJ4Es7K
 TVBS|綜合台５６,tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK#tvbus://7DEtCmyxRnfvA1VSsvwavm42Jo9LAYjp8jNVgFDyuBjWE4mTAz#tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z#mitv://fccseuro.pvbox.live:18912/5b140960000c982bf20a21204526e2d1#mitv://fccsovh.pvbox.live:18912/5b140960000c982bf20a21204526e2d1#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live
 壞http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8#http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#
@@ -1838,13 +1838,13 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 以下測試頻道_0120,#genre#
 松視1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts#p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1#mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
 松視2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts#p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce#mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
-彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts#p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e#mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913#p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
-極限電影,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts#p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-香蕉台,p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe#mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
-驚豔電影台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts#mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
+彩虹E台,p2p://ns2.hellotvvod.com:9906/292dfb99a1114149b4b8dd96f8287178#p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts#p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e#mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+彩虹電影,p2p://ns2.hellotvvod.com:9906/59869bca8f7d4eb994df203f20b9fea2#p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913#p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+極限電影,p2p://ns2.hellotvvod.com:9906/acaf89fb47d045e8befad581cbfce1e6#p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts#p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+香蕉台,p2p://ns2.hellotvvod.com:9906/443252cb67f540318affc6452f092e6d#p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe#mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
+驚豔電影台,p2p://ns2.hellotvvod.com:9906/b1f2702487cd488da09ec98185a530f1#p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts#mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
 潘多拉完美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts#mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
-潘朵拉粉紅,p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615#mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
+潘朵拉粉紅,p2p://ns2.hellotvvod.com:9906/e47b4ca507fe46f18875802484ed9185#p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615#mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
 
 http://dzqs3.xyz/
 個撮|普通の女の子なのに、地道に活動を続ける地下アイドルとプライベート撮影會をセ,ッhttps://vip5.bobolj.com/20210730/Jas5D5KF/index.m3u8
