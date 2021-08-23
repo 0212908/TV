@@ -16,23 +16,16 @@ CNN|印尼５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 華視|SD１２,rtmp://59.124.75.153/sat/tv112#rtmp://161.202.204.248:1935/sat/tv112
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+TLC旅遊生活|２０,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 Disney Channel|２３,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 三立台灣台|２９,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8
 三立都會台|３０,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/master.m3u8
 tvN|印尼３１,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 東森超視|HD３３,rtmp://59.124.75.153/sat/tv771#rtmp://161.202.204.248:1935/sat/tv771
 東森超視|SD３３,rtmp://59.124.75.153/sat/tv772#rtmp://161.202.204.248:1935/sat/tv772
-東風衛視|３７,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8#tvbus://3GJxe38kPtvzKUkaiU2JVuTJMJdhiy5wQvuqhxE9fQ7itp6fEJ#mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
-年代MUCH|３８,mitv://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#mitv://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
-中天娛樂台|３９,mitv://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#mitv://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
-壞tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R#
-東森戲劇台|４０,mitv://fccseuro.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282#mitv://fccsovh.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282
-壞tvbus://5yfhooLEp2fj8eQP3MZcLVCHRTuQe9ByW9T6Hj5DY4rJjhFUzB2BENnEBWKuQ#tvbus://5oVqYGutbkbRbkZa9DXwjDtAjLHMQ2V8HZ5EF73Zy8jcYEZbJAr2HURvqftBL#
-三大一台|４０,https://linkastream.co/headless?url=https://www.youtube.com/user/SDTV55ch/live
-八大戲劇台|４１,mitv://fccseuro.pvbox.live:18912/5b1409690000706aa2b351f989915dc3#mitv://fccsovh.pvbox.live:18912/5b1409690000706aa2b351f989915dc3
-壞tvbus://5upkUXxwXcjLDtUuffF2ZPfQiCEbDgvhbP8GU7yocirn9qrfRsvjZeq3uaER9#
-TVBS歡樂台|４２,rtmp://161.202.204.248:1935/sat/tv421#mitv://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af#mitv://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af
-壞http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8#tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo#tvbus://7zPtZ59uCMN6yYUukgdVWxT6RQB3u6UomETnNg3rPcYTdfuc5k#tvbus://6FUFFuZFETY7s9Lm9r9d7STYXSu61w8m5DUTKJg9GxaKSDSjpAPkfV8eZnBt6#
+東風衛視|３７,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+TVBS歡樂台|HD４２,rtmp://59.124.75.153/sat/tv421#rtmp://161.202.204.248:1935/sat/tv421
+TVBS歡樂台|SD４２,rtmp://59.124.75.153/sat/tv422#rtmp://161.202.204.248:1935/sat/tv422
 緯來戲劇台|４３,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa#mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa
 壞tvbus://64GFZ6uKjo9WiZHyHw8vuiqtuygNEc7KNJLTvZEkkF7i36kqoUSS4oMxxajtR#
 高點電視臺|失效４４,
@@ -131,7 +124,7 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 民視影劇台|１４８,http://seb.sason.top/ptv/ftv.php?id=yj
 民視綜藝台|１４９,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅遊台|１５０,http://seb.sason.top/ptv/ftv.php?id=ly
-民視第一台|１５１,http://seb.sason.top/ptv/ftv.php?id=dy#http://43.129.29.150:84/pls/tv/msdyt/%2FY2ZKNR%2B%2FSvXUmO6MZRxsbQAKWtruc3ZZ%2BZW9CpOX9QPx88diFUVEXllFVgUdoJc.flv#tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
+民視第一台|１５１,http://seb.sason.top/ptv/ftv.php?id=dy#http://43.129.29.150:84/pls/tv/msdyt/%2FY2ZKNR%2B%2FSvXUmO6MZRxsbQAKWtruc3ZZ%2BZW9CpOX9QPx88diFUVEXllFVgUdoJc.flv
 民視台灣台|１５２,http://seb.sason.top/ptv/ftv.php?id=tw#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8#tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp#tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
 中視菁采台|１５３,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
 中視新聞台|１５４,http://seb.sason.top/sc/zsxw_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live#tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ#mitv://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec#mitv://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
