@@ -63,8 +63,8 @@ ELEVEN體育二台|HD７４,rtmp://59.124.75.153/sat/tv741#rtmp://161.202.204.24
 ELEVEN體育二台|SD７４,rtmp://59.124.75.153/sat/tv742#rtmp://161.202.204.248:1935/sat/tv742
 緯來日本台|HD７５,rtmp://59.124.75.153/sat/tv521#rtmp://161.202.204.248:1935/sat/tv521
 緯來日本台|SD７５,rtmp://59.124.75.153/sat/tv522#rtmp://161.202.204.248:1935/sat/tv522
-Animax|越南７７,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-HGTV居家樂活|英７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+AnimaxHD|越南７７,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+HGTV居家樂活|荷蘭 ７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 FOX|７９,http://125.227.210.37:13498/VideoInput/play.ts
 幸福成家|８０,http://61.58.60.230:9319/live/80.m3u8
 CHANNEL[V]|８０,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -152,9 +152,8 @@ BBCLifestyle|２０３,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/pla
 靖天映畫台|２１７,http://61.58.60.230:9319/live/243.m3u8#tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖天國際台|２１８,http://61.58.60.230:9319/live/205.m3u8
 Thrill|２１９,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-Nat Geo Wild|２２１,mitv://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8#mitv://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8
+Nat Geo Wild|２２１,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 HBOHD|２２６,http://125.227.210.37:16027/VideoInput/play.ts
-
 HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 HBOFamily|家庭２２９,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw#p2p://138.68.6.47:8290/560785230005eaa0584aacc24e0710fb#mitv://fccseuro.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6#mitv://fccsovh.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6
