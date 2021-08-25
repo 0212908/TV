@@ -7,6 +7,7 @@ CNN國際新聞|５,http://93.107.103.248:8123/play/cnn/index.m3u8
 CNN|印尼５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 民視|HD６,rtmp://59.124.75.153/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
 民視|SD６,rtmp://59.124.75.153/sat/tv052#rtmp://161.202.204.248:1935/sat/tv052
+人間衛視|７,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910c52?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 台視|HD８,rtmp://59.124.75.153/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
 台視|SD８,rtmp://59.124.75.153/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
 大愛電視|９,http://61.58.60.230:9319/live/10.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -17,7 +18,6 @@ CNN|印尼５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 國家地理頻道|１８,http://125.227.210.37:16408/VideoInput/play.ts
-TLC旅遊生活|２０,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 CN卡通頻道|２２,http://125.227.210.37:16671/VideoInput/play.ts
 Disney Channel|２３,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 東森幼幼台|２５,http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
@@ -45,8 +45,12 @@ TVBS新聞台|SD５５,rtmp://59.124.75.153/sat/tv552#rtmp://161.202.204.248:193
 東森財經新聞台|SD５７,rtmp://59.124.75.130/sat/tv572#rtmp://161.202.204.248:1935/sat/tv572
 非凡新聞台|５８,http://125.227.210.37:15078/VideoInput/play.ts
 衛視卡式台|６０,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+緯來電影台|６３,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+LSTime電影台|６４,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 HBO|６５,http://125.227.210.37:16027/VideoInput/play.ts
 東森洋片台|６６,http://125.227.210.37:18685/VideoInput/play.ts
+FOXMOVIES|６９,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8#http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+FOX電影|越南６９,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 緯來育樂台|HD７１,rtmp://59.124.75.153/sat/tv701#rtmp://161.202.204.248:1935/sat/tv701
 緯來育樂台|HD７１,rtmp://59.124.75.153/sat/tv702#rtmp://161.202.204.248:1935/sat/tv702
 緯來體育台|HD７２,rtmp://59.124.75.153/sat/tv721#rtmp://161.202.204.248:1935/sat/tv721#http://125.227.210.37:18358/VideoInput/play.ts
@@ -103,10 +107,10 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 民視第一台|１５１,http://seb.sason.top/ptv/ftv.php?id=dy#http://43.129.29.150:84/pls/tv/msdyt/%2FY2ZKNR%2B%2FSvXUmO6MZRxsbQAKWtruc3ZZ%2BZW9CpOX9QPx88diFUVEXllFVgUdoJc.flv
 民視台灣台|１５２,http://seb.sason.top/ptv/ftv.php?id=tw#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8#tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp#tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
 中視菁采台|１５３,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
-中視新聞台|１５４,http://seb.sason.top/sc/zsxw_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live#tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ#mitv://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec#mitv://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
+中視新聞台|１５４,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d58?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新聞台|１５５,http://seb.sason.top/sc/tsxw_fhd.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live#tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
-台視財經台|１５６,tvbus://5QKsG2nutAoqFyBrLsWUUX6NyzLK8M2DTXtb2Z5ynMKNFnVZ1piYPwYmHuSUY
-台視綜合台|１５７,tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
+台視財經台|１５６,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+台視綜合台|１５７,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 歐洲新聞台|１５８,http://61.58.60.230:9319/live/129.m3u8
 靖天資訊台|１５９,http://61.58.60.230:9319/live/202.m3u8
 韓國阿里郎|１７５,http://61.58.60.230:9319/live/130.m3u8#http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -139,7 +143,6 @@ Sport: NL: Eurosport 2,http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23L
 以上可以看奧運,
 BBCLifestyle|２０３,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 星衛HD電影|２０４,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA#tvbus://6HEgk6v2dcFEp48HohXkhC73Pdye4wZ1Mgws8KK833aq6rAzythmo9Z4ZDnP9#tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy#p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccsovh.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts#p2p://fccseuro.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts
-ELEVEN體育+|２１１,rtmp://161.202.204.248:1935/sat/md012#rtmp://161.202.204.248:1935/sat/md011#rtmp://59.124.75.153/sat/md011
 靖洋卡通台|２１３,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通台|２１４,http://61.58.60.230:9319/live/207.m3u8
 靖天歡樂台|２１５,http://61.58.60.230:9319/live/201.m3u8
@@ -160,6 +163,7 @@ DMAX|２３４,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 Discovery科學|２３５,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
 EVE|２３６,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 DiscoveryAsia|２３７,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
+星衛HD電影|２３９,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 博斯網球台|２４１,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui#rtmp://161.202.204.248:1935/sat/md021#rtmp://161.202.204.248:1935/sat/md041
 博斯無限台|２４２,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
 博斯高球1台|２４３,tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
