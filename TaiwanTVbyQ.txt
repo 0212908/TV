@@ -5,7 +5,7 @@ MOD電影推薦|１,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/
 市公用頻道|３,http://61.58.60.230:9319/live/3.m3u8
 CNN|５,http://93.107.103.248:8123/play/cnn/index.m3u8
 CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-民視|HD６,rtmp://59.124.75.153/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
+民視|HD６,rtmp://59.124.75.153/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms#http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv
 民視|SD６,rtmp://59.124.75.153/sat/tv052#rtmp://161.202.204.248:1935/sat/tv052
 人間衛視|７,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910c52?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 台視|HD８,rtmp://59.124.75.153/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
@@ -19,6 +19,7 @@ GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_defin
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 國家地理頻道|１８,http://125.227.210.37:16408/VideoInput/play.ts
 國家地理頻道|越南１８,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+TLC旅遊生活|２０,http://v3948069e.live.126.net/live/dbxjvaas82012788/109.flv
 動物星球|印尼２１,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 CN卡通頻道|２２,http://125.227.210.37:16671/VideoInput/play.ts
 Disney Channel|２３,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
@@ -45,7 +46,7 @@ TVBS新聞台|SD５５,rtmp://59.124.75.153/sat/tv552#rtmp://161.202.204.248:193
 東森財經新聞台|HD５７,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://59.124.75.130/sat/tv571
 東森財經新聞台|SD５７,rtmp://161.202.204.248:1935/sat/tv572#rtmp://59.124.75.130/sat/tv572
 非凡新聞台|５８,http://125.227.210.37:15078/VideoInput/play.ts
-衛視卡式台|６０,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+衛視卡式台|６０,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8#http://v3948069e.live.126.net/live/sfjkfhve04255284/23.flv
 緯來電影台|６３,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 LSTime電影台|６４,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 HBO|６５,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
