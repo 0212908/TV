@@ -19,8 +19,7 @@ GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_defin
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 國家地理頻道|１８,http://125.227.210.37:16408/VideoInput/play.ts
 CN卡通頻道|２２,http://125.227.210.37:16671/VideoInput/play.ts
-Disney Channel|２３,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-東森幼幼台|２５,http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+Disney|２３,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 三立台灣台|２９,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8#http://125.227.210.55:15714/VideoInput/play.ts
 三立都會台|３０,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/master.m3u8
 tvN|印尼３１,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
