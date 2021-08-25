@@ -150,6 +150,7 @@ BBCLifestyle|２０３,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/pla
 靖天育樂台|２１６,http://61.58.60.230:9319/live/204.m3u8
 靖天映畫台|２１７,http://61.58.60.230:9319/live/243.m3u8#tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖天國際台|２１８,http://61.58.60.230:9319/live/205.m3u8
+Thrill360|２１９,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 Nat Geo Wild|２２１,mitv://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8#mitv://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8
 HBOHD|２２６,http://125.227.210.37:16027/VideoInput/play.ts
 
