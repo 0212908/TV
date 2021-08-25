@@ -36,7 +36,7 @@ CYC世新綜合|４９,http://61.58.60.230:9319/live/49.m3u8
 年代新聞台|５０,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://125.227.210.37:11055/VideoInput/play.ts
 東森新聞台|５１,http://seb.sason.top/sc/dsxw_fhd.m3u8
 中天新聞台|５２,http://seb.sason.top/sc/ztxw_fhd.m3u8
-民視新聞台|５３,https://0.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#rtmp://45.88.148.178/channel/60c461de961593122ebafa2c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/msxw_fhd.m3u8
+民視新聞台|５３,https://0.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#rtmp://45.88.148.178/channel/60c461de961593122ebafa2c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/msxw_fhd.m3u8
 三立新聞台|５４,http://125.227.210.37:15589/VideoInput/play.ts
 三立LIVE新聞|５４,http://seb.sason.top/sc/sllive_fhd.m3u8
 TVBS新聞台|HD５５,rtmp://59.124.75.153/sat/tv551#rtmp://161.202.204.248:1935/sat/tv551#p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5
@@ -67,6 +67,7 @@ ELEVEN體育二台|SD７４,rtmp://59.124.75.153/sat/tv742#rtmp://161.202.204.24
 AnimaxHD|越南７７,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 HGTV居家樂活|印尼 ７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 FOX|７９,http://125.227.210.37:13498/VideoInput/play.ts
+FOX|越南７９,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8 
 幸福成家|８０,http://61.58.60.230:9319/live/80.m3u8
 CHANNEL[V]|８０,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Z頻道|８１,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -76,6 +77,7 @@ momo綜合台|SD８３,rtmp://59.124.75.153/sat/tv762#rtmp://161.202.204.248:193
 諸羅藝文|９０,http://61.58.60.230:9319/live/90.m3u8
 三立iNEWS|９２,http://seb.sason.top/sc/slinews_fhd.m3u8
 大愛二台|９６,http://61.58.60.230:9319/live/191.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Kids TV|１０１,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8 
 華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
 信大頻道|１０６,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCZNrgK7RjNPbVsqYpM9utJw/live
 FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
@@ -162,6 +164,7 @@ HBOFamily|家庭２２９,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXu
 國家地理悠人|２３０,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 NickJr.|２３１,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 壞tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+國家地理野生|哈薩克２３２,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 國家地理野生|印尼２３２,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 亞洲旅遊台|２３３,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#mitv://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7#mitv://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
 DMAX|２３４,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
@@ -174,6 +177,7 @@ DiscoveryAsia|２３７,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWR
 博斯高球2台|２４４,tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
 博斯魅力網|２４５,rtmp://161.202.204.248:1935/sat/md031
 博斯運動一台|２４６,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo#rtmp://161.202.204.248:1935/sat/md041#p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
+孝廉電視台|２５７,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 美食星球|２７８,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#p2p://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 EYE TV旅遊台|２７９,mitv://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#mitv://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#p2p://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts#p2p://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts
 FashionTV|２８２,http://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8  
