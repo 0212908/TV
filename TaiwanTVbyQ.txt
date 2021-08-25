@@ -3,8 +3,8 @@
 MOD電影推薦|１,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8?ar=0&as=1
 縣公用頻道|２,http://61.58.60.230:9319/live/2.m3u8
 市公用頻道|３,http://61.58.60.230:9319/live/3.m3u8
-CNN國際新聞|５,http://93.107.103.248:8123/play/cnn/index.m3u8
-CNN|印尼５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+CNN|５,http://93.107.103.248:8123/play/cnn/index.m3u8
+CNN HD|印尼５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 民視|HD６,rtmp://59.124.75.153/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
 民視|SD６,rtmp://59.124.75.153/sat/tv052#rtmp://161.202.204.248:1935/sat/tv052
 人間衛視|７,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910c52?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
