@@ -161,7 +161,7 @@ HBOFamily|家庭２２９,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXu
 國家地理悠人|２３０,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 NickJr.|２３１,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 壞tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
-Nickelodeon|２３２,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+國家地理野生|印尼２３２,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 亞洲旅遊台|２３３,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#mitv://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7#mitv://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
 DMAX|２３４,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 Discovery科學|２３５,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
@@ -175,6 +175,7 @@ DiscoveryAsia|２３７,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWR
 博斯運動一台|２４６,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo#rtmp://161.202.204.248:1935/sat/md041#p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
 美食星球|２７８,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#p2p://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 EYE TV旅遊台|２７９,mitv://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#mitv://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4#p2p://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts#p2p://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts
+FashionTV|２８２,http://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8  
 大愛海外|２９７,https://pulltv3.wanfudaluye.com/live/tv3.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=MIqUplvSRWA
 愛爾達综合台|３００,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
 CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5xspipEdxZi
