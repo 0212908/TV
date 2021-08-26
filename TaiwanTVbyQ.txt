@@ -17,13 +17,14 @@ CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 華視|SD１２,rtmp://59.124.75.153/sat/tv112#rtmp://161.202.204.248:1935/sat/tv112#http://iptv5.phoves.com.cn/api/wz7.php?id=30#http://v3948069e.live.126.net/live/oegwzwfo66564651/34.flv
 公視|１３,http://iptv5.phoves.com.cn/api/wz7.php?id=31#http://v3948069e.live.126.net/live/zvrbkhqz63006590/35.flv
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
-原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 國家地理頻道|１８,http://125.227.210.37:16408/VideoInput/play.ts
 國家地理頻道|越南１８,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-TLC旅遊生活|２０,http://v3948069e.live.126.net/live/dbxjvaas82012788/109.flv
+TLC旅遊生活|２０,http://125.227.210.37:19020/VideoInput/play.ts#http://v3948069e.live.126.net/live/dbxjvaas82012788/109.flv
 動物星球|印尼２１,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 CN卡通頻道|２２,http://125.227.210.37:16671/VideoInput/play.ts
 Disney Channel|２３,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+八大第一台|２７,http://iptv5.phoves.com.cn/api/wz7.php?id=125#http://v3948069e.live.126.net/live/rqatqgjm22275249/131.flv
 八大綜合台|２８,http://iptv5.phoves.com.cn/api/wz7.php?id=126#http://v3948069e.live.126.net/live/ytkhdube88257844/132.flv
 三立台灣台|２９,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://iptv5.phoves.com.cn/api/wz7.php?id=129#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8#http://v3948069e.live.126.net/live/rilfilvx81464506/135.flv#http://125.227.210.55:15714/VideoInput/play.ts
 三立都會台|３０,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://iptv5.phoves.com.cn/api/wz7.php?id=131#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/master.m3u8#http://v3948069e.live.126.net/live/tvtroynl19155613/137.flv
@@ -58,6 +59,7 @@ LSTime電影台|６４,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sig
 HBO|６５,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO印尼|６５,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 東森洋片台|６６,http://125.227.210.37:18685/VideoInput/play.ts
+美亞電影台|６６,http://iptv5.phoves.com.cn/api/wz7.php?id=141
 FOXMOVIES|６９,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8#http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 FOX電影|６９,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 FOX電影|越南６９,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -179,7 +181,8 @@ NickJr.|２３１,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 DMAX|２３４,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 Discovery科學|２３５,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
 EVE|２３６,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-DiscoveryAsia|２３７,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
+美亞電影台|２３７,http://iptv5.phoves.com.cn/api/wz7.php?id=141#http://v3948069e.live.126.net/live/hod237.flv
+myTV SUPER|２３８,http://v3948069e.live.126.net/live/hod238.flv
 博斯網球台|２４１,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui#rtmp://161.202.204.248:1935/sat/md021#rtmp://161.202.204.248:1935/sat/md041
 博斯無限台|２４２,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
 博斯高球1台|２４３,tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
@@ -194,6 +197,7 @@ FashionTV|２８２,http://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/pl
 愛爾達综合台|３００,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
 CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5xspipEdxZi
 緯來精采台|３１３,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+中天亞洲台|３１６,http://iptv5.phoves.com.cn/api/wz7.php?id=137#http://v3948069e.live.126.net/live/xaleuenx06057191/143.flv
 愛爾達影劇台|３５５,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
 空氣品質監測|嘉義４０１,http://61.58.60.230:9319/live/709.m3u8
 GoodTV2|真理台４０２,http://live.streamingfast.net/osmflivech2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
