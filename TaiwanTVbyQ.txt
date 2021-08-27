@@ -35,7 +35,7 @@ tvN|印尼３１,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 東森超視|HD３３,rtmp://59.124.75.153/sat/tv771#rtmp://161.202.204.248:1935/sat/tv771#http://v3948069e.live.126.net/live/ejwjoler14799602/141.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=135
 東森超視|SD３３,rtmp://59.124.75.153/sat/tv772#rtmp://161.202.204.248:1935/sat/tv772
 中天綜合台|３６,http://125.227.210.55:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
-東風衛視|３７,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+東風衛視|３７,p2p://91.189.184.194:9806/604640af000dbd7a087f919857110af4.ts#p2p://fccs.123178.top:9806/604640af000dbd7a087f919857110af4.ts#p3p://91.189.184.194:9806/604640af000dbd7a087f919857110af4.ts#p3p://fccs.123178.top:9806/604640af000dbd7a087f919857110af4.ts#http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 中天娛樂台|３９,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
 東森戲劇台|４０,http://125.227.210.55:17524/VideoInput/play.ts#http://v3948069e.live.126.net/live/vuecwawm98283796/140.flv#http://125.227.210.37:17524/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=134
 TVBS歡樂台|HD４２,rtmp://59.124.75.153/sat/tv421#rtmp://161.202.204.248:1935/sat/tv421#http://60.251.59.179:8520/http/192.168.77.7:8088/hls/104/startwest89.m3u8
