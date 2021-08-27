@@ -35,7 +35,7 @@ tvN|印尼３１,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 東森超視|HD３３,rtmp://59.124.75.153/sat/tv771#rtmp://161.202.204.248:1935/sat/tv771#http://v3948069e.live.126.net/live/ejwjoler14799602/141.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=135
 東森超視|SD３３,rtmp://59.124.75.153/sat/tv772#rtmp://161.202.204.248:1935/sat/tv772
 中天綜合台|３６,http://125.227.210.55:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
-東風衛視|３７,p3p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
+東風衛視|３７,p5p://fccs.ggboxtv.tw:9806/604640af000dbd7a087f919857110af4.ts#p5p://fccs.ggboxtv.tw:9906/604640af000dbd7a087f919857110af4.ts#p5p://fccs.123178.top:9806/604640af000dbd7a087f919857110af4.ts#p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts#p3p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 中天娛樂台|３９,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
 東森戲劇台|４０,http://125.227.210.55:17524/VideoInput/play.ts#http://v3948069e.live.126.net/live/vuecwawm98283796/140.flv#http://125.227.210.37:17524/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=134
 TVBS歡樂台|HD４２,rtmp://59.124.75.153/sat/tv421#rtmp://161.202.204.248:1935/sat/tv421#http://60.251.59.179:8520/http/192.168.77.7:8088/hls/104/startwest89.m3u8
@@ -86,7 +86,7 @@ CHANNEL[V]|８０,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunkl
 Z頻道|８１,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 momo綜合台|HD８３,rtmp://59.124.75.153/sat/tv761#rtmp://161.202.204.248:1935/sat/tv761
 momo綜合台|SD８３,rtmp://59.124.75.153/sat/tv762#rtmp://161.202.204.248:1935/sat/tv762
-寰宇新聞|８５,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8#p3p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#p5p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#p3p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=35
+寰宇新聞|８５,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8#p3p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=35
 八大娛樂台|８６,http://v3948069e.live.126.net/live/fnxvrbea86381344/134.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=128
 諸羅藝文|９０,http://61.58.60.230:9319/live/90.m3u8
 三立iNEWS|９２,http://seb.sason.top/sc/slinews_fhd.m3u8#http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=43
@@ -137,11 +137,11 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 FRANCE 24新聞|１７７,http://61.58.60.230:9319/live/131.m3u8#http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
 ELTA體育1|２００,p3p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts#mitv://147.135.39.171:9906/61000ab00009f393d200555332864fe8#tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C#tvbus://8kv3HHJ95f9f8Wm9DYtv2bXXztieEEhXabQH2q7uVqbsG6Mg4A#tvbus://6QWCbqrPq3wwbJ4L38r3G5fb3Zj5AfTm4gPgMxwJAUhvLZo87F3N3tLKGN56v#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 壞tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
-ELTA奧運1|２００,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
+
 ELTA體育2|２０１,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#p2p://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#http://198.16.106.61:8278/streams/d/eltasport2_twn/playlist.m3u8#tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb#tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7#tvbus://7EsoS5HVtrc5JCnFj9Rg2GvZh4Ghi31LcYBm6v8z1gzzsb1nfM#tvbus://5hfsk3SxhLLVMowdFbbrYLK77WGeDeuP2PosHg8y8YFj8kBiheeTxp3fXKXfb
-ELTA奧運2|２０１,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
+
 ELTA體育3|２０２,p2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccseuro.pvbox.live:18912/5c7249f7000966361d58752a73813a0e#mitv://fccseuro.pvbox.live:18912/5c7249f7000966364a68feb5b5892f05#mitv://fccsovh.pvbox.live:18912/5c7249f7000966364a68feb5b5892f05#http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8#tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm#tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t#tvbus://8kLevnKMiQQAQkf3AUtTcxusFx7ucoMhHvqe5NLwSn561zvUvH#tvbus://5XSQaD5wdt8NFhC9HHX3Ek3yXYPPtWm6YXpYNVd8SXMmjHkMmtA4k5jJm8zS7
-ELTA奧運3|２０２,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
+
 ELTA分流1,rtmp://161.202.204.248:1935/sat/md012#rtmp://59.124.75.153/sat/md012#rtmp://161.202.204.248:1935/sat/md011#rtmp://59.124.75.153/sat/md011
 ELTA分流2,rtmp://161.202.204.248:1935/sat/md022#rtmp://59.124.75.153/sat/md022#rtmp://161.202.204.248:1935/sat/md021#rtmp://59.124.75.153/sat/md021
 ELTA分流3,rtmp://161.202.204.248:1935/sat/md032#rtmp://59.124.75.153/sat/md032#rtmp://161.202.204.248:1935/sat/md031#rtmp://59.124.75.153/sat/md031
