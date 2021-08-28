@@ -1,6 +1,7 @@
 本頻道表由小Q整理
 台灣節目表,#genre#
 MOD電影推薦|１,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8?ar=0&as=1
+BBCWorldNews|２,p3p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
 縣公用頻道|２,http://61.58.60.230:9319/live/2.m3u8
 市公用頻道|３,http://61.58.60.230:9319/live/3.m3u8
 CNN|５,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8#http://125.227.210.55:10797/VideoInput/play.ts#http://93.107.103.248:8123/play/cnn/index.m3u8#http://125.227.210.37:10797/VideoInput/play.ts
@@ -63,7 +64,7 @@ LSTime電影台|６４,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sig
 HBO|６５,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO印尼|６５,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 東森洋片台|６６,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
-FoxFamilyMovies|６８,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
+FoxFamilyMovies|６８,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts#p3p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 FOXMOVIES|６９,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8#http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 FOX電影|６９,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 FOX電影|越南６９,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -163,7 +164,8 @@ SPORT: NL: Eurosport 1,http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23L
 Sport: NL: Eurosport 2,http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/39155
 以上可以看奧運,
 BBCLifestyle|２０３,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-星衛HD電影|２０４,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
+星衛HD電影|２０４,http://125.227.210.55:18789/VideoInput/play.ts#p3p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts#http://125.227.210.37:18789/VideoInput/play.ts
+衛視西片|２０４,p3p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
 星空衛視|２０５,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 靖洋卡通台|２１３,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通台|２１４,http://61.58.60.230:9319/live/207.m3u8
@@ -171,11 +173,11 @@ BBCLifestyle|２０３,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/pla
 靖天育樂台|２１６,http://61.58.60.230:9319/live/204.m3u8
 靖天映畫台|２１７,http://61.58.60.230:9319/live/243.m3u8#tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖天國際台|２１８,http://61.58.60.230:9319/live/205.m3u8
-Thrill|２１９,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+Thrill|２１９,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#p3p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
 FX|２１９,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 Nat Geo Wild|２２１,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 星衛娛樂台|２２２,p3p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
-HBOHD|２２６,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
+HBOHD|２２６,http://125.227.210.55:16027/VideoInput/play.ts#p3p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts#http://125.227.210.37:16027/VideoInput/play.ts
 HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 HBOFamily|家庭２２９,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw#p2p://138.68.6.47:8290/560785230005eaa0584aacc24e0710fb#mitv://fccseuro.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6#mitv://fccsovh.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6
@@ -213,6 +215,8 @@ CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5x
 龍華戲劇,p3p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
 龍華偶像,p3p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
 Dreamworks,p3p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
+KIX電影台,p3p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+罪案偵緝頻道,p3p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
 
 空氣品質監測|嘉義４０１,http://61.58.60.230:9319/live/709.m3u8
 GoodTV2|真理台４０２,http://live.streamingfast.net/osmflivech2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
@@ -625,8 +629,6 @@ LSTime电影台,p2p://fccsovh.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.
 中國電影台,http://61.58.60.230:9319/live/225.m3u8
 
 p8p測試,#genre#
-寰宇新聞二台,p3p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇新聞台,p3p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
 民視新聞,p3p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
 年代新聞,p3p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
 三立新聞,p3p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
@@ -635,7 +637,7 @@ p8p測試,#genre#
 東森新聞,p3p://fccs.123178.top:9906/60434e0b0003696e06dba942fc6b06e1.ts
 TVBS新聞,p3p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
 互動新聞台,p3p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
-BBC WORLD NEWS,p3p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
+
 CNN Internationa,p3p://fccs.123178.top:9906/604641f8000e2252088496d9f8a5ad44.ts
 NewsAsia頻道,p3p://fccs.123178.top:9906/604643330003bf3e088962a9042b90c4.ts
 CNBC Asia,p3p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
@@ -650,19 +652,18 @@ Cinemax,p3p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 FOX CRIME福斯警匪,p3p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
 FOX 頻道,p3p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX動作台,p3p://fccs.123178.top:9906/60440fd1000e6f3b09d0998515d1967d.ts
-Fox福斯家庭,p3p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
+
 FOX優質電影台,p3p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FX-HD,p3p://fccs.123178.top:98906/60440f3c000c153709ce52e28565fc29.ts
 AXN,p3p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
-KIX電影台,p3p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+
 WakuWakuJapan,p3p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
-EYETV戲劇,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-thrill電影台,p3p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
+
+
 壹電影HD,p3p://fccs.123178.top:9906/60434a87000b209606cdef9cee9a8dfe.ts
 影迷數位電影台,p3p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
-衛視電影台,p3p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-衛視西片,p3p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-罪案偵緝頻道,p3p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
+
+
 星衛電影 HD,p3p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
 天映電影,p3p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
 緯來電影,p3p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
