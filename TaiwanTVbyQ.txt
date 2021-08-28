@@ -212,6 +212,7 @@ CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5x
 龍華洋片,p3p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
 龍華戲劇,p3p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
 龍華偶像,p3p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+Dreamworks,p3p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
 
 空氣品質監測|嘉義４０１,http://61.58.60.230:9319/live/709.m3u8
 GoodTV2|真理台４０２,http://live.streamingfast.net/osmflivech2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
@@ -624,58 +625,52 @@ LSTime电影台,p2p://fccsovh.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.
 中國電影台,http://61.58.60.230:9319/live/225.m3u8
 
 p8p測試,#genre#
-BLUE ANT EXTREME,p3p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
-Comedy Central Asia,p3p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
-CatchPlay電影台,p3p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594%20.ts
-WakuWakuJapan,p3p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
+寰宇新聞二台,p3p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
+寰宇新聞台,p3p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
+民視新聞,p3p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
+年代新聞,p3p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
+三立新聞,p3p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
+壹電視新聞台,p3p://fccs.123178.top:9906/6069902f0003db1b16fb1d83c7d47b04.ts
+非凡新聞,p3p://fccs.123178.top:9906/6044966b0006d57a01fe7633c96a5506.ts
+東森新聞,p3p://fccs.123178.top:9906/60434e0b0003696e06dba942fc6b06e1.ts
+TVBS新聞,p3p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
+互動新聞台,p3p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
+BBC WORLD NEWS,p3p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
+CNN Internationa,p3p://fccs.123178.top:9906/604641f8000e2252088496d9f8a5ad44.ts
+NewsAsia頻道,p3p://fccs.123178.top:9906/604643330003bf3e088962a9042b90c4.ts
+CNBC Asia,p3p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
 歐洲Euronews,p3p://fccs.123178.top:9906/60469e39000981f109ecf392ea2309d5.ts
-三立綜合台,p3p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
-三立戲劇台,p3p://fccs.123178.top:9906/60441b4f00036f62001d8ff40f884e87.ts
-靖天歡樂,p3p://fccs.123178.top:9906/6045b810000a9ac50669e3b2b61b5383.ts
-靖天日本台,p3p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts%20
-靖天資訊台,p3p://fccs.123178.top:9906/6045b93800071301066e670ba6925741.ts
-靖洋戲劇台,p3p://fccs.123178.top:9906/60441bcb000e6baf001f77240fd6acd8.ts
-靖天國際台,tvbus://4HxmhKpX7ngoKLicSdu6CTuhA2yst2iafXcjEQ7By5VCK29VrE
-靖天電影台,p3p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-超級電影,tvbus://3uGeAYybRPtoawE4HvaqmwLp6UFmbMUd22GMxRLwfdW7fBUY8r
-天映電影,p3p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
+HBO原创,p3p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f.ts
+HBO强档 HD,p3p://fccs.123178.top:9906/60442428000dc9020040224339113352.ts	
+HBO 家庭,p3p://fccs.123178.top:9906/604339d800036fb3068cc20c2898df9c.ts		
+HBO-HD,p3p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts#p3p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81.ts
+CatchPlay電影台,p3p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594%20.ts
+CinemaWorld,p3p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
+Cinemax,p3p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
+FOX CRIME福斯警匪,p3p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
+FOX 頻道,p3p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
+FOX動作台,p3p://fccs.123178.top:9906/60440fd1000e6f3b09d0998515d1967d.ts
+Fox福斯家庭,p3p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
+FOX優質電影台,p3p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+FX-HD,p3p://fccs.123178.top:98906/60440f3c000c153709ce52e28565fc29.ts
+AXN,p3p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
+KIX電影台,p3p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+WakuWakuJapan,p3p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
+EYETV戲劇,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
+thrill電影台,p3p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
+壹電影HD,p3p://fccs.123178.top:9906/60434a87000b209606cdef9cee9a8dfe.ts
+影迷數位電影台,p3p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
+衛視電影台,p3p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+衛視西片,p3p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
+罪案偵緝頻道,p3p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
 星衛電影 HD,p3p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+天映電影,p3p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
+緯來電影,p3p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
 美亞電影台,p3p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
-光影歐洲,tvbus://3wfZaiGPSnhHZoS3kt4bixyRXcv4mWS5gpNJX9qoLDRveFajJx
-華藝影劇,tvbus://4rtzqN36BzdrAdogRTjcvfJu6fqvitFhdHmy7zjzhKFC917qtH
-華藝MBC綜合,p3p://fccs.123178.top:9906/604421d400072b6600370871d6641107.ts
-
-TVBS精彩,tvbus://4FMW9iMMVek1sNfyAuAqnvuC19AJUuHckUwPz6wRYYzqpqYuEL
-HITS,tvbus://4hBzaysCqYzF8ZD4sYvggY2npHQ1Zv678dzxB3yjNpGy9NHmxU
-龍華影劇,p3p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-
-愛爾達影劇台,p3p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+好萊塢電影,p3p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
+華納Warner TV,p3p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
 
 
-愛爾達體育3台,p3p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
-霹靂台灣台,p3p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
-Travel 旅游频道,p3p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
-Motorvision TV,tvbus://3dqTjatGUZKB4T8ZAQKHJihA6EccpYyhJH3oPSiBSrogxkmWHo
-
-博斯魅力,p3p://fccs.123178.top:9906/60445a120003530d0112b9a5dc60ca35.ts
-Eleven運動台1,p3p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-Z 頻道,p3p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-Fight Sports,tvbus://3eWmpA35Hr5HXgWdjfzPMLgrWUinNVuZgztJtoSy28vc1x7qJM
-Eleven运动台2,p3p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
-NHK World HD,p3p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
-美國高爾夫球,p3p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p3p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
-
-博斯網球,p3p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
-博斯運動1台,p3p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
-博斯運動 II,p3p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
-靖天卡通台,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
-靖洋卡通台,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
-BOOMERANG,p3p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
-靖天映畫,p3p://fccs.123178.top:9906/6045ba850003d28406737afe6daf6f4d.ts
-
-Dreamworks,p3p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
-Animax HD,p3p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
 
 
 海外©頻道,#genre#
