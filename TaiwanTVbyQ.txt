@@ -613,6 +613,66 @@ LSTime电影台,p2p://fccsovh.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.
 好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
 中國電影台,http://61.58.60.230:9319/live/225.m3u8
 
+p8p測試,#genre#
+BLUE ANT EXTREME,p3p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
+Comedy Central Asia,p3p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
+CatchPlay電影台,p3p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594%20.ts
+WakuWakuJapan,p3p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
+歐洲Euronews,p3p://fccs.123178.top:9906/60469e39000981f109ecf392ea2309d5.ts
+三立綜合台,p3p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
+三立戲劇台,p3p://fccs.123178.top:9906/60441b4f00036f62001d8ff40f884e87.ts
+靖天歡樂,p3p://fccs.123178.top:9906/6045b810000a9ac50669e3b2b61b5383.ts
+靖天日本台,p3p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts%20
+靖天資訊台,p3p://fccs.123178.top:9906/6045b93800071301066e670ba6925741.ts
+靖洋戲劇台,p3p://fccs.123178.top:9906/60441bcb000e6baf001f77240fd6acd8.ts
+靖天國際台,tvbus://4HxmhKpX7ngoKLicSdu6CTuhA2yst2iafXcjEQ7By5VCK29VrE
+靖天電影台,p3p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
+超級電影,tvbus://3uGeAYybRPtoawE4HvaqmwLp6UFmbMUd22GMxRLwfdW7fBUY8r
+天映電影,p3p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
+星衛電影 HD,p3p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+美亞電影台,p3p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
+光影歐洲,tvbus://3wfZaiGPSnhHZoS3kt4bixyRXcv4mWS5gpNJX9qoLDRveFajJx
+華藝影劇,tvbus://4rtzqN36BzdrAdogRTjcvfJu6fqvitFhdHmy7zjzhKFC917qtH
+華藝MBC綜合,p3p://fccs.123178.top:9906/604421d400072b6600370871d6641107.ts
+星衛娛樂台,p3p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
+TVBS精彩,tvbus://4FMW9iMMVek1sNfyAuAqnvuC19AJUuHckUwPz6wRYYzqpqYuEL
+HITS,tvbus://4hBzaysCqYzF8ZD4sYvggY2npHQ1Zv678dzxB3yjNpGy9NHmxU
+龍華影劇,p3p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
+龍華電影,p3p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
+龍華洋片,p3p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
+龍華戲劇,p3p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
+龍華偶像,p3p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+EYETV戲劇,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
+愛爾達影劇台,p3p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達綜合台,p3p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達體育1台,p3p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
+愛爾達體育2台,p3p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts
+愛爾達體育3台,p3p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
+霹靂台灣台,p3p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
+Travel 旅游频道,p3p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
+Motorvision TV,tvbus://3dqTjatGUZKB4T8ZAQKHJihA6EccpYyhJH3oPSiBSrogxkmWHo
+龍華動畫,p3p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
+博斯魅力,p3p://fccs.123178.top:9906/60445a120003530d0112b9a5dc60ca35.ts
+Eleven運動台1,p3p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
+Z 頻道,p3p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
+Fight Sports,tvbus://3eWmpA35Hr5HXgWdjfzPMLgrWUinNVuZgztJtoSy28vc1x7qJM
+Eleven运动台2,p3p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
+NHK World HD,p3p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
+美國高爾夫球,p3p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
+博斯高球1,p3p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
+博斯高球二台,p3p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
+博斯網球,p3p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
+博斯運動1台,p3p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
+博斯運動 II,p3p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
+靖天卡通台,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
+靖洋卡通台,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
+BOOMERANG,p3p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
+靖天映畫,p3p://fccs.123178.top:9906/6045ba850003d28406737afe6daf6f4d.ts
+愛放動漫,p3p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
+曼迪日本台,p3p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
+Dreamworks,p3p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
+Animax HD,p3p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
+
 
 海外©頻道,#genre#
 HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -4686,64 +4746,6 @@ TVB星河,http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 
 
 
-BLUE ANT EXTREME,p2p://fccs.123178.top:9806/60441771000d4807000e774ad2f62e16.ts
-Comedy Central Asia,p2p://fccs.123178.top:9806/6044183b000d06f700118c4956df7f03.ts
-CatchPlay電影台,p2p://fccs.123178.top:9806/6044191d000d8b620014ff3bef2f4594%20.ts
-WakuWakuJapan,p2p://fccs.123178.top:9806/604419f4000340840018447096a9f004.ts
-歐洲Euronews,p2p://fccs.123178.top:9806/60469e39000981f109ecf392ea2309d5.ts
-三立綜合台,p2p://fccs.123178.top:9806/60441aa3000729ad001af109e515adad.ts
-三立戲劇台,p2p://fccs.123178.top:9806/60441b4f00036f62001d8ff40f884e87.ts
-靖天歡樂,p2p://fccs.123178.top:9806/6045b810000a9ac50669e3b2b61b5383.ts
-靖天日本台,p2p://fccs.123178.top:9806/6045b8aa000389cf066c3b7385e82ede.ts%20
-靖天資訊台,p2p://fccs.123178.top:9806/6045b93800071301066e670ba6925741.ts
-靖洋戲劇台,p2p://fccs.123178.top:9806/60441bcb000e6baf001f77240fd6acd8.ts
-靖天國際台,tvbus://4HxmhKpX7ngoKLicSdu6CTuhA2yst2iafXcjEQ7By5VCK29VrE
-靖天電影台,p2p://fccs.123178.top:9806/6045b9cc00094ab70670a9bc88048a82.ts
-超級電影,tvbus://3uGeAYybRPtoawE4HvaqmwLp6UFmbMUd22GMxRLwfdW7fBUY8r
-天映電影,p2p://fccs.123178.top:9806/60441c660009af940021d366383a86ea.ts
-星衛電影 HD,p2p://fccs.123178.top:9806/60494c90000347391465f5d2b8473dbe.ts
-美亞電影台,p2p://fccs.123178.top:9806/60494bf1000472fc14638907b18fe55b.ts
-光影歐洲,tvbus://3wfZaiGPSnhHZoS3kt4bixyRXcv4mWS5gpNJX9qoLDRveFajJx
-華藝影劇,tvbus://4rtzqN36BzdrAdogRTjcvfJu6fqvitFhdHmy7zjzhKFC917qtH
-華藝MBC綜合,p2p://fccs.123178.top:9806/604421d400072b6600370871d6641107.ts
-星衛娛樂台,p2p://fccs.123178.top:9806/6044229300000d0a0039f0b6a59d1511.ts
-TVBS精彩,tvbus://4FMW9iMMVek1sNfyAuAqnvuC19AJUuHckUwPz6wRYYzqpqYuEL
-HITS,tvbus://4hBzaysCqYzF8ZD4sYvggY2npHQ1Zv678dzxB3yjNpGy9NHmxU
-龍華影劇,p2p://fccs.123178.top:9806/604347a3000cc1fe06c2a567b371c0d6.ts
-龍華電影,p2p://fccs.123178.top:9806/604426fa000c13eb004b26236e73affa.ts
-龍華洋片,p2p://fccs.123178.top:9806/6044287d000e2bb500510e64fec426ab.ts
-龍華戲劇,p2p://fccs.123178.top:9806/60442a110002751300573584bb335a71.ts
-龍華偶像,p2p://fccs.123178.top:9806/60442ac30006b54f0059edebe8733672.ts
-EYETV戲劇,p2p://fccs.123178.top:9806/60442b6d000654ae005c85e289945252.ts
-愛爾達影劇台,p2p://fccs.123178.top:9806/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合台,p2p://fccs.123178.top:9806/60689fa0000c9dae134f712965a8f823.ts
-愛爾達體育1台,p2p://fccs.123178.top:9806/6044394f000bdf980092c21d614c13c6.ts
-愛爾達體育2台,p2p://fccs.123178.top:9806/60443b320005c061009a1f44d1793932.ts
-愛爾達體育3台,p2p://fccs.123178.top:9806/60443bfe00066777009d3c4f69ab187b.ts
-霹靂台灣台,p2p://fccs.123178.top:9806/60443eff000b560c00a8f97ad079a022.ts
-Travel 旅游频道,p2p://fccs.123178.top:9806/604944bf0002e33c14476d50e1deb4e1.ts
-Motorvision TV,tvbus://3dqTjatGUZKB4T8ZAQKHJihA6EccpYyhJH3oPSiBSrogxkmWHo
-龍華動畫,p2p://fccs.123178.top:9806/6044594300037550010f9116e9856cd9.ts
-博斯魅力,p2p://fccs.123178.top:9806/60445a120003530d0112b9a5dc60ca35.ts
-Eleven運動台1,p2p://fccs.123178.top:9806/60446a54000b4ef801523d80af6dda12.ts
-Z 頻道,p2p://fccs.123178.top:9806/60446c7f000b970f015ab58bf1266ed0.ts
-Fight Sports,tvbus://3eWmpA35Hr5HXgWdjfzPMLgrWUinNVuZgztJtoSy28vc1x7qJM
-Eleven运动台2,p2p://fccs.123178.top:9806/60447228000e0e420170d2547df9954a.ts
-NHK World HD,p2p://fccs.123178.top:9806/6044741d0000e8b9017873ff81c638cb.ts
-美國高爾夫球,p2p://fccs.123178.top:9806/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p2p://fccs.123178.top:9806/604476f500023ffc01839017c2f8b12b.ts
-博斯高球二台,p2p://fccs.123178.top:9806/604477b3000746210186779063f54d2a.ts
-博斯網球,p2p://fccs.123178.top:9806/6044783c0007f05c01888ee3506bef35.ts
-博斯運動1台,p2p://fccs.123178.top:9806/604478f0000e964f018b4fb7c6ee22b4.ts
-博斯運動 II,p2p://fccs.123178.top:9806/6044799300093dbb018dcb11ecf6cc03.ts
-靖天卡通台,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
-靖洋卡通台,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
-BOOMERANG,p2p://fccs.123178.top:9806/60447a4a00022e630190941a11afdf8e.ts
-靖天映畫,p2p://fccs.123178.top:9806/6045ba850003d28406737afe6daf6f4d.ts
-愛放動漫,p2p://fccs.123178.top:9806/60447b1e000e9a430193d36877b2a95b.ts
-曼迪日本台,p2p://fccs.123178.top:9806/6068a12900029e3a13556dc2ad58c3d5.ts
-Dreamworks,p2p://fccs.123178.top:9806/60447d38000deb8b019c08cb6ec7c4d9.ts
-Animax HD,p2p://fccs.123178.top:9806/60447df7000cbc13019ef29677465e40.ts
 
 
 群里定制,#genre#
