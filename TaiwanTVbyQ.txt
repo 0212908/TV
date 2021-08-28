@@ -13,7 +13,7 @@ CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 大愛一台|９,http://61.58.60.230:9319/live/10.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視|HD１０,rtmp://59.124.75.153/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#http://v3948069e.live.126.net/live/jofjyybj15016894/33.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=29
 中視|SD１０,rtmp://59.124.75.153/sat/tv092#rtmp://161.202.204.248:1935/sat/tv092
-華視|HD１２,rtmp://59.124.75.153/sat/tv111#rtmp://161.202.204.248:1935/sat/tv111
+華視|HD１２,rtmp://59.124.75.153/sat/tv111#rtmp://161.202.204.248:1935/sat/tv111#p3p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 華視|SD１２,rtmp://59.124.75.153/sat/tv112#rtmp://161.202.204.248:1935/sat/tv112#http://v3948069e.live.126.net/live/oegwzwfo66564651/34.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=30
 公視|１３,http://v3948069e.live.126.net/live/zvrbkhqz63006590/35.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=31
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
@@ -63,6 +63,7 @@ LSTime電影台|６４,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sig
 HBO|６５,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO印尼|６５,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 東森洋片台|６６,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
+FoxFamilyMovies|６８,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 FOXMOVIES|６９,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8#http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 FOX電影|６９,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 FOX電影|越南６９,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -78,11 +79,12 @@ ELEVEN體育二台|SD７４,rtmp://59.124.75.153/sat/tv742#rtmp://161.202.204.24
 緯來日本台|HD７５,rtmp://59.124.75.153/sat/tv521#rtmp://161.202.204.248:1935/sat/tv521
 緯來日本台|SD７５,rtmp://59.124.75.153/sat/tv522#rtmp://161.202.204.248:1935/sat/tv522
 AnimaxHD|越南７７,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+愛放動漫|７７,h,p3p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
 HGTV居家樂活|印尼 ７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 FOX|７９,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 FOX|越南７９,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8 
 幸福成家|８０,http://61.58.60.230:9319/live/80.m3u8
-CHANNEL[V]|８０,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+CHANNEL[V]|８０,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8#p3p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
 Z頻道|８１,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 momo綜合台|HD８３,rtmp://59.124.75.153/sat/tv761#rtmp://161.202.204.248:1935/sat/tv761
 momo綜合台|SD８３,rtmp://59.124.75.153/sat/tv762#rtmp://161.202.204.248:1935/sat/tv762
@@ -135,10 +137,10 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 韓國阿里郎|１７５,http://61.58.60.230:9319/live/130.m3u8#http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://125.227.210.55:8933/VideoInput/play.ts#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://125.227.210.37:8933/VideoInput/play.ts
 新唐人亞太台|１７６,https://live.ntdimg.com/aplive200/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ/live
 FRANCE 24新聞|１７７,http://61.58.60.230:9319/live/131.m3u8#http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
-ELTA體育1|２００,p3p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts#mitv://147.135.39.171:9906/61000ab00009f393d200555332864fe8#tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C#tvbus://8kv3HHJ95f9f8Wm9DYtv2bXXztieEEhXabQH2q7uVqbsG6Mg4A#tvbus://6QWCbqrPq3wwbJ4L38r3G5fb3Zj5AfTm4gPgMxwJAUhvLZo87F3N3tLKGN56v#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+ELTA體育1|２００,p3p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts#p3p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts#mitv://147.135.39.171:9906/61000ab00009f393d200555332864fe8#tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C#tvbus://8kv3HHJ95f9f8Wm9DYtv2bXXztieEEhXabQH2q7uVqbsG6Mg4A#tvbus://6QWCbqrPq3wwbJ4L38r3G5fb3Zj5AfTm4gPgMxwJAUhvLZo87F3N3tLKGN56v#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 壞tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
 
-ELTA體育2|２０１,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#p2p://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#http://198.16.106.61:8278/streams/d/eltasport2_twn/playlist.m3u8#tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb#tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7#tvbus://7EsoS5HVtrc5JCnFj9Rg2GvZh4Ghi31LcYBm6v8z1gzzsb1nfM#tvbus://5hfsk3SxhLLVMowdFbbrYLK77WGeDeuP2PosHg8y8YFj8kBiheeTxp3fXKXfb
+ELTA體育2|２０１,p3p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts#p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#p2p://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#http://198.16.106.61:8278/streams/d/eltasport2_twn/playlist.m3u8#tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb#tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7#tvbus://7EsoS5HVtrc5JCnFj9Rg2GvZh4Ghi31LcYBm6v8z1gzzsb1nfM#tvbus://5hfsk3SxhLLVMowdFbbrYLK77WGeDeuP2PosHg8y8YFj8kBiheeTxp3fXKXfb
 
 ELTA體育3|２０２,p2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccseuro.pvbox.live:18912/5c7249f7000966361d58752a73813a0e#mitv://fccseuro.pvbox.live:18912/5c7249f7000966364a68feb5b5892f05#mitv://fccsovh.pvbox.live:18912/5c7249f7000966364a68feb5b5892f05#http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8#tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm#tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t#tvbus://8kLevnKMiQQAQkf3AUtTcxusFx7ucoMhHvqe5NLwSn561zvUvH#tvbus://5XSQaD5wdt8NFhC9HHX3Ek3yXYPPtWm6YXpYNVd8SXMmjHkMmtA4k5jJm8zS7
 
@@ -172,6 +174,7 @@ BBCLifestyle|２０３,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/pla
 Thrill|２１９,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 FX|２１９,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 Nat Geo Wild|２２１,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+星衛娛樂台|２２２,p3p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
 HBOHD|２２６,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
 HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
@@ -190,7 +193,7 @@ myTV SUPER|２３８,http://v3948069e.live.126.net/live/hod238.flv
 博斯網球台|２４１,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui#rtmp://161.202.204.248:1935/sat/md021#rtmp://161.202.204.248:1935/sat/md041
 博斯無限台|２４２,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
 博斯高球1台|２４３,tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
-博斯高球2台|２４４,tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
+博斯高球2台|２４４,p3p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts#tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
 博斯魅力網|２４５,rtmp://161.202.204.248:1935/sat/md031
 博斯運動一台|２４６,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo#rtmp://161.202.204.248:1935/sat/md041#p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
 孝廉電視台|２５７,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
@@ -203,6 +206,13 @@ CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5x
 緯來精采台|３１３,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 中天亞洲台|３１６,http://v3948069e.live.126.net/live/xaleuenx06057191/143.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=137
 愛爾達影劇台|３５５,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
+
+龍華動畫,p3p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
+龍華電影,p3p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
+龍華洋片,p3p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
+龍華戲劇,p3p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
+龍華偶像,p3p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+
 空氣品質監測|嘉義４０１,http://61.58.60.230:9319/live/709.m3u8
 GoodTV2|真理台４０２,http://live.streamingfast.net/osmflivech2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
 GTV3真情部落格４０３,http://live.streamingfast.net/osmflivech3.m3u8
@@ -634,24 +644,19 @@ WakuWakuJapan,p3p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
 光影歐洲,tvbus://3wfZaiGPSnhHZoS3kt4bixyRXcv4mWS5gpNJX9qoLDRveFajJx
 華藝影劇,tvbus://4rtzqN36BzdrAdogRTjcvfJu6fqvitFhdHmy7zjzhKFC917qtH
 華藝MBC綜合,p3p://fccs.123178.top:9906/604421d400072b6600370871d6641107.ts
-星衛娛樂台,p3p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
+
 TVBS精彩,tvbus://4FMW9iMMVek1sNfyAuAqnvuC19AJUuHckUwPz6wRYYzqpqYuEL
 HITS,tvbus://4hBzaysCqYzF8ZD4sYvggY2npHQ1Zv678dzxB3yjNpGy9NHmxU
 龍華影劇,p3p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-龍華電影,p3p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
-龍華洋片,p3p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
-龍華戲劇,p3p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
-龍華偶像,p3p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-EYETV戲劇,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
+
 愛爾達影劇台,p3p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合台,p3p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-愛爾達體育1台,p3p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
-愛爾達體育2台,p3p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts
+
+
 愛爾達體育3台,p3p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
 霹靂台灣台,p3p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
 Travel 旅游频道,p3p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
 Motorvision TV,tvbus://3dqTjatGUZKB4T8ZAQKHJihA6EccpYyhJH3oPSiBSrogxkmWHo
-龍華動畫,p3p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
+
 博斯魅力,p3p://fccs.123178.top:9906/60445a120003530d0112b9a5dc60ca35.ts
 Eleven運動台1,p3p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z 頻道,p3p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
@@ -660,7 +665,7 @@ Eleven运动台2,p3p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
 NHK World HD,p3p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
 美國高爾夫球,p3p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
 博斯高球1,p3p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
-博斯高球二台,p3p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
+
 博斯網球,p3p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
 博斯運動1台,p3p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
 博斯運動 II,p3p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
@@ -668,8 +673,7 @@ NHK World HD,p3p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
 靖洋卡通台,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
 BOOMERANG,p3p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
 靖天映畫,p3p://fccs.123178.top:9906/6045ba850003d28406737afe6daf6f4d.ts
-愛放動漫,p3p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
-曼迪日本台,p3p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
+
 Dreamworks,p3p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
 Animax HD,p3p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
 
