@@ -186,9 +186,10 @@ HBOHD|２２６,http://125.227.210.55:16027/VideoInput/play.ts#p3p://fccs.123178
 HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 HBOFamily|家庭２２９,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw#p2p://138.68.6.47:8290/560785230005eaa0584aacc24e0710fb#mitv://fccseuro.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6#mitv://fccsovh.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6
-國家地理悠人|２３０,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+國家地理悠人頻道|２３０,p3p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts#http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 NickJr.|２３１,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 壞tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+國家地理野生頻道|２３２,p3p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
 國家地理野生|哈薩克２３２,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 國家地理野生|印尼２３２,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 亞洲旅遊台|２３３,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#mitv://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7#mitv://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
