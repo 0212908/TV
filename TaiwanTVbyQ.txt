@@ -20,7 +20,7 @@ CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 公視|１３,http://v3948069e.live.126.net/live/zvrbkhqz63006590/35.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=31
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-國家地理頻道|１８,http://125.227.210.55:16408/VideoInput/play.ts#p3p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts#http://125.227.210.37:16408/VideoInput/play.ts
+國家地理頻道|１８,http://125.227.210.55:16408/VideoInput/play.ts#p3p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts#p3p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts#http://125.227.210.37:16408/VideoInput/play.ts
 國家地理頻道|越南１８,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 Discovery|１９,http://125.227.210.55:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
 TLC旅遊生活|２０,http://125.227.210.55:19020/VideoInput/play.ts#p3p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts#http://125.227.210.37:19020/VideoInput/play.ts
