@@ -22,7 +22,7 @@ GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_defin
 國家地理頻道|１８,http://125.227.210.55:16408/VideoInput/play.ts#p3p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts#http://125.227.210.37:16408/VideoInput/play.ts
 國家地理頻道|越南１８,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 Discovery|１９,http://125.227.210.55:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
-TLC旅遊生活|２０,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
+TLC旅遊生活|２０,http://125.227.210.55:19020/VideoInput/play.ts#p3p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts#http://125.227.210.37:19020/VideoInput/play.ts
 TLC|英２０,http://v3948069e.live.126.net/live/dbxjvaas82012788/109.flv
 動物星球|印尼２１,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 CN卡通頻道|２２,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
@@ -102,6 +102,7 @@ Kids TV|１０１,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 正德電視台|１０９,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCEaOL55dVM5xg-oX-Gs0DlQ/live
 天良綜合台|１１０,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCVDgvpdyy8VbpsiXjc-kdGQ/live
+亞洲旅游台|１１３,p3p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
 幸福空間居家|１１５,http://61.58.60.230:9319/live/125.m3u8
 大立電視台|１１９,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 華視體育文化|１２０,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
