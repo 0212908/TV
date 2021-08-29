@@ -14,6 +14,7 @@ CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 大愛一台|９,http://61.58.60.230:9319/live/10.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視|HD１０,rtmp://59.124.75.153/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#http://v3948069e.live.126.net/live/jofjyybj15016894/33.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=29
 中視|SD１０,rtmp://59.124.75.153/sat/tv092#rtmp://161.202.204.248:1935/sat/tv092
+霹靂台灣台|１１,p3p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
 華視|HD１２,rtmp://59.124.75.153/sat/tv111#rtmp://161.202.204.248:1935/sat/tv111#p3p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 華視|SD１２,rtmp://59.124.75.153/sat/tv112#rtmp://161.202.204.248:1935/sat/tv112#http://v3948069e.live.126.net/live/oegwzwfo66564651/34.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=30
 公視|１３,http://v3948069e.live.126.net/live/zvrbkhqz63006590/35.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=31
@@ -102,7 +103,7 @@ Kids TV|１０１,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 正德電視台|１０９,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCEaOL55dVM5xg-oX-Gs0DlQ/live
 天良綜合台|１１０,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCVDgvpdyy8VbpsiXjc-kdGQ/live
-亞洲旅游台|１１３,p3p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
+亞洲旅遊台|１１３,p3p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
 幸福空間居家|１１５,http://61.58.60.230:9319/live/125.m3u8
 大立電視台|１１９,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 華視體育文化|１２０,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
@@ -223,6 +224,10 @@ KIX電影台,p3p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
 CinemaWorld,p3p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
 天映電影,p3p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
 WarnerTV,p3p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
+EYE TV旅遊台,p3p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
+J SPORTS 1,p3p://fccs.123178.top:9906/606ad5bd0006520c0206b5ffd7614b79.ts
+BBC Earth,p3p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
+BBC Lifestyle,p3p://fccs.123178.top:9906/604403fd0002ca1a09a262690b80ac95.ts
 
 空氣品質監測|嘉義４０１,http://61.58.60.230:9319/live/709.m3u8
 GoodTV2|真理台４０２,http://live.streamingfast.net/osmflivech2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
