@@ -43,18 +43,18 @@ TVBS歡樂台|HD４２,rtmp://59.124.75.153/sat/tv421#rtmp://161.202.204.248:193
 TVBS歡樂台|SD４２,rtmp://59.124.75.153/sat/tv422#rtmp://161.202.204.248:1935/sat/tv422
 CYC世新綜合|４９,http://61.58.60.230:9319/live/49.m3u8
 壹電視新聞台|４９,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c76?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://stream.nexttv.com.tw/n001/playlist.m3u8#http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=46
-年代新聞台|５０,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://125.227.210.55:11055/VideoInput/play.ts#http://v3948069e.live.126.net/live/tdhzoveg27028949/41.flv#http://125.227.210.37:11055/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=37
+年代新聞台|５０,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://125.227.210.55:11055/VideoInput/play.ts#http://v3948069e.live.126.net/live/tdhzoveg27028949/41.flv#p3p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts#http://125.227.210.37:11055/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=37
 東森新聞台|５１,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=38
 中天新聞台|５２,http://seb.sason.top/sc/ztxw_fhd.m3u8#http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=36
 民視新聞台|５３,https://0.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#rtmp://45.88.148.178/channel/60c461de961593122ebafa2c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/msxw_fhd.m3u8#http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv#p3p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=32
-三立新聞台|５４,http://125.227.210.55:15589/VideoInput/play.ts#http://125.227.210.37:15589/VideoInput/play.ts
+三立新聞台|５４,http://125.227.210.55:15589/VideoInput/play.ts#p3p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts#http://125.227.210.37:15589/VideoInput/play.ts
 三立LIVE新聞|５４,http://seb.sason.top/sc/sllive_fhd.m3u8#http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=44
 TVBS新聞台|HD５５,rtmp://59.124.75.153/sat/tv551#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://161.202.204.248:1935/sat/tv551#p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5#http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv#http://125.227.210.37:16329/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=42
 TVBS新聞台|SD５５,rtmp://59.124.75.153/sat/tv552#rtmp://161.202.204.248:1935/sat/tv552
 TVBS|綜合台５６,http://v3948069e.live.126.net/live/olqudmbl26461676/44.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=40
 東森財經新聞台|HD５７,rtmp://59.124.75.153/sat/tv571#rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://v3948069e.live.126.net/live/xttzgmzd89254972/43.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=39
 東森財經新聞台|SD５７,rtmp://59.124.75.153/sat/tv572#rtmp://161.202.204.248:1935/sat/tv572
-非凡新聞台|５８,http://125.227.210.55:15078/VideoInput/play.ts#http://v3948069e.live.126.net/live/fvyokqzp68633443/49.flv#http://125.227.210.37:15078/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=45
+非凡新聞台|５８,http://125.227.210.55:15078/VideoInput/play.ts#http://v3948069e.live.126.net/live/fvyokqzp68633443/49.flv#p3p://fccs.123178.top:9906/6044966b0006d57a01fe7633c96a5506.ts#http://125.227.210.37:15078/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=45
 C+|５９,http://v3948069e.live.126.net/live/xmsilufu41943081/25.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=23
 衛視卡式台|６０,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8#http://v3948069e.live.126.net/live/sfjkfhve04255284/23.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=22
 有線電影台|６１,http://v3948069e.live.126.net/live/yvlvlvso41628534/16.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=15
@@ -629,11 +629,9 @@ LSTime电影台,p2p://fccsovh.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.
 中國電影台,http://61.58.60.230:9319/live/225.m3u8
 
 p8p測試,#genre#
-民視新聞,p3p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
-年代新聞,p3p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
-三立新聞,p3p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
+
+
 壹電視新聞台,p3p://fccs.123178.top:9906/6069902f0003db1b16fb1d83c7d47b04.ts
-非凡新聞,p3p://fccs.123178.top:9906/6044966b0006d57a01fe7633c96a5506.ts
 東森新聞,p3p://fccs.123178.top:9906/60434e0b0003696e06dba942fc6b06e1.ts
 TVBS新聞,p3p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
 互動新聞台,p3p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
