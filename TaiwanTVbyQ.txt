@@ -73,7 +73,7 @@ HBO|６５,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO印尼|６５,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 東森洋片台|６６,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
 壹電視電影台|６７,p3p://fccs.123178.top:9906/60434a87000b209606cdef9cee9a8dfe.ts
-好萊塢電影|６８,p3p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
+好萊塢電影台|６８,p3p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 FoxFamilyMovies|６８,p3p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts#p3p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 FOXMOVIES|６９,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8#p3p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts#http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 FOX電影|６９,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
