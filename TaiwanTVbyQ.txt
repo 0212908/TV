@@ -310,6 +310,9 @@ GTV50國際講員４５０,http://live.streamingfast.net/osmflivech50.m3u8
 GTV51遇見祝福４５１,http://live.streamingfast.net/osmflivech51.m3u8
 
 p8p測試,#genre#
+東森綜合,p2p://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
+東森綜合,p3p://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
+東森綜合,p3p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
 好消息,p3p://fccs.123178.top:9906/604492a5000ce2b901efba50aff106f3.ts
 華藏衛視,p3p://fccs.123178.top:9906/60463e4f0004c7480876484c7d16a8e0.ts
 華視 HD,p3p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
