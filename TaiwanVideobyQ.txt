@@ -69,12 +69,10 @@ OK,http://okjx.cc/?url=
 花椒,https://m3u8.hjimg9.com/dp/?url=
 结束
 直播：
-【分类头】私人定制-電影輪播-埋堆堆频道【分类尾】
-【私人定制头】
+【分类头】央视频道【分类尾】
+【央视频道头】
 玩命關頭9版本A,https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
 玩命關頭9版本B,https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8
-【私人定制尾】
-【電影輪播头】
 香港鬼片,http://cn-sdjn3-cu-live-01.bilivideo.com/live-bvc/874778/live_22989278_9714011_1500.m3u8 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 英叔电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
@@ -217,8 +215,6 @@ Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
 王牌对王牌,http://auney.gearhostpreview.com/huya.php?id=11601961
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-【電影輪播尾】
-【埋堆堆频道头】
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
 埋堆堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8 
 埋堆堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8 
@@ -281,5 +277,5 @@ Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
 埋堆堆66,http://121.12.115.162/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8 
 埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8 
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
-【埋堆堆频道尾】
+【央视频道尾】
 结束
