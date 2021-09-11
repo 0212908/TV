@@ -75,7 +75,6 @@ OK,http://okjx.cc/?url=
 玩命關頭9版本B,https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8
 【私人定制尾】
 【電影輪播头】
-香港鬼片,http://cn-sdjn3-cu-live-01.bilivideo.com/live-bvc/874778/live_22989278_9714011_1500.m3u8 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 英叔电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
