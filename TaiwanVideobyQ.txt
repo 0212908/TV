@@ -49,10 +49,10 @@ PPTV,http://zy.itono.cn/inc/pptv.php,解析
 结束
 解析：
 m3u8,https://www.playm3u8.cn/jiexi.php?url=
-数码小站,http://tv.shuma.ink/?url=
-乐喵,http://jx.hao-zsj.cn/vip/?url=
+數碼小站,http://tv.shuma.ink/?url=
+樂喵,http://jx.hao-zsj.cn/vip/?url=
 明日,https://www.2ajx.com/vip.php?url=
-恐怖鸭,https://m3u8.4kya.com/?url=
+恐怖鴨,https://m3u8.4kya.com/?url=
 618G,http://playx.top/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
 8090,https://www.8090.la/8090/?url=
@@ -60,12 +60,12 @@ m3u8,https://www.playm3u8.cn/jiexi.php?url=
 麻瓜,http://player.maguays.cc/?url=
 OK,http://okjx.cc/?url=
 奇米,http://qimihe.com/?url=
-思云1,https://jx.ap2p.cn/?url=
-思云2,https://api.ap2p.cn/?url=
+思雲1,https://jx.ap2p.cn/?url=
+思雲2,https://api.ap2p.cn/?url=
 最牛,https://jx.youyitv.com/?url=
-免费1,https://jx.youyitv.com/?url=
-免费2,https://api.ap2p.cn/?url=
-免费3,https://jiexi.msdv.cn/?url=
+免費1,https://jx.youyitv.com/?url=
+免費2,https://api.ap2p.cn/?url=
+免費3,https://jiexi.msdv.cn/?url=
 花椒,https://m3u8.hjimg9.com/dp/?url=
 结束
 直播：
@@ -75,24 +75,24 @@ OK,http://okjx.cc/?url=
 玩命關頭9版本B,https://cdn.605-zy.com/20210526/FQbkJ4Q0/index.m3u8
 【私人定制尾】
 【電影輪播头】
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-英叔电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+英叔電影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-娱乐,http://125.210.152.21:9120/live/GQYL.m3u8
-CHC动作电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+娛樂,http://125.210.152.21:9120/live/GQYL.m3u8
+CHC動作電影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-影视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
-影视2,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
-影视4,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
-影视5,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-影视5,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-影视6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+CHC電影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+影視1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+影視2,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
+影視4,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
+影視5,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+影視5,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+影視6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-淘娱乐[高清],http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
-老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+淘電影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+淘娛樂[高清],http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+黑莓電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
+老電影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 【電影輪播尾】
 【埋堆堆头】
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
