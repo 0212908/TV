@@ -4,7 +4,7 @@
 彩虹E台,p2p://ns2.hellotvvod.com:9906/292dfb99a1114149b4b8dd96f8287178#p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts#p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e#mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
 彩虹電影,p2p://ns2.hellotvvod.com:9906/59869bca8f7d4eb994df203f20b9fea2#p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913#p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 極限電影,p2p://ns2.hellotvvod.com:9906/acaf89fb47d045e8befad581cbfce1e6#p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts#p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-香蕉台,p2p://ns2.hellotvvod.com:9906/443252cb67f540318affc6452f092e6d#p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe#mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
+香蕉台,http://125.227.210.55:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts#p2p://ns2.hellotvvod.com:9906/443252cb67f540318affc6452f092e6d#p2p://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe#mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
 驚豔電影台,p2p://ns2.hellotvvod.com:9906/b1f2702487cd488da09ec98185a530f1#p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts#mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
 潘多拉完美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts#mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
 潘朵拉粉紅,p2p://ns2.hellotvvod.com:9906/e47b4ca507fe46f18875802484ed9185#p2p://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615#mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
