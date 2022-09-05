@@ -14,7 +14,7 @@ CNN|５,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_128
 CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 民視|６,http://50.7.61.147:30080/Entry/ftv#rtmp://59.124.75.138/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms#http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv#p3p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 人間衛視|７,p3p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
-台視|８,mitv://fccs.word-tv.com:9906/6257e8850006de950e0e6636ac2abe87#http://50.7.61.148:30080/Entry/ttv#rtmp://59.124.75.138/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071#p3p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
+台視|８,rtmp://59.124.75.138/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071#p3p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
 大愛一台|９,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視|１０,http://50.7.61.148:30080/Entry/ctv#rtmp://59.124.75.138/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#p3p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 華視|１２,rtmp://59.124.75.138/sat/tv111#http://50.7.61.147:30080/Entry/cts#rtmp://161.202.204.248:1935/sat/tv111
