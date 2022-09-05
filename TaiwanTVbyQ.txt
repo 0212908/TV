@@ -22,6 +22,7 @@ CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 公視2|台語台１４,p3p://fccs.123178.top:9906/60448ebb000b822801e06fe5cbe82807.ts
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
 原住民頻道|１６,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8#p3p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+客家電視台|１７,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 國家地理頻道|１８,http://125.227.210.55:16408/VideoInput/play.ts#http://125.227.210.37:16408/VideoInput/play.ts
 國家地理頻道(台灣)|１８,p3p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
 國家地理頻道|越南１８,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -144,9 +145,10 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 台視綜合台|１５７,
 歐洲新聞台|１５８,
 靖天資訊台|１５９,
-韓國阿里郎|１７５,hhttp://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-新唐人亞太台|１７６,https://live.ntdimg.com/aplive200/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ/live
+韓國阿里郎|１７５,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+新唐人亞太台|１７６,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223#https://live.ntdimg.com/aplive200/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ/live
 FRANCE 24新聞|１７７,http://61.58.60.230:9319/live/131.m3u8#http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
+LiveABC互動英語|１８８,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
 ELTA體育1|２００,p3p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts#p3p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts#p3p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts#mitv://147.135.39.171:9906/61000ab00009f393d200555332864fe8#tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C#tvbus://8kv3HHJ95f9f8Wm9DYtv2bXXztieEEhXabQH2q7uVqbsG6Mg4A#tvbus://6QWCbqrPq3wwbJ4L38r3G5fb3Zj5AfTm4gPgMxwJAUhvLZo87F3N3tLKGN56v#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 壞tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
 
