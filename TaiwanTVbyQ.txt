@@ -88,8 +88,9 @@ FOX|越南７９,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2
 CHANNEL[V]|８０,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8#p3p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
 Z頻道|８１,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 momo綜合台|８３,rtmp://59.124.75.138/sat/tv761#rtmp://161.202.204.248:1935/sat/tv761
-寰宇新聞|８５,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8#p3p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=35
+寰宇新聞|８５,http://www.ubvip1688.com/ublive/1f58c40793218149.m3u8
 八大娛樂台|８６,http://v3948069e.live.126.net/live/fnxvrbea86381344/134.flv#p3p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=128
+非凡商業台|８９,http://www.ubvip1688.com/ublive/b85ce9dbbf45e24b.m3u8
 諸羅藝文|９０,http://61.58.60.230:9319/live/90.m3u8
 三立財經新聞台|９２,p3p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立財經新聞台||９２,http://seb.sason.top/sc/slinews_fhd.m3u8#http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=43
