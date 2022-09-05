@@ -17,7 +17,7 @@ CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 台視|８,rtmp://59.124.75.138/sat/tv071
 大愛一台|９,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視|１０,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4#http://50.7.61.148:30080/Entry/ctv#rtmp://59.124.75.138/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#p3p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-華視|１２,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6#rtmp://59.124.75.138/sat/tv111#http://50.7.61.147:30080/Entry/cts#rtmp://161.202.204.248:1935/sat/tv111
+華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6#rtmp://59.124.75.138/sat/tv111#http://50.7.61.147:30080/Entry/cts#rtmp://161.202.204.248:1935/sat/tv111
 公視|１３,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視2|台語台１４,p3p://fccs.123178.top:9906/60448ebb000b822801e06fe5cbe82807.ts
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
@@ -33,7 +33,7 @@ TLC|英２０,http://v3948069e.live.126.net/live/dbxjvaas82012788/109.flv
 CN卡通頻道|２２,http://125.227.210.55:16671/VideoInput/play.ts#p3p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts#http://125.227.210.37:16671/VideoInput/play.ts
 Disney Channel|２３,http://125.227.210.55:14250/VideoInput/play.ts#p3p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts#http://125.227.210.37:14250/VideoInput/play.ts
 迪士尼|英２３,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-MoMo親子台|２４,p3p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+MoMo親子台|２４,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231#p3p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 八大第一台|２７,http://v3948069e.live.126.net/live/rqatqgjm22275249/131.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=125
 八大綜合台|２８,http://v3948069e.live.126.net/live/ytkhdube88257844/132.flv#p3p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=126
 三立台灣台|２９,http://sanlihalive1-a.akamaihd.net/0303cb3643ae4096bec825cd52d1e886/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1661492109~exp=9007200916233100~acl=/0303cb3643ae4096bec825cd52d1e886/*/profile_0/chunklist.m3u8*~hmac=fb3174a75f8b2df86038e9fce4c7af32557806fd3fb207aa310768c1d69b1243
@@ -50,18 +50,19 @@ tvN|印尼３１,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 TVBS歡樂台|HD４２,rtmp://59.124.75.138/sat/tv421#rtmp://161.202.204.248:1935/sat/tv421#p3p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts#http://60.251.59.179:8520/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 TVBS歡樂台|SD４２,rtmp://59.124.75.138/sat/tv422#rtmp://161.202.204.248:1935/sat/tv422
 緯來戲劇台|４３,p3p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+東森購物一台|４７,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
 CYC世新綜合|４９,http://61.58.60.230:9319/live/49.m3u8
 壹電視新聞台|４９,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8
 年代新聞台|５０,http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd#P2p://ns2.hellotvvod.com:9906/0dfd916cb908440b9b5b5b63937ab71c.ts#rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://v3948069e.live.126.net/live/tdhzoveg27028949/41.flv#p3p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=37
-東森新聞台|５１,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw#https://ytb.arp220.us/jmsytb.m3u8?c=10#http://seb.sason.top/sc/dsxw_fhd.m3u8#http://50.7.61.147:30080/Entry/etnews#http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=38
-中天新聞台|５２,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw#https://ytb.arp220.us/jmsytb.m3u8?c=5#http://seb.sason.top/sc/ztxw_fhd.m3u8#http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=36
-民視新聞台|５３,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#https://0.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#http://50.7.61.148:30080/Entry/ftvnews#rtmp://45.88.148.178/channel/60c461de961593122ebafa2c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/msxw_fhd.m3u8#http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv#p3p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=32
+東森新聞台|５１,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw#https://ytb.arp220.us/jmsytb.m3u8?c=10#http://seb.sason.top/sc/dsxw_fhd.m3u8#http://50.7.61.147:30080/Entry/etnews#http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=38
+中天新聞台|５２,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw#https://ytb.arp220.us/jmsytb.m3u8?c=5#http://seb.sason.top/sc/ztxw_fhd.m3u8#http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=36
+民視新聞台|５３,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#https://0.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#http://50.7.61.148:30080/Entry/ftvnews#rtmp://45.88.148.178/channel/60c461de961593122ebafa2c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/msxw_fhd.m3u8#http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv#p3p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=32
 三立新聞台|５４,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#http://125.227.210.55:15589/VideoInput/play.ts#p3p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts#http://125.227.210.37:15589/VideoInput/play.ts
 三立LIVE新聞|５４,http://seb.sason.top/sc/sllive_fhd.m3u8#http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=44
-TVBS新聞台|HD５５,rtmp://59.124.75.138/sat/tv551#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://161.202.204.248:1935/sat/tv551#p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5#http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv#http://125.227.210.37:16329/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=42
+TVBS新聞台|HD５５,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://161.202.204.248:1935/sat/tv551#p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5#http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv#http://125.227.210.37:16329/VideoInput/play.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=42
 TVBS新聞台|SD５５,rtmp://59.124.75.138/sat/tv552#http://50.7.61.148:30080/Entry/tvbsnews#rtmp://161.202.204.248:1935/sat/tv552
-TVBS|綜合台５６,http://50.7.61.148:30080/Entry/tvbs#http://v3948069e.live.126.net/live/olqudmbl26461676/44.flv#p3p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=40
-東森財經新聞台|HD５７,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#rtmp://59.124.75.138/sat/tv571#rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://v3948069e.live.126.net/live/xttzgmzd89254972/43.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=39
+TVBS|綜合台５６,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv073&nid=183#http://50.7.61.148:30080/Entry/tvbs#http://v3948069e.live.126.net/live/olqudmbl26461676/44.flv#p3p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=40
+東森財經新聞台|HD５７,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#rtmp://59.124.75.138/sat/tv571#rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://v3948069e.live.126.net/live/xttzgmzd89254972/43.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=39
 東森財經新聞台|SD５７,rtmp://59.124.75.138/sat/tv572#rtmp://161.202.204.248:1935/sat/tv572
 非凡新聞台|５８,http://www.ubvip1688.com/ublive/fe53830676d1e166.m3u8
 C+|５９,http://v3948069e.live.126.net/live/xmsilufu41943081/25.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=23
@@ -96,15 +97,16 @@ CHANNEL[V]|８０,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunkl
 Z頻道|８１,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 momo綜合台|８３,rtmp://59.124.75.138/sat/tv761#rtmp://161.202.204.248:1935/sat/tv761
 寰宇新聞|８５,http://www.ubvip1688.com/ublive/1f58c40793218149.m3u8
-八大娛樂台|８６,http://v3948069e.live.126.net/live/fnxvrbea86381344/134.flv#p3p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=128
+鏡電視新聞台|８６,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+八大娛樂台|８７,http://v3948069e.live.126.net/live/fnxvrbea86381344/134.flv#p3p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=128
 非凡商業台|８９,http://www.ubvip1688.com/ublive/b85ce9dbbf45e24b.m3u8
 諸羅藝文|９０,http://61.58.60.230:9319/live/90.m3u8
-三立財經新聞台|９２,p3p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-三立財經新聞台||９２,http://seb.sason.top/sc/slinews_fhd.m3u8#http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=43
+三立財經新聞台|９２,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#p3p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts#http://seb.sason.top/sc/slinews_fhd.m3u8#http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=43
 公視三台|９５,http://v3948069e.live.126.net/live/zvrbkhqz63006590/35.flv#p3p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=31
 大愛二台|９６,http://61.58.60.230:9319/live/191.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 Kids TV|１０１,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8 
 華藏衛視|１０２,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
+ELTV生活英語台|１０３,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
 信大頻道|１０６,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCZNrgK7RjNPbVsqYpM9utJw/live
 FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 正德電視台|１０９,https://linkastream.co/headless?url=https://www.youtube.com/channel/UCEaOL55dVM5xg-oX-Gs0DlQ/live
@@ -113,7 +115,7 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 幸福空間居家|１１５,http://61.58.60.230:9319/live/125.m3u8
 大立電視台|１１９,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 華視體育文化|１２０,p3p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts#tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
-華視新聞資訊|１２１,http://www.ubvip1688.com/ublive/009692cabffa81ed.m3u8
+華視新聞資訊|１２１,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://www.ubvip1688.com/ublive/009692cabffa81ed.m3u8
 國會一台|１２３,http://61.58.60.230:9319/live/123.m3u8#tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=PQLMD4iHhG8
 國會二台|１２４,http://61.58.60.230:9319/live/124.m3u8#tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo#https://linkastream.co/headless?url=https://www.youtube.com/watch?v=Vv4QaX9w9PA
 程序委員會|１２５,https://linkastream.co/headless?url=https://www.youtube.com/watch?v=L9V33TbrTGA
@@ -139,7 +141,7 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 民視第一台|１５１,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1#http://seb.sason.top/ptv/ftv.php?id=dy#http://v3948069e.live.126.net/live/epreliwi80996113/29.flv#p3p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts#http://iptv5.phoves.com.cn/api/wz7.php?id=25
 民視台灣台|１５２,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2#http://seb.sason.top/ptv/ftv.php?id=tw#http://v3948069e.live.126.net/live/htdndniz25866884/30.flv##http://iptv5.phoves.com.cn/api/wz7.php?id=26http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8#tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp#tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
 中視菁采台|１５３,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
-中視新聞台|１５４,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw#rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d58?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/zsxw_fhd.m3u8#http://v3948069e.live.126.net/live/dscspbkh98253248/37.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=33
+中視新聞台|１５４,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33#http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw#rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d58?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://seb.sason.top/sc/zsxw_fhd.m3u8#http://v3948069e.live.126.net/live/dscspbkh98253248/37.flv#http://iptv5.phoves.com.cn/api/wz7.php?id=33
 台視新聞台|１５５,http://www.ubvip1688.com/ublive/3ec72ef3e05348e3.m3u8#http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 台視財經台|１５６,http://www.ubvip1688.com/ublive/92b2441a94f26601.m3u8
 台視綜合台|１５７,
@@ -189,6 +191,7 @@ Thrill|２１９,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=mcn
 FX|２１９,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 Nat Geo Wild|２２１,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 星衛娛樂台|２２２,p3p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
+SBN全球財經台|２２４,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 HBOHD|２２６,http://125.227.210.55:16027/VideoInput/play.ts#p3p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts#http://125.227.210.37:16027/VideoInput/play.ts
 HBOHits|強檔２２７,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52#p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 HBOSignature|原創２２８,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
