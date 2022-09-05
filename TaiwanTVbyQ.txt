@@ -17,7 +17,7 @@ CNN印尼|５,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w12
 台視|８,rtmp://59.124.75.138/sat/tv071
 大愛一台|９,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視|１０,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4#http://50.7.61.148:30080/Entry/ctv#rtmp://59.124.75.138/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#p3p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-华视,rtmp://59.124.75.138/sat/tv111#http://50.7.61.147:30080/Entry/cts#rtmp://161.202.204.248:1935/sat/tv111
+華視,rtmp://59.124.75.138/sat/tv111#http://50.7.61.147:30080/Entry/cts#rtmp://161.202.204.248:1935/sat/tv111
 公視|１３,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視2|台語台１４,p3p://fccs.123178.top:9906/60448ebb000b822801e06fe5cbe82807.ts
 GoodTV|綜合台１５,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://live.streamingfast.net/osmflivech1.m3u8
