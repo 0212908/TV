@@ -1,7 +1,13 @@
 本頻道表由小Q整理 
 台灣節目表,#genre#
+斗魚 電影連播,http://hdltctwk.douyucdn2.cn/live/323876rpFaccVdDN.flv#http://akm-tct.douyucdn.cn/live/323876rpFaccVdDN.flv
+斗魚 漫威連播,http://hdltctwk.douyucdn2.cn/live/6140589rSpUBaJqE.flv#http://akm-tct.douyucdn.cn/live/6140589rSpUBaJqE.flv
+斗魚 科幻,http://hdltctwk.douyucdn2.cn/live/9651304rNptkvsCR.flv#http://akm-tct.douyucdn.cn/live/9651304rNptkvsCR.flv
+斗魚 科幻2,http://hdltctwk.douyucdn2.cn/live/252802rjeI7DResb.flv#https://akm-tct.douyucdn.cn/live/4332rMpqZeySMDIm.flv
+斗魚 邵氏影院,http://hdltctwk.douyucdn2.cn/live/4246519rBDNfgQ00.flv#https://akm-tct.douyucdn.cn/live/4246519rBDNfgQ00.flv
+斗魚 Running,http://hdltctwk.douyucdn2.cn/live/7298973rf8ZRAH9s.flv#http://akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv
+香港電影,http://111.62.156.15/tx.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8
 哆啦A夢,http://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/106639/live_8327004_5557615.m3u8
-Running,http://hdltctwk.douyucdn2.cn/live/7298973rf8ZRAH9s.flv#http://akm-tct.douyucdn.cn/live/7298973rf8ZRAH9s.flv
 MOD電影推薦|１,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8?ar=0&as=1
 BBCWorldNews|２,p3p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
 CNN|５,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8#http://125.227.210.55:10797/VideoInput/play.ts#http://93.107.103.248:8123/play/cnn/index.m3u8#http://125.227.210.37:10797/VideoInput/play.ts
